@@ -1,4 +1,7 @@
 # collaboration
+
+***ARCHIVE*: This repository is no longer active. Please see the the [Community Committee](https://github.com/nodejs/community-committee) repository for information on current efforts around supporting and growing the Node.js Community.**
+
 Facilitating Collaboration among the Node.js Working Groups.
 
 This team is just getting started. See [#1 - A Place To Start](https://github.com/nodejs/collaboration/issues/1) to follow the overall planning efforts.
