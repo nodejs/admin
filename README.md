@@ -1,12 +1,35 @@
-# collaboration
+# Administration for TSC + Community Committee collaborative efforts
+This repository is formal efforts of the Node.js project that are overseen and require input from both the TSC and CommComm. 
 
-***ARCHIVE*: This repository is no longer active. Please see the the [Community Committee](https://github.com/nodejs/community-committee) repository for information on current efforts around supporting and growing the Node.js Community.**
+Initiatives that are overseen here:
+- [Travel Fund](https://github.com/nodejs/admin/blob/master/travel_fund.md)
 
-Facilitating Collaboration among the Node.js Working Groups.
+Repositories that fall under the responsibility of the TSC and CommComm:
 
-This team is just getting started. See [#1 - A Place To Start](https://github.com/nodejs/collaboration/issues/1) to follow the overall planning efforts.
+- this repo
+- (Getting Started)https://github.com/nodejs/getting-started
+- [Collaboration Summit](https://github.com/nodejs/summit)
+- (Moderation](https://github.com/nodejs/moderation)
 
-If you're curious about our proposed scope (or have some ideas on what it should be) see [#2](https://github.com/nodejs/collaboration/issues/2)
+## Governance and Current Members
 
-Want to help? [Request Team Access](https://github.com/orgs/nodejs/teams/collaboration) and visit 
-[#3](https://github.com/nodejs/collaboration/issues/3) to introduce yourself.
+The Admin repo is overseen by the [TSC](https://github.com/nodejs/TSC) and CommComm as collaborative groups. Any action requiring consensus and voting will abide by the following process.
+
+Members of the TSC and CommComm shall operate under Lazy Consensus as a collaborative unit in the Admin repo hereby referenced as the Admin members. Members shall establish appropriate guidelines for implementing Lazy Consensus (e.g. expected notification and review time periods) within the development process.
+
+The Admin members follow a Consensus Seeking decision making model. When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
+
+If an agenda item cannot reach a consensus a member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be seconded by a majority of the Admin members or else the discussion will continue.
+
+For all votes, a simple majority of all Admin members for, or against, the issue wins. An Admin member may choose to participate in any vote through abstention.
+
+### Contacts for assistance
+- Tracy Hinds ([hackygolucky](https://github.com/hackygolucky)), Education + Community at Node.js Foundation
+- Michael Dawson ([mhdawson](https://github.com/mhdawson)), TSC Chair
+- Myles Borins ([MylesBorins](https://github.com/MylesBorins)), TSC Director
+- CommComm Chair, TBD
+
+### Admin members
+All active members of the TSC and CommComm.
+
+***ARCHIVE*: This repository is was formally Collaboration. Please see the the [Community Committee](https://github.com/nodejs/community-committee) repository for information on current efforts around supporting and growing the Node.js Community.**
