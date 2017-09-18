@@ -32,4 +32,4 @@ For all votes, a simple majority of all *Admin members* for, or against, the iss
 ### Admin members
 All active members of the TSC and CommComm.
 
-***ARCHIVE*: This repository was was formally Collaboration. Please see the the [Community Committee](https://github.com/nodejs/community-committee) repository for information on current efforts around supporting and growing the Node.js Community.**
+***ARCHIVE*: This repository was formally Collaboration. Please see the [Community Committee](https://github.com/nodejs/community-committee) repository for information on current efforts around supporting and growing the Node.js Community.**
