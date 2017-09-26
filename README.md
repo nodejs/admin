@@ -27,7 +27,10 @@ For all votes, a simple majority of all *Admin members* for, or against, the iss
 - Tracy Hinds ([hackygolucky](https://github.com/hackygolucky)), Education + Community at Node.js Foundation
 - Michael Dawson ([mhdawson](https://github.com/mhdawson)), TSC Chair
 - Myles Borins ([MylesBorins](https://github.com/MylesBorins)), TSC Director
-- CommComm Chair, TBD
+- Tierny Cyren [bnb](https://github.com/bnb), CommComm Co-Chair
+- Rachel White [rachelnicole](https://github.com/rachelnicole), CommComm Co-Chair
+- Ashley Williams [ashleygwilliams](https://github.com/ashleygwilliams), Individual Membership Director
+- William Kapke [kapke](https://github.com/kapke), Individual Membership Director
 
 ### Admin members
 All active members of the TSC and CommComm.
