@@ -24,15 +24,39 @@ If an agenda item cannot reach a consensus a member can call for either a closin
 For all votes, a simple majority of all *Admin members* for, or against, the issue wins. There must be a simple majority vote in each committee. If an individual happens to be in both committees, then they would end up with two votes. An *Admin member* may choose to participate in any vote through abstention.
 
 ### Contacts for assistance
-- Tracy Hinds ([hackygolucky](https://github.com/hackygolucky)), Education + Community at Node.js Foundation
-- Michael Dawson ([mhdawson](https://github.com/mhdawson)), TSC Chair
-- Myles Borins ([MylesBorins](https://github.com/MylesBorins)), TSC Director
-- Tierny Cyren [bnb](https://github.com/bnb), CommComm Co-Chair
-- Rachel White [rachelnicole](https://github.com/rachelnicole), CommComm Co-Chair
-- Ashley Williams [ashleygwilliams](https://github.com/ashleygwilliams), Individual Membership Director
-- William Kapke [kapke](https://github.com/kapke), Individual Membership Director
+- [@ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams**, Individual Membership Director
+- [@bnb](https://github.com/bnb) - **Tierny Cyren**, CommComm Co-Chair
+- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, Education + Community at Node.js Foundation
+- [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
+- [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**, TSC Director
+- [@rachelnicole](https://github.com/rachelnicole) - **Rachel White**, CommComm Co-Chair
+- [@williamkapke](https://github.com/williamkapke) - **William Kapke**, Individual Membership Director
 
 ### Admin members
 All active members of the TSC and CommComm.
+
+## Node.js Foundation Calendar
+A calendar of The Foundation's meetings can be found at:
+
+https://nodejs.org/calendar
+
+<sup>Click `+GoogleCalendar` at the bottom right to add to your own Google calendar.</sup>
+
+The calendar is maintained by:
+<!-- sorted by GitHub handle -->
+- [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
+- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
+- [@jasnell](https://github.com/jasnell) - **James Snell**
+- [@joshgav](https://github.com/joshgav) - **Josh Gavant**
+- [@mcollina](https://github.com/mcollina) - **Matteo Collina**
+- [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
+- [@nebrius](https://github.com/nebrius) - **Bryan Hughes**
+- [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
+- [@trott](https://github.com/trott) - **Rich Trott**
+- [@williamkapke](https://github.com/williamkapke) - **William Kapke**
+
+All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
+
+This list should be reviewed and pruned annually (at minimum). The calendar has a yearly recurring event on Jan 31st for this. An issue should be opened asking the calendar maintainers for their continued volunteering efforts (directly @-mention all members). After 1 week, this list should be PRed removing members that did not respond. [The calendar permissions to be updated once merged](https://support.google.com/a/answer/117596?hl=en).
 
 ***ARCHIVE*: This repository was formally Collaboration. Please see the [Community Committee](https://github.com/nodejs/community-committee) repository for information on current efforts around supporting and growing the Node.js Community.**
