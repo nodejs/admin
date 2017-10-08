@@ -44,6 +44,7 @@ https://nodejs.org/calendar
 
 The calendar is maintained by:
 - Bryan Hughes [@nebrius](https://github.com/nebrius)
+- Gibson Fahnestock [@gibfahn](https://github.com/gibfahn)
 - James Snell [@jasnell](https://github.com/jasnell)
 - Josh Gavant [@joshgav](https://github.com/joshgav)
 - Matteo Collina [@mcollina](https://github.com/mcollina)
