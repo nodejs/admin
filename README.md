@@ -25,11 +25,11 @@ For all votes, a simple majority of all *Admin members* for, or against, the iss
 
 ### Contacts for assistance
 - Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams), Individual Membership Director
+- Tierny Cyren [@bnb](https://github.com/bnb), CommComm Co-Chair
+- Tracy Hinds [@hackygolucky](https://github.com/hackygolucky), Education + Community at Node.js Foundation
 - Michael Dawson [@mhdawson](https://github.com/mhdawson), TSC Chair
 - Myles Borins [@MylesBorins](https://github.com/MylesBorins), TSC Director
 - Rachel White [@rachelnicole](https://github.com/rachelnicole), CommComm Co-Chair
-- Tierny Cyren [@bnb](https://github.com/bnb), CommComm Co-Chair
-- Tracy Hinds [@hackygolucky](https://github.com/hackygolucky), Education + Community at Node.js Foundation
 - William Kapke [@williamkapke](https://github.com/williamkapke), Individual Membership Director
 
 ### Admin members
@@ -43,15 +43,16 @@ https://nodejs.org/calendar
 <sup>Click `+GoogleCalendar` at the bottom right to add to your own Google calendar.</sup>
 
 The calendar is maintained by:
-- Bryan Hughes [@nebrius](https://github.com/nebrius)
+<!-- sorted by GitHub handle -->
 - Gibson Fahnestock [@gibfahn](https://github.com/gibfahn)
+- Tracy Hinds [@hackygolucky](https://github.com/hackygolucky)
 - James Snell [@jasnell](https://github.com/jasnell)
 - Josh Gavant [@joshgav](https://github.com/joshgav)
 - Matteo Collina [@mcollina](https://github.com/mcollina)
 - Michael Dawson [@mhdawson](https://github.com/mhdawson)
-- Rich Trott [@trott](https://github.com/trott)
+- Bryan Hughes [@nebrius](https://github.com/nebrius)
 - Ryan Lewis [@ryanmurakami](https://github.com/ryanmurakami)
-- Tracy Hinds [@hackygolucky](https://github.com/hackygolucky)
+- Rich Trott [@trott](https://github.com/trott)
 - William Kapke [@williamkapke](https://github.com/williamkapke)
 
 All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
