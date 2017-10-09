@@ -24,13 +24,13 @@ If an agenda item cannot reach a consensus a member can call for either a closin
 For all votes, a simple majority of all *Admin members* for, or against, the issue wins. There must be a simple majority vote in each committee. If an individual happens to be in both committees, then they would end up with two votes. An *Admin member* may choose to participate in any vote through abstention.
 
 ### Contacts for assistance
-- Ashley Williams [@ashleygwilliams](https://github.com/ashleygwilliams), Individual Membership Director
-- Tierny Cyren [@bnb](https://github.com/bnb), CommComm Co-Chair
-- Tracy Hinds [@hackygolucky](https://github.com/hackygolucky), Education + Community at Node.js Foundation
-- Michael Dawson [@mhdawson](https://github.com/mhdawson), TSC Chair
-- Myles Borins [@MylesBorins](https://github.com/MylesBorins), TSC Director
-- Rachel White [@rachelnicole](https://github.com/rachelnicole), CommComm Co-Chair
-- William Kapke [@williamkapke](https://github.com/williamkapke), Individual Membership Director
+- [@ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams**, Individual Membership Director
+- [@bnb](https://github.com/bnb) - **Tierny Cyren**, CommComm Co-Chair
+- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, Education + Community at Node.js Foundation
+- [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
+- [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**, TSC Director
+- [@rachelnicole](https://github.com/rachelnicole) - **Rachel White**, CommComm Co-Chair
+- [@williamkapke](https://github.com/williamkapke) - **William Kapke**, Individual Membership Director
 
 ### Admin members
 All active members of the TSC and CommComm.
@@ -44,16 +44,16 @@ https://nodejs.org/calendar
 
 The calendar is maintained by:
 <!-- sorted by GitHub handle -->
-- Gibson Fahnestock [@gibfahn](https://github.com/gibfahn)
-- Tracy Hinds [@hackygolucky](https://github.com/hackygolucky)
-- James Snell [@jasnell](https://github.com/jasnell)
-- Josh Gavant [@joshgav](https://github.com/joshgav)
-- Matteo Collina [@mcollina](https://github.com/mcollina)
-- Michael Dawson [@mhdawson](https://github.com/mhdawson)
-- Bryan Hughes [@nebrius](https://github.com/nebrius)
-- Ryan Lewis [@ryanmurakami](https://github.com/ryanmurakami)
-- Rich Trott [@trott](https://github.com/trott)
-- William Kapke [@williamkapke](https://github.com/williamkapke)
+- [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
+- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
+- [@jasnell](https://github.com/jasnell) - **James Snell**
+- [@joshgav](https://github.com/joshgav) - **Josh Gavant**
+- [@mcollina](https://github.com/mcollina) - **Matteo Collina**
+- [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
+- [@nebrius](https://github.com/nebrius) - **Bryan Hughes**
+- [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
+- [@trott](https://github.com/trott) - **Rich Trott**
+- [@williamkapke](https://github.com/williamkapke) - **William Kapke**
 
 All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
 
