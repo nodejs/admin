@@ -3,22 +3,21 @@ in a way that not only complies with the
 [Code of Conduct](https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md)
 but that supports the vision, mission and operating principles of the Node.js project.
 
-It is understood that members will have individual opinions and are encouraged
-to express those opinions during discussions within the organization. While
-discourse is encouraged internally, members also have the obligation outside
-of the organization (for example in social media) to be respectful of the
-decisions made within the projects's documented processes even (and especially)
-if the results run counter to their person point of view.  A member who does
-not support a team decision or current team value may express the member's
-opposition within the team in an appropriate manner, but must be extremely
-careful when expressing the opinion externally.  External communication must
-not be done with the intent of undermining a decision, project values, or
-actions of the team. If another team member expresses that they believe external
-communications appear to have the intent to undermine the committee
-it is the responsibility of the individual expressing their opinions to rectify
-the situation immediately. If a member feels that there is no recourse aside
-from going public to campain against the teams decision on an extremely
-contentious issue then they should resign from the team before doing so.
+It is understood that members will have individual opinions and will express
+their individual opinions during discussions within the organization. All
+contributors are expected to be respectful of these different viewpoints,
+and to work collaboratively with one another in a manner that constructively
+elevates all contributors.
+
+When a individual contributor chooses to accept an invitation to participate
+in a leadershp role, they implicitly take on an additional obligation to protect
+and be respectful of both the project and all other contributors.  When
+decisions are made within the established guidelines and policies
+of the project, those in leadership roles have a responsibility to uphold
+and respect the decision even if they disagree with it. This is especially
+important in external communications, for example in social media. Should
+the member be unwilling or unable to do so, then they should step down and
+resign their leadership position.
 
 Members of our leadership groups must also conduct themselves in a
 professional and respectful manner. Some general guidelines include:
@@ -49,12 +48,11 @@ professional and respectful manner. Some general guidelines include:
   speaking as much as possible
   in the first person (.I. statements) rather than in the third person.
   
-Finally, the public behavior of members reflects on the Node.js project.  It is
-often difficult for those external to the project to separate actions which 
-reflect the members private views from how they will act within
-the project.  Members are expected to avoid acting in a way that might bring
-disrepute to the Node.js organization and avoid any actions that might be
-interpreted as undermining the core values of the project.
+While the guidelines above focus primarily on the spaces where
+we participate in official foundation work (github, irc, conferences),
+it is important to recognize that the public behavior of members also
+reflects on the Node.js project.
 
-
-
+If it appears that any member of the project leadership is acting outside
+of the expectations set above please refer to our moderation policy which
+outlines the process of making an official complaint.
