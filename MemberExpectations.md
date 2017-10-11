@@ -17,7 +17,8 @@ of the project, those in leadership roles have a responsibility to uphold
 and respect the decision even if they disagree with it. This is especially
 important in external communications, for example in social media. Should
 the member be unwilling or unable to do so, then they should step down and
-resign their leadership position.
+resign their leadership position. This does not mean that decisions cannot
+be revisited and discussed within the team at a later time.
 
 Members of our leadership groups must also conduct themselves in a
 professional and respectful manner. Some general guidelines include:
