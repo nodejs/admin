@@ -9,7 +9,7 @@ contributors are expected to be respectful of these different viewpoints,
 and to work collaboratively with one another in a manner that constructively
 elevates all contributors.
 
-When a individual contributor chooses to accept an invitation to participate
+When an individual contributor chooses to accept an invitation to participate
 in a leadershp role, they implicitly take on an additional obligation to protect
 and be respectful of both the project and all other contributors.  When
 decisions are made within the established guidelines and policies
@@ -23,8 +23,6 @@ be revisited and discussed within the team at a later time.
 Members of our leadership groups must also conduct themselves in a
 professional and respectful manner. Some general guidelines include:
 
-- Serve as ambassadors of the vision, mission and operating
-  principles of the Node.js project.
 - Remediate quickly when you realize you made a mistake. Leaders are human,
   and they will make mistakes - however they should act swiftly to
   acknowledge mistakes and correct them. Most often this can mitigate
