@@ -52,6 +52,7 @@ The calendar is maintained by:
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@nebrius](https://github.com/nebrius) - **Bryan Hughes**
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
+- [@sam-github](https://github.com/sam-github) - **Sam Roberts**
 - [@trott](https://github.com/trott) - **Rich Trott**
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**
 
