@@ -45,9 +45,9 @@ professional and respectful manner. Some general guidelines include:
   whenever possible, and taking responsibility for our statements.
   
 While the guidelines above focus primarily on the spaces where
-we participate in official foundation work (GitHub, IRC, conferences),
-it is important to recognize that the public behavior of members also
-reflects on the Node.js project.
+we participate in official foundation work (GitHub, IRC, meetings,
+conferences), it is important to recognize that the public behavior
+of members also reflects on the Node.js project.
 
 If it appears that any member of the project leadership is acting outside
 of the expectations set above please refer to our
