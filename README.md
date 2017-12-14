@@ -55,6 +55,7 @@ The calendar is maintained by:
 - [@sam-github](https://github.com/sam-github) - **Sam Roberts**
 - [@trott](https://github.com/trott) - **Rich Trott**
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**
+- [@bnb](https://github.com/bnb) - **Tierney Cyren**
 
 All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
 
