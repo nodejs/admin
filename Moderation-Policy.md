@@ -260,6 +260,26 @@ a moderator.
 Once per month, the Moderation Team must provide a report of all Moderation
 actions taken by the Moderation Team to both the CommComm and TSC.
 
+### Current Members
+* [refack](https://github.com/refack) -
+**Refael Ackermann** &lt;refack@gmail.com&gt;
+* [benjamingr](https://github.com/benjamingr) -
+**Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
+* [ryanmurakami](https://github.com/ryanmurakami) -
+**Ryan Lewis** &lt;ryanharrisonlewis@gmail.comt&gt;
+* [Trott](https://github.com/Trott) -
+**Rich Trott** &lt;rtrott@gmail.com&gt;
+* [thefourtheye](https://github.com/thefourtheye) -
+**Sakthipriyan Vairamani** &lt;thechargingvolcano@gmail.com&gt;
+* [bnb](https://github.com/bnb) -
+**Tierney Cyren** &lt;hello@bnb.im&gt;
+* [hackygolucky](https://github.com/hackygolucky) -
+**Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
+* [gibfahn](https://github.com/gibfahn) -
+**Gibson Fahnestock** &lt;gibfahn@gmail.com&gt;
+* [othiym23](https://github.com/othiym23) -
+**Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+
 ## Escalation of Issues
 
 Moderation issue disputes not involving a TSC, CommComm or Moderation Team
