@@ -81,7 +81,7 @@ Anyone may request Moderation of a Post. Requesting Moderation of a Post can be
 accomplished in one of four ways:
 
 * Via the [report@nodejs.org][] email address,
-* Via private email to individual Moderation Team members,
+* Via private email to individual [Moderation Team members][],
 * Via a new Post in the same thread as the Post being requested for Moderation,
 * Via a new Post in the private nodejs/moderation repository.
 
@@ -325,6 +325,7 @@ in *favor* of the change is required.
 [Temporary and Indefinite Bans]: #temporary-and-indefinite-bans
 [Privacy of the nodejs/moderation Repository]: #privacy-of-the-nodejs-moderation-repository
 [Moderation Team]: #moderation-team
+[Moderation Team members]: #current-members
 [Escalation of Issues]: #escalation-of-issues
 [Modifications to This Policy]: #modifications-to-this-policy
 [report@nodejs.org]: mailto:report@nodejs.org
