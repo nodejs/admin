@@ -257,6 +257,9 @@ members must vote in *favor* of retaining an individual moderator.
 A simple majority vote of each the TSC and CommComm members is required to remove
 a moderator.
 
+Moderation team members have the same expections as other leadership groups
+as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
+
 Once per month, the Moderation Team must provide a report of all Moderation
 actions taken by the Moderation Team to both the CommComm and TSC.
 
