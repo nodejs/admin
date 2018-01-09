@@ -79,8 +79,8 @@ version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 ## Appendix A: The report@nodejs.org Alias
 
 *Note*: At the current time, all email sent to the `report@nodejs.org` email
-alias is copied to all members of the [Node.js TSC][].
+alias is copied to all members of the [Node.js Moderation Team][].
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
-[Node.js TSC]: https://github.com/nodejs/tsc#current-members
+[Node.js Moderation Team]: https://github.com/nodejs/admin/blob/Moderation-Policy.md#current-members
