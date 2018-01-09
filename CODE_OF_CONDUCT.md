@@ -68,8 +68,8 @@ members of the project's leadership.
 To learn more about the process of how moderators enforce the Code of Conduct, 
 review the [Moderation Policy] and [Requesting Moderation].
 
-[Moderation Policy]: https://github.com/nodejs/TSC/blob/master/Moderation-Policy.md#moderation-policy
-[Requesting Moderation]: https://github.com/nodejs/TSC/blob/master/Moderation-Policy.md#requesting-moderation
+[Moderation Policy]: https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#moderation-policy
+[Requesting Moderation]: https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#requesting-moderation
 
 ## Attribution
 
