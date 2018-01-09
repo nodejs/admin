@@ -81,7 +81,7 @@ Anyone may request Moderation of a Post. Requesting Moderation of a Post can be
 accomplished in one of four ways:
 
 * Via the [report@nodejs.org][] email address,
-* Via private email to individual Moderation Team members,
+* Via private email to individual [Moderation Team members][],
 * Via a new Post in the same thread as the Post being requested for Moderation,
 * Via a new Post in the private nodejs/moderation repository.
 
@@ -260,6 +260,26 @@ a moderator.
 Once per month, the Moderation Team must provide a report of all Moderation
 actions taken by the Moderation Team to both the CommComm and TSC.
 
+### Current Members
+* [refack](https://github.com/refack) -
+**Refael Ackermann** &lt;refack@gmail.com&gt;
+* [benjamingr](https://github.com/benjamingr) -
+**Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
+* [ryanmurakami](https://github.com/ryanmurakami) -
+**Ryan Lewis** &lt;ryanharrisonlewis@gmail.comt&gt;
+* [Trott](https://github.com/Trott) -
+**Rich Trott** &lt;rtrott@gmail.com&gt;
+* [thefourtheye](https://github.com/thefourtheye) -
+**Sakthipriyan Vairamani** &lt;thechargingvolcano@gmail.com&gt;
+* [bnb](https://github.com/bnb) -
+**Tierney Cyren** &lt;hello@bnb.im&gt;
+* [hackygolucky](https://github.com/hackygolucky) -
+**Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
+* [gibfahn](https://github.com/gibfahn) -
+**Gibson Fahnestock** &lt;gibfahn@gmail.com&gt;
+* [othiym23](https://github.com/othiym23) -
+**Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+
 ## Escalation of Issues
 
 Moderation issue disputes not involving a TSC, CommComm or Moderation Team
@@ -305,6 +325,7 @@ in *favor* of the change is required.
 [Temporary and Indefinite Bans]: #temporary-and-indefinite-bans
 [Privacy of the nodejs/moderation Repository]: #privacy-of-the-nodejs-moderation-repository
 [Moderation Team]: #moderation-team
+[Moderation Team members]: #current-members
 [Escalation of Issues]: #escalation-of-issues
 [Modifications to This Policy]: #modifications-to-this-policy
 [report@nodejs.org]: mailto:report@nodejs.org
