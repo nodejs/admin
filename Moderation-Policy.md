@@ -24,19 +24,16 @@ moderation request, please see [Requesting Moderation][]
 By default, this policy applies to all repositories under the Node.js GitHub
 Organization and all Node.js Working Groups.
 
-Individual Working Groups and Top Level Projects may adopt an alternative
-Moderation Policy for any repository under their stewardship so long as:
-
-* The Moderation Policy is openly documented as part of the Working Group or
-  Project Charter and;
-* Includes provisions for clearly and openly documenting Moderation actions
-  taken.
+Individual Working Groups may adopt an alternative Moderation Policy for any
+repository under their stewardship so long as the Moderation Policy is
+openly documented as part of the Working Group charter and includes provisions
+for clearly and openly documenting Moderation actions taken.
 
 If a particular repository can be considered to fall under the stewardship of
-multiple Working Groups (or Top Level Projects) that have adopted different
-Moderation Policies, they can choose to either:
+multiple Working Groups that have adopted different Moderation Policies, they
+can choose to either:
 
-* Decide between themselves which Moderation Policy will be in effect for the
+* Decide among themselves which Moderation Policy will be in effect for the
   repository in question, or
 * Ask the TSC to determine which Moderation Policy should apply.
 
