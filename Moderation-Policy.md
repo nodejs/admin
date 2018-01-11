@@ -241,9 +241,9 @@ removed from the Node.js GitHub organization.
 
 The Node.js Moderation Team is tasked with enforcement of this policy.
 
-Moderation team members are Collaborators who self-nominate or are nominated by either the TSC or
-CommComm, and must be approved by *both* committees with annual recertification.
-If there are no objections after seven days, the nomination is automatically
+Moderation team members are Collaborators who self-nominate or are nominated by either 
+the TSC or CommComm. Team members must be approved by *both* committees with annual 
+recertification. If there are no objections after seven days, the nomination is automatically
 accepted. If there are objections to a specific nomination, then a simple majority
 vote of each the TSC and CommComm members in *favor* of the nomination is required.
 
