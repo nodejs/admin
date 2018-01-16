@@ -22,7 +22,9 @@ moderation request, please see [Requesting Moderation][]
 ## Applicability
 
 By default, this policy applies to all repositories under the Node.js GitHub
-Organization and all Node.js Working Groups.
+Organization and all Node.js Working Groups. This policy also applies to the
+[Node.js Slack Community](http://node-js.slack.com), supported by the Admin 
+team of the Slack organization.
 
 Individual Working Groups may adopt an alternative Moderation Policy for any
 repository under their stewardship so long as the Moderation Policy is
