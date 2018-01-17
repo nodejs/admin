@@ -262,7 +262,7 @@ as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectation
 Once per month, the Moderation Team must provide a report of all Moderation
 actions taken by the Moderation Team to both the CommComm and TSC.
 
-### Current Members
+### Current Members of Moderation Team
 * [refack](https://github.com/refack) -
 **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [benjamingr](https://github.com/benjamingr) -
@@ -281,6 +281,14 @@ actions taken by the Moderation Team to both the CommComm and TSC.
 **Gibson Fahnestock** &lt;gibfahn@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+
+### Admins for Node.js Slack community
+* [ljharb](https://github.com/ljharb) -
+**Jordan Harband** &lt;ljharb@gmail.com&gt;
+* [jxm262](https://github.com/jxm262) -
+**Justin Maat** &lt;jxm262@gmail.com&gt;
+* [hackygolucky](https://github.com/hackygolucky) -
+**Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 
 ## Escalation of Issues
 
