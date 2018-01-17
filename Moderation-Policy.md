@@ -283,6 +283,8 @@ actions taken by the Moderation Team to both the CommComm and TSC.
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 
 ### Admins for Node.js Slack community
+* [alextes](https://github.com/alextes) -
+**Alexander Tesfamichael** &lt; alex.tesfamichael@gmail.com&gt;
 * [ljharb](https://github.com/ljharb) -
 **Jordan Harband** &lt;ljharb@gmail.com&gt;
 * [jxm262](https://github.com/jxm262) -
