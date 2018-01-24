@@ -59,8 +59,8 @@ this default policy applies.
   permissions for an individual Collaborator's GitHub account from *all*
   Node.js GitHub Organization repositories as well as removing the account from
   the Node.js GitHub Organization membership.
-* *Blocks* refers to the act of blocking an individual GitHub account from any
-  further participation in the Node.js GitHub Organization. Blocks may be
+* *Block* refers to the act of prohibiting an individual GitHub account from any
+  further participation in the Node.js GitHub Organization. A block may be
   *temporary* or *indefinite*.
 * *Requester* refers to an individual requesting Moderation on a Post.
 
