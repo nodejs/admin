@@ -13,7 +13,7 @@ moderation request, please see [Requesting Moderation][]
   * [Non-Collaborator Posts][]
   * [Escalation to the TSC][]
   * [Temporary Interaction Limits][]
-  * [Temporary and Indefinite Bans][]
+  * [Temporary and Indefinite Blocks][]
 * [Privacy of the nodejs/moderation Repository][]
 * [Moderation Team][]
 * [Escalation of Issues][]
@@ -59,8 +59,8 @@ this default policy applies.
   permissions for an individual Collaborator's GitHub account from *all*
   Node.js GitHub Organization repositories as well as removing the account from
   the Node.js GitHub Organization membership.
-* *Ban* refers to the act of blocking an individual GitHub account from any
-  further participation in the Node.js GitHub Organization. Bans may be
+* *Block* refers to the act of prohibiting an individual GitHub account from any
+  further participation in the Node.js GitHub Organization. A block may be
   *temporary* or *indefinite*.
 * *Requester* refers to an individual requesting Moderation on a Post.
 
@@ -135,13 +135,13 @@ a Post from Moderation.
 * Any Collaborator with commit rights to a given repository may Moderate Posts
   within that repository's issue tracker.
 * The Moderation Team serves as the final arbiter for all Moderation issues.
-* Moderation Team members may Remove or Ban an individual from the Node.js
+* Moderation Team members may Remove or Block an individual from the Node.js
   GitHub Organization.
-* For any Removal or Banning action, an issue describing the reasons for the
+* For any Removal or Blocking action, an issue describing the reasons for the
   action, and identifying the Github account being acted upon, must be posted
   to the Moderation Repository with an explanation provided by the Moderation
   Team member performing the action.
-* Any individual Banned from the Node.js GitHub Organization will be recommended
+* Any individual Blocked from the Node.js GitHub Organization will be recommended
   for exclusion from any Node.js Foundation sponsored event or activity.
 * Minor edits to the formatting of a Post or to correct typographical errors
   are not considered to be "Moderation". Such edits and their intent should
@@ -160,14 +160,14 @@ a Post from Moderation.
   * Explain the justification for Moderating the post,
   * Identify all changes made to the Post, and
   * Identify the steps previously taken to resolve the issue.
-  * If the Moderation action included Banning, an indication of whether the Ban
+  * If the Moderation action included Blocking, an indication of whether the Block
     is temporary or indefinite is required, along with an issue posted to the
     moderation repository justifying the action.
 * Explanations of Moderation actions on Collaborator Posts must be provided in:
   * A new post within the original thread, or
   * A new issue within the private nodejs/moderation repository.
 * Any Collaborator habitually violating the Code of Conduct or this Moderation
-  policy may be Banned temporarily or, in extreme cases, Removed and Banned
+  policy may be Blocked temporarily or, in extreme cases, Removed and Blocked
   indefinitely.
 
 ### Non-Collaborator Posts
@@ -178,7 +178,7 @@ of the [Code of Conduct][].
 * When Moderating non-Collaborator Posts, the moderating Collaborator should:
   * Explain the justification for Moderating the post, and
   * Identify all changes made to the Post.
-  * If the Moderation action included Banning, an indication of whether the Ban
+  * If the Moderation action included Blocking, an indication of whether the Block
     is temporary or indefinite is required, along with a note justifying the
     action.
 * If an explanation of a Moderation action for a non-Collaborator Post is
@@ -187,14 +187,14 @@ of the [Code of Conduct][].
   * A new post within the original thread, or
   * A new issue within the private nodejs/moderation repository.
 * Moderation of Posts authored by non-Collaborators may result in those
-  non-Collaborators being Banned temporarily or indefinitely from further
+  non-Collaborators being Blocked temporarily or indefinitely from further
   participation in the Node.js GitHub organization.
 * In the case where a GitHub Account appears to have been created with no
   intention to collaborate in good faith, swift actions may be taken without
-  following the above procedures including: removing Posts, Banning
+  following the above procedures including: removing Posts, Blocking
   indefinitely, and reporting accounts to GitHub.
 * Accounts that are reasonably believed to be bots (other than bots authorized
-  by the TSC) are subject to immediate Banning.
+  by the TSC) are subject to immediate Blocking.
 
 Note that Moderating non-Collaborator posts can often lead to retaliation or
 escalation of inappropriate behavior by the individual whose post is being
@@ -214,13 +214,13 @@ Interaction Limits by posting an issue to the moderation repository. If the
 Moderation Team choose not to do so, then a comment explaining why that
 decision was made should be added to the moderation repository thread.
 
-### Temporary and Indefinite Bans
+### Temporary and Indefinite Blocks
 
-A Temporary Ban is time limited, with the timeframe decided on by the Moderation
+A Temporary Block is time limited, with the timeframe decided on by the Moderation
 Team at the time of issuing, depending on the severity of the issue. Recommended
 default options are 24-hour, 48-hour, and 7-day periods.
 
-An Indefinite Ban is set for an unspecified period of time and may only be
+An Indefinite Block is set for an unspecified period of time and may only be
 lifted for an individual through a simple majority vote of the Moderation
 Team.
 
@@ -322,7 +322,7 @@ in *favor* of the change is required.
 [Non-Collaborator Posts]: #non-collaborator-posts
 [Escalation to the TSC]: #escalation-to-the-tsc
 [Temporary Interaction Limits]: #temporary-interaction-limits
-[Temporary and Indefinite Bans]: #temporary-and-indefinite-bans
+[Temporary and Indefinite Blocks]: #temporary-and-indefinite-blocks
 [Privacy of the nodejs/moderation Repository]: #privacy-of-the-nodejs-moderation-repository
 [Moderation Team]: #moderation-team
 [Moderation Team members]: #current-members
