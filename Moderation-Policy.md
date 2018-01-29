@@ -307,7 +307,7 @@ CommComm. When modifications are proposed, if there are no objections after
 any proposed change, a simple majority vote of each of the CommComm and TSC
 in *favor* of the change is required.
 
-[Code of Conduct]: https://gitHub.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
+[Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
 [Node.js Technical Steering Committee]: https://github.com/nodejs/node#tsc-technical-steering-committee
 [Node.js Community Committee]: https://github.com/nodejs/community-committee
 [GitHub's access permissions documentation]: https://help.github.com/articles/access-permissions-on-github/
