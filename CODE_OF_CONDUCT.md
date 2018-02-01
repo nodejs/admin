@@ -83,4 +83,4 @@ alias is copied to all members of the [Node.js Moderation Team][].
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
-[Node.js Moderation Team]: https://github.com/nodejs/admin/blob/Moderation-Policy.md#current-members
+[Node.js Moderation Team]: https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#current-members
