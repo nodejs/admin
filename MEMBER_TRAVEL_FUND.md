@@ -62,6 +62,6 @@ Tobias Nießen | NINA 2017 | Collaborator Summit and Code & Learn | Vancouver, B
 Tiancheng Gu | NINA 2017 | Collaborator Summit | Vancouver, BC, CA | 3 Oct – 8 Oct 2017 | US$ 1200
 Ruben Bridgewater | NINA 2017 | Collaborator Summit and Code & Learn | Vancouver, BC, CA | 4 Oct - 8 Oct 2017 | €1500
 Joyee Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13 Feb 2018 | US$ 1400
-Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendence & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
+Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
 ## 2017 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel funding for the remainder of 2017 was approved in the amount of $67,000.
