@@ -44,18 +44,14 @@ https://nodejs.org/calendar
 
 The calendar is maintained by:
 <!-- sorted by GitHub handle -->
+- [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
-- [@jasnell](https://github.com/jasnell) - **James Snell**
-- [@joshgav](https://github.com/joshgav) - **Josh Gavant**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
-- [@nebrius](https://github.com/nebrius) - **Bryan Hughes**
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
-- [@sam-github](https://github.com/sam-github) - **Sam Roberts**
 - [@trott](https://github.com/trott) - **Rich Trott**
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**
-- [@bnb](https://github.com/bnb) - **Tierney Cyren**
 
 All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
 
