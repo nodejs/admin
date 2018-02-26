@@ -27,7 +27,7 @@ to approve or decline.
 
 ### Reimbursement
 
-Once the request has been approved, provide receipts as attachments in an email stating your name, the participation covered, and the total approved for reimbursement. Send to ap@linuxfoundation.org and cc tracyhinds@linuxfoundation.org with subject `Node.js Member Travel Fund`. Due to privacy, the Individual Members list is not public. This team will verify the requester is on the Individual Members list before funds are dispersed. This dispersement is generally processed within 30 days. The community manager or a member of the Node.js Foundation team within the Linux Foundation will report back amounts consumed from the travel allocation on a monthly basis to the Chairs.
+Once the request has been approved, provide receipts as attachments in an email stating your name, the participation covered, and the total approved for reimbursement. Send to ap@linuxfoundation.org and cc mrhinkle@linuxfoundation.org with subject `Node.js Member Travel Fund`. Due to privacy, the Individual Members list is not public. This team will verify the requester is on the Individual Members list before funds are dispersed. This dispersement is generally processed within 30 days. The community manager or a member of the Node.js Foundation team within the Linux Foundation will report back amounts consumed from the travel allocation on a monthly basis to the Chairs.
 
 **The following considerations are made for approval of the request:**
 
