@@ -64,6 +64,7 @@ Ruben Bridgewater | NINA 2017 | Collaborator Summit and Code & Learn | Vancouver
 Mihai Ene-Pietrosanu | Index 2018 | Collaborator & Learn | Portland, OR, US | 20Feb 2018 | US$ 283
 Joyee Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13 Feb 2018 | US$ 1650
 Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
+Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Lean Mentor | Berlin, Germany | May 31 - June 3 2018 | $1000
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
