@@ -26,7 +26,6 @@ For all votes, a simple majority of all *Admin members* for, or against, the iss
 ### Contacts for assistance
 - [@ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams**, Individual Membership Director
 - [@bnb](https://github.com/bnb) - **Tierny Cyren**, CommComm Co-Chair
-- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, Education + Community at Node.js Foundation
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**, TSC Director
 - [@rachelnicole](https://github.com/rachelnicole) - **Rachel White**, CommComm Co-Chair
