@@ -260,7 +260,7 @@ to continue as a moderator, a simple majority vote of each the TSC and CommComm
 members must vote in *favor* of retaining an individual moderator.
 
 New Moderation Team members are onboarded with:
-- an invite to Slack
+- an invite to Node.js Moderation Team Slack
 - permission changes made to GitHub to allow access to moderate
 - a walkthrough of relevant processes, expectations, and documents by an existing Moderation Team member
 - access to existing documents
