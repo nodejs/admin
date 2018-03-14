@@ -241,6 +241,14 @@ removed from the Node.js GitHub organization.
 
 The Node.js Moderation Team is tasked with enforcement of this policy.
 
+Moderation team members have the same expections as other leadership groups
+as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
+
+Once per month, the Moderation Team must provide a report of all Moderation
+actions taken by the Moderation Team to both the CommComm and TSC.
+
+*Nomination*
+
 Moderation team members are Collaborators who self-nominate or are nominated by either 
 the TSC or CommComm. Team members must be approved by *both* committees with annual 
 recertification. If there are no objections after seven days, the nomination is automatically
@@ -251,14 +259,28 @@ An annual recertification vote is required for all moderators. For an individual
 to continue as a moderator, a simple majority vote of each the TSC and CommComm
 members must vote in *favor* of retaining an individual moderator.
 
+New Moderation Team members are onboarded with:
+- an invite to Slack
+- permission changes made to GitHub to allow access to moderate
+- a walkthrough of relevant processes, expectations, and documents by an existing Moderation Team member
+- access to existing documents
+
+*Departure*
+
 A simple majority vote of each the TSC and CommComm members is required to remove
 a moderator.
 
-Moderation team members have the same expections as other leadership groups
-as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
+*Resignation*
 
-Once per month, the Moderation Team must provide a report of all Moderation
-actions taken by the Moderation Team to both the CommComm and TSC.
+At any time a Moderation Team member may notify the team that they will no longer be serving. 
+Either the resigning member or an active member will file an issue notifying the Admin group 
+that the team member is stepping down. An active team member will take necessary steps to 
+remove resigning team member from respective permissions and private access.
+
+*Emeriti*
+
+Past Moderation Team members in good standing are given Emeritus status. Emeriti must go 
+through the full approval process in order to become a Moderation Team member again.
 
 ### Current Members
 * [refack](https://github.com/refack) -
