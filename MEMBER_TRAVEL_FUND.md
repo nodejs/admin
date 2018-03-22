@@ -64,6 +64,7 @@ Ruben Bridgewater | NINA 2017 | Collaborator Summit and Code & Learn | Vancouver
 Mihai Ene-Pietrosanu | Index 2018 | Collaborator & Learn | Portland, OR, US | 20Feb 2018 | US$ 283
 Joyee Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13 Feb 2018 | US$ 1650
 Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
+Ben Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1450
 Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - June 3 2018 | $1000
 Hassan Sani | Collab Summit Spring 2018 | Attendance & Code & Learn | Berlin, Germany | May 30 - Jun 3 2018 | $1,000
 
