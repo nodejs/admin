@@ -67,6 +67,7 @@ Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mento
 Ben Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1450
 Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - June 3 2018 | $1000
 Hassan Sani | Collab Summit Spring 2018 | Attendance & Code & Learn | Berlin, Germany | May 30 - Jun 3 2018 | $1,000
+Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$2200
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
