@@ -47,6 +47,7 @@ The calendar is maintained by:
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
 - [@trott](https://github.com/trott) - **Rich Trott**
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**
+- [@maddhruv][https://github.com/maddhruv] - **Dhruv Jain**
 
 All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
 
