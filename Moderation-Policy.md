@@ -244,7 +244,7 @@ The Node.js Moderation Team is tasked with enforcement of this policy.
 Moderation team members have the same expections as other leadership groups
 as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
 
-Once per month, the Moderation Team must provide a report of all Moderation
+At least once per month, the Moderation Team must provide a report of all Moderation
 actions taken by the Moderation Team to both the CommComm and TSC.
 
 *Nomination*
