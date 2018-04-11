@@ -50,7 +50,7 @@ conferences), it is important to recognize that the public behavior
 of members also reflects on the Node.js project.
 
 If you're interested in an introduction to diversity inclusion, and unconscious bias, 
-[Try this free training offered by our partners at the Linux Foundation](https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/inclusive-speaker-orientation).
+[try this free training offered by our partners at the Linux Foundation](https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/inclusive-speaker-orientation).
 
 If it appears that any member of the project leadership is acting outside
 of the expectations set above please refer to our
