@@ -40,6 +40,7 @@ https://nodejs.org/calendar
 The calendar is maintained by:
 <!-- sorted by GitHub handle -->
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
+- [@dshaw](https://github.com/dshaw) - **Dan Shaw**
 - [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
