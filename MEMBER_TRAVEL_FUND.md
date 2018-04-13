@@ -104,7 +104,7 @@ Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitatio
 Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$2200
 Richard Littauer | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 3 2018 | $800
 Benjamin Zaslavsky | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative | Berlin, Germany | May 31 - Jun 1 2018 | $385.59
-Agiri Abraham JNR | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative & Mentorship | Berlin, Germany | May 31 - Jun 1 2018 | $1765.00
+Agiri Abraham JNR | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative & Mentorship | Berlin, Germany | May 31 - Jun 3 2018 | $1765.00
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
