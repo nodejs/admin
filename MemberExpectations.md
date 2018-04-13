@@ -10,7 +10,7 @@ and to work collaboratively with one another in a manner that constructively
 elevates all contributors.
 
 When an individual contributor chooses to accept an invitation to participate
-in a leadershp role, they implicitly take on an additional obligation to protect
+in a leadership role, they implicitly take on an additional obligation to protect
 and be respectful of both the project and all other contributors.  When
 decisions are made within the established guidelines and policies
 of the project, those in leadership roles have a responsibility to uphold
