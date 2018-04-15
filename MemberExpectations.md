@@ -49,7 +49,7 @@ we participate in official foundation work (GitHub, IRC, meetings,
 conferences), it is important to recognize that the public behavior
 of members also reflects on the Node.js project.
 
-If you're interested in an introduction to diversity inclusion, and unconscious bias, 
+If you're interested in an introduction to diversity, inclusion, and unconscious bias, 
 [try this free training offered by our partners at the Linux Foundation](https://training.linuxfoundation.org/linux-courses/open-source-compliance-courses/inclusive-speaker-orientation).
 
 If it appears that any member of the project leadership is acting outside
