@@ -42,7 +42,7 @@ The calendar is maintained by:
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
-- [@maddhruv][https://github.com/maddhruv] - **Dhruv Jain**
+- [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
