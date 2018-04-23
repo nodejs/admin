@@ -66,7 +66,7 @@ Collaborator Summit, and Code + Learn mentoring.
 Once the request has been approved, you must:  
 1. Provide receipts as attachments in an email stating your name, the participation covered,
 and the total approved for reimbursement. 
-2. Fill out and attach the [Expense Report](./expense-report-template.xls).
+2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
 3. Email this reimbursement request to ap@linuxfoundation.org and cc
 mrhinkle@linuxfoundation.org and annmarie@thisdot.co. 
 
