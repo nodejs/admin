@@ -22,7 +22,9 @@ moderation request, please see [Requesting Moderation][]
 ## Applicability
 
 By default, this policy applies to all repositories under the Node.js GitHub
-Organization and all Node.js Working Groups.
+Organization and all Node.js Working Groups. This policy also applies to the
+[Node.js Slack Community](http://node-js.slack.com), supported by the Admin 
+team of the Slack organization.
 
 Individual Working Groups may adopt an alternative Moderation Policy for any
 repository under their stewardship so long as the Moderation Policy is
@@ -260,7 +262,7 @@ as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectation
 Once per month, the Moderation Team must provide a report of all Moderation
 actions taken by the Moderation Team to both the CommComm and TSC.
 
-### Current Members
+### Current Members of Moderation Team
 * [refack](https://github.com/refack) -
 **Refael Ackermann** &lt;refack@gmail.com&gt;
 * [benjamingr](https://github.com/benjamingr) -
@@ -279,6 +281,18 @@ actions taken by the Moderation Team to both the CommComm and TSC.
 **Gibson Fahnestock** &lt;gibfahn@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+
+### Admins for Node.js Slack community
+* [alextes](https://github.com/alextes) -
+**Alexander Tesfamichael** &lt;alex.tesfamichael@gmail.com&gt;
+* [aredridel](https://github.com/aredridel) -
+**Aria Stewart** &lt;aredridel@dinhe.net&gt;
+* [ljharb](https://github.com/ljharb) -
+**Jordan Harband** &lt;ljharb@gmail.com&gt;
+* [jxm262](https://github.com/jxm262) -
+**Justin Maat** &lt;jxm262@gmail.com&gt;
+* [hackygolucky](https://github.com/hackygolucky) -
+**Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 
 ## Escalation of Issues
 
