@@ -63,11 +63,14 @@ Collaborator Summit, and Code + Learn mentoring.
 
 ### Reimbursement
 
-Once the request has been approved, provide receipts as attachments in an email
-stating your name, the participation covered, and the total approved for
-reimbursement. Send to ap@linuxfoundation.org and cc
-mrhinkle@linuxfoundation.org with subject `Node.js Member Travel Fund`. Due to
-privacy, the Individual Members list is not public. This team will verify the
+Once the request has been approved, you must:  
+1. Provide receipts as attachments in an email stating your name, the participation covered,
+and the total approved for reimbursement. 
+2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
+3. Email this reimbursement request to ap@linuxfoundation.org and cc
+mrhinkle@linuxfoundation.org and annmarie@thisdot.co. 
+
+Due to privacy, the Individual Members list is not public. This team will verify the
 requester is on the Individual Members list before funds are disbursed. This
 disbursement is generally processed within 30 days. The community manager or a
 member of the Node.js Foundation team within the Linux Foundation will report
