@@ -80,9 +80,9 @@ and the total approved for reimbursement.
 3. Email this reimbursement request to ap@linuxfoundation.org and cc
 mrhinkle@linuxfoundation.org and annmarie@thisdot.co. 
 
-It's important for record keeping that approved requests are submitted for reimbursement 
-in a timely fashion. It's been requested that expense reports are submitted within the 
-same calendar year, and ideally within one calendar month of the event date when possible. 
+Submit reports within twithin one calendar month of the event date. For record
+keeping, approved requests need to be submitted for reimbursement in a timely
+fashion. 
 
 Due to privacy, the Individual Members list is not public. This team will verify the
 requester is on the Individual Members list before funds are disbursed. This
