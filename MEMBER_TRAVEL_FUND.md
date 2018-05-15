@@ -48,7 +48,7 @@ example, for the TSC, there is a voting process to make decisions when consensus
 cannot be reached.)
 
 An appointed treasurer from either the @nodejs/tsc or @nodejs/community-committee
-(or both) will liason with a member of the Node.js Foundation on a regular basis 
+(or both) will liaise with a member of the Node.js Foundation on a regular basis 
 to review the status of the travel fund. In the event that any pending requests 
 might not be approved because of available funds, a separate issue will be raised.
 Generally speaking, however, members shouldn't need to worry about the status
