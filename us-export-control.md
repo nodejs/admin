@@ -45,7 +45,7 @@ mail sent to this address will be forwarded to the following:
 
 As part of the notification emails we must list a primary and secondary
 contact. The primary contact will be the Foundation executive director
-and the secondary the TSC Directory representative. These two individuals
+and the secondary the TSC Director representative. These two individuals
 were selected as they are representatives of the Foundation either as
 a board member or an executive of the Foundation.
 
