@@ -3,7 +3,7 @@
 The United States imposes some controls over the export of cryptography.
 These controls include special allowances for open source software like Node.js.
 
-Best practice based as advised by the Node.js foundation is to
+Best practice based as advice from the Node.js Foundation is to
 follow the "Technology and Software-Unrestricted" (TSU) licensing exception
 procedures. These procedures require the following:
 
