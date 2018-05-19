@@ -124,6 +124,7 @@ Benjamin Zaslavsky | Collab Summit Spring 2018 | Attendance - Inclusivity Initia
 Agiri Abraham JNR | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative & Mentorship | Berlin, Germany | May 31 - Jun 3 2018 | $1765.00
 Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 1 2018 | $1500
 Никита Сковорода | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €735
+Ben Michel | Node.js at MSBuild 2018 | Node.js Collaboration & CommComm Representation | Seattle Washington, USA | May 6 - 9 | $402
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
