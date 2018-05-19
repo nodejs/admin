@@ -37,6 +37,8 @@ A request is approved when all of the following criteria are met:
   will always require at least four approvals.)
 * No members of either @nodejs/tsc or @nodejs/community-committee have objected
   to the request.
+* The pull request has been merged. Any member may merge once other 
+  prerequisites have been met. 
 
 If a request is blocked by an objection from a member of @nodejs/tsc or
 @nodejs/community-committee, then the only way for the request to be approved is
@@ -44,6 +46,13 @@ for that committee to decide to approve the request using whatever
 decision-making process the  committee uses when consensus is not reached. (For
 example, for the TSC, there is a voting process to make decisions when consensus
 cannot be reached.)
+
+An appointed treasurer from either the @nodejs/tsc or @nodejs/community-committee
+(or both) will liaise with a member of the Node.js Foundation on a regular basis 
+to review the status of the travel fund. In the event that any pending requests 
+might not be approved because of available funds, a separate issue will be raised.
+Generally speaking, however, members shouldn't need to worry about the status
+of the fund itself.
 
 **The following considerations are made for approval of the request:**
 
@@ -63,12 +72,16 @@ Collaborator Summit, and Code + Learn mentoring.
 
 ### Reimbursement
 
-Once the request has been approved, you must:  
+Once the request has been approved, you must: 
+
 1. Provide receipts as attachments in an email stating your name, the participation covered,
 and the total approved for reimbursement. 
 2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
 3. Email this reimbursement request to ap@linuxfoundation.org and cc
 mrhinkle@linuxfoundation.org and annmarie@thisdot.co. 
+
+Submit reports within one calendar month of the event date. Submitting reports
+in a timely fashion facilitates accurate record-keeping.
 
 Due to privacy, the Individual Members list is not public. This team will verify the
 requester is on the Individual Members list before funds are disbursed. This
