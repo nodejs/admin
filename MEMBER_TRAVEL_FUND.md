@@ -75,10 +75,10 @@ Collaborator Summit, and Code + Learn mentoring.
 Once the request has been approved, you must: 
 
 1. Provide receipts as attachments in an email stating your name, the participation covered,
-and the total approved for reimbursement. 
+and the total approved for reimbursement.
 2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
 3. Email this reimbursement request to ap@linuxfoundation.org and cc
-mrhinkle@linuxfoundation.org and annmarie@thisdot.co. 
+mrhinkle@linuxfoundation.org and annmarie@thisdot.co.
 
 Submit reports within one calendar month of the event date. Submitting reports
 in a timely fashion facilitates accurate record-keeping.
@@ -116,7 +116,7 @@ Rachel White | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Be
 Ben Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1618
 Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $1500
 Hassan Sani | Collab Summit Spring 2018 | Attendance & Code & Learn | Berlin, Germany | May 30 - Jun 3 2018 | $1,000
-Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin, Germany | May 30 - Jun 2 2018 | USD 1337
+Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin, Germany | May 30 - Jun 2 2018 | USD 1377
 Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$2200
 Richard Littauer | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 3 2018 | $800
 Dan Shaw | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 3 | $1500
