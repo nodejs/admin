@@ -29,8 +29,8 @@ as opposed to any specific repository. In addition, we will list
 the website location as it hosts the Node.js binaries.
 
 In order to meet the archival requirements of the (TSU) licencing exception
-(5 years past the last date where the repo contained cryptographic software),
-the foundation will provide an email account that will be
+(5 years past the last date where the repository contained cryptographic
+software), the foundation will provide an email account that will be
 used to send the notifications. In addition, the Foundation executive
 director will ensure that the archival requirements are met.
 
