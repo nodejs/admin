@@ -9,7 +9,7 @@ procedures. These procedures require the following:
 
 * Sending notification emails listing the locations
   of our repositories that contain cryptographic software.
-* Validating that our licences are OSI-approved.
+* Validating that our licenses are OSI-approved.
 * Ensuring the software is generally available to any
   member of the public by posting it on a public Internet location.
 * Reviewing our repositories for binaries. If binaries contain
@@ -28,7 +28,7 @@ location of the [organization](https://github.com/nodejs)
 as opposed to any specific repository. In addition, we will list
 the website location as it hosts the Node.js binaries.
 
-In order to meet the archival requirements of the (TSU) licencing exception
+In order to meet the archival requirements of the (TSU) licensing exception
 (5 years past the last date where the repository contained cryptographic
 software), the foundation will provide an email account that will be
 used to send the notifications. In addition, the Foundation executive
@@ -65,16 +65,16 @@ MANUFACTURER(S): Node.js
 INTERNET LOCATION(S): https://nodejs.org/en/ and https://github.com/nodejs 
 ```
 
-## Licence validation
+## License validation
 
 In order to use the "Technology and Software-Unrestricted" (TSU)
-licensing exception, all licences must be OSI-approved.
+licensing exception, all licenses must be OSI-approved.
 
 All new repositories which are brought under the Node.js organization
-will be validated to ensure they include an OSI compliant licence
+will be validated to ensure they include an OSI compliant license
 before being accepted.
 
-PENDING: Will we solicit volunteers review the licences in the
+PENDING: Will we solicit volunteers review the licenses in the
 existing repositories, and if not completed by Dec 2018 we
 will ask the Foundation to hire a contractor to complete the review.
 
