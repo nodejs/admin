@@ -94,7 +94,7 @@ licensing exception, the source code for any object code that
 contains cryptography by be available.
 
 For the Node.js binary downloads this is covered by making all
-of the source avaible through the github repositories.
+of the source available through the GitHub repositories.
 
 PENDING: We will solict volunteers to:
 * Create tooling to crawl through the github
