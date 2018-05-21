@@ -75,7 +75,7 @@ will be validated to ensure they include an OSI compliant licence
 before being accepted.
 
 PENDING: Will we solicit volunteers review the licences in the
-existing repositgories, and if not completed by Dec 2018 we
+existing repositories, and if not completed by Dec 2018 we
 will ask the Foundation to hire a contractor to complete the review.
 
 ## General Availability
