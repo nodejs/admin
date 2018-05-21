@@ -84,7 +84,7 @@ In order to use the "Technology and Software-Unrestricted" (TSU)
 licensing exception, all of the software must be generally available to any
 member of the public by posting it on a public Internet location.
 
-We meet this requirement by hosting all of the software in github and/or
+We meet this requirement by hosting all of the software in GitHub and/or
 nodejs.org which does not restrict access.
 
 ## Object Code
@@ -97,8 +97,8 @@ For the Node.js binary downloads, this is covered by making all
 of the source available through the GitHub repositories.
 
 PENDING: We will solicit volunteers to:
-* Create tooling to crawl through the github
-  repositories and node.js to look for binaries.
+* Create tooling to crawl through the GitHub
+  repositories and Node.js to look for binaries.
 * Review the list of binaries and identify if they contain 
   source code.
 * For binaries that include cryptography, validate that the
