@@ -43,7 +43,7 @@ mail sent to this address will be forwarded to the following:
 * the TSC director representative, and
 * the Foundation executive director.
 
-As part of the notification emails we must list a primary and secondary
+As part of the notification emails, we must list a primary and secondary
 contact. The primary contact will be the Foundation executive director
 and the secondary the TSC director representative. These two individuals
 were selected as they are representatives of the Foundation either as
@@ -93,7 +93,7 @@ In order to use the "Technology and Software-Unrestricted" (TSU)
 licensing exception, the source code for any object code that
 contains cryptography by be available.
 
-For the Node.js binary downloads this is covered by making all
+For the Node.js binary downloads, this is covered by making all
 of the source available through the GitHub repositories.
 
 PENDING: We will solicit volunteers to:
