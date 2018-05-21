@@ -96,7 +96,7 @@ contains cryptography by be available.
 For the Node.js binary downloads this is covered by making all
 of the source available through the GitHub repositories.
 
-PENDING: We will solict volunteers to:
+PENDING: We will solicit volunteers to:
 * Create tooling to crawl through the github
   repositories and node.js to look for binaries.
 * Review the list of binaries and identify if they contain 
