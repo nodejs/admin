@@ -47,7 +47,7 @@ As part of the notification emails we must list a primary and secondary
 contact. The primary contact will be the Foundation executive director
 and the secondary the TSC director representative. These two individuals
 were selected as they are representatives of the Foundation either as
-a board member or an executive of the Foundation.
+a board member or as an executive of the Foundation.
 
 An example of the email would be:
 
