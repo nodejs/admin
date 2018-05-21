@@ -30,8 +30,8 @@ the website location as it hosts the Node.js binaries.
 
 In order to meet the archival requirements of the (TSU) licensing exception
 (5 years past the last date where the repository contained cryptographic
-software), the foundation will provide an email account that will be
-used to send the notifications. In addition, the Foundation executive
+software), the Node.js Foundation will provide an email account that will be
+used to send the notifications. In addition, the Node.js Foundation executive
 director will ensure that the archival requirements are met.
 
 This email address will be `crypto-exports@nodejs.org`.
@@ -41,13 +41,13 @@ mail sent to this address will be forwarded to the following:
 
 * tsc@iojs.org, 
 * the TSC director representative, and
-* the Foundation executive director.
+* the Node.js Foundation executive director.
 
 As part of the notification emails, we must list a primary and secondary
-contact. The primary contact will be the Foundation executive director
+contact. The primary contact will be the Node.js Foundation executive director
 and the secondary the TSC director representative. These two individuals
-were selected as they are representatives of the Foundation either as
-a board member or as an executive of the Foundation.
+were selected as they are representatives of the Node.js Foundation either as
+a board member or as an executive of the Node.js Foundation.
 
 An example of the email would be:
 
@@ -56,7 +56,7 @@ TO: crypt@bis.doc.gov, enc@nsa.gov
 CC: crypto-exports@nodejs.org
 SUBJ: TSU NOTIFICATION - Encryption 
 SUBMISSION TYPE: TSU
-SUBMITTED BY: Foundation member sending email
+SUBMITTED BY: Node.js Foundation member sending email
 SUBMITTED FOR: Node.js.org project
 POINT OF CONTACT: Mark Hinkle, Myles Borins TELEPHONE: Marks #, Myles #
 FAX: N/A
@@ -81,7 +81,7 @@ will ask the Foundation to hire a contractor to complete the review.
 ## General Availability
 
 In order to use the "Technology and Software-Unrestricted" (TSU)
-licensing exception, all of the sofware must be generally available to any
+licensing exception, all of the software must be generally available to any
 member of the public by posting it on a public Internet location.
 
 We meet this requirement by hosting all of the software in github and/or
@@ -107,5 +107,5 @@ PENDING: We will solicit volunteers to:
 * Put a process in place that scans on a regular basis for
   new binaries so that they can be reviewed.
 
-If this is not completed by Dec 2018 we will ask the Foundation
+If this is not completed by Dec 2018, we will ask the Node.js Foundation
 to hire a contractor to complete these steps.
