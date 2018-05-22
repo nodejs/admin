@@ -12,6 +12,60 @@ and the Node.js Foundation projects.
 
 Any member can apply for travel funds.
 
+If you need a visa for the country in which the Node.js event you are attending
+is being held, see the next section titled "Prepare for visa application (optional)".
+If you don't need a visa, skip that section.
+
+A quick way to check if you may need a visa is to plug in `wiki visa requirements
+for [your country here] citizens` into a search engine. The first is typically a
+wikipedia page with a table of all countries' visa policy that would apply to you.
+
+### Prepare for visa application (optional) 🛂
+
+If you need a visa, don't worry! You can still apply for travel funds. You'll need
+to account for extra time to prepare your visa application, apply for the visa,
+and receive it before the date of travel.
+
+We've provided here a checklist of items that a visa application could require.
+Thinking about how long it will take you to prepare these will give you an idea of how
+long it could take to prepare your visa application.
+
+Typical visa applications may, **at minimum**, ask for any or all of the following:
+
+* An original passport. If you don't have one, you'll need to apply for one first.
+Check with your passport issuing authority for the processing time.
+* Passport-sized photos.
+* An original proof of residency for the country where you live,
+assuming you are not a citizen. For example, if you live in Canada this could be
+a Permanent Residence Card or a Temporary Residence Visa.
+* Copies of any of the above documents.
+* A copy of your air ticket.
+* A copy of your accommodation reservations.
+* Proof of travel insurance.
+* A fee for processing your application.
+* An invitation letter. If it's an event hosted by the Foundation, you can just use
+https://events.linuxfoundation.org/visa-request/ to get a letter. For Collaboration
+Summits, contact Foundation staff.
+
+For the actual requirements, check the website of the consulate of the country to
+which you will be traveling.
+
+Check the visa application processing time and plan accordingly.
+
+In some cases, a visitor or tourism visa is what you need. In other cases, you may
+need a business visa. Check the visa policy on the consulate website for what you
+will need.
+
+You may need to prove that you have a stable income and strong ties to your country
+of residence. Proof can take many forms, such as bank statements, letters from
+an employer, and documents certified by a notary public. See the relevant visa requirements
+for their preferences.
+
+The consulate may not be in the city where you live; you'll need to check how you
+can apply. In some cases, you can apply online or by post. In others, your application
+may need a face-to-face interview at the consulate. Please factor this into your
+plans.
+
 ### Request
 
 * Open a pull request which adds an entry to the table at the bottom of this
@@ -22,7 +76,7 @@ Any member can apply for travel funds.
  * Include the size of the stipend you wish to receive.
    * Reimbursement stipends are expected to vary with travel distance.
    * In the PR description, mention `@nodejs/tsc` and
-     `@nodejs/community-committee`.  
+     `@nodejs/community-committee`.
 * Once the final amount spent is known, update the table again with that
   information.
 
@@ -37,8 +91,8 @@ A request is approved when all of the following criteria are met:
   will always require at least four approvals.)
 * No members of either @nodejs/tsc or @nodejs/community-committee have objected
   to the request.
-* The pull request has been merged. Any member may merge once other 
-  prerequisites have been met. 
+* The pull request has been merged. Any member may merge once other
+  prerequisites have been met.
 
 If a request is blocked by an objection from a member of @nodejs/tsc or
 @nodejs/community-committee, then the only way for the request to be approved is
@@ -48,8 +102,8 @@ example, for the TSC, there is a voting process to make decisions when consensus
 cannot be reached.)
 
 An appointed treasurer from either the @nodejs/tsc or @nodejs/community-committee
-(or both) will liaise with a member of the Node.js Foundation on a regular basis 
-to review the status of the travel fund. In the event that any pending requests 
+(or both) will liaise with a member of the Node.js Foundation on a regular basis
+to review the status of the travel fund. In the event that any pending requests
 might not be approved because of available funds, a separate issue will be raised.
 Generally speaking, however, members shouldn't need to worry about the status
 of the fund itself.
@@ -72,7 +126,7 @@ Collaborator Summit, and Code + Learn mentoring.
 
 ### Reimbursement
 
-Once the request has been approved, you must: 
+Once the request has been approved, you must:
 
 1. Provide receipts as attachments in an email stating your name, the participation covered,
 and the total approved for reimbursement.
