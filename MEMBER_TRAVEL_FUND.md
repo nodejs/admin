@@ -16,8 +16,8 @@ If you need a visa for the country in which the Node.js event you are attending
 is being held, see the next section titled "Prepare for visa application (optional)".
 If you don't need a visa, skip that section.
 
-A quick way to check if you may need a visa is to plug in `wiki visa requirements
-for [your country here] citizens` into a search engine. The first is typically a
+A quick way to check if you may need a visa is to enter `wiki visa requirements
+for [your country here] citizens` into a search engine. The first result is typically a
 wikipedia page with a table of all countries' visa policy that would apply to you.
 
 ### Prepare for visa application (optional) 🛂
@@ -30,7 +30,7 @@ We've provided here a checklist of items that a visa application could require.
 Thinking about how long it will take you to prepare these will give you an idea of how
 long it could take to prepare your visa application.
 
-Typical visa applications may, **at minimum**, ask for any or all of the following:
+Typical visa applications may ask for any or all of the following:
 
 * An original passport. If you don't have one, you'll need to apply for one first.
 Check with your passport issuing authority for the processing time.
