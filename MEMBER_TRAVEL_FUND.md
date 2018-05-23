@@ -13,6 +13,13 @@ and the Node.js Foundation projects.
 Any member can apply for travel funds. Requests must be made prior to the start
 of travel. Requests submitted after travel has started will not be approved.
 
+If your request has not yet been approved, then you cannot be certain that you
+will be reimbursed for expenditures. Any expenditures made for travel before
+approval of your request will not be reimbursed if your request is rejected.
+Therefore, it is strongly recommended that you make your request far enough
+in advance that you do not need to make any relevant expenditures until after
+your request has been approved.
+
 ### Request
 
 * Open a pull request which adds an entry to the table at the bottom of this
