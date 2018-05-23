@@ -10,7 +10,8 @@ and the Node.js Foundation projects.
 
 ## Process
 
-Any member can apply for travel funds.
+Any member can apply for travel funds. Requests must be made prior to the start
+of travel. Requests submitted after travel has started will not be approved.
 
 ### Request
 
