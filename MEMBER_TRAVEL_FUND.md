@@ -37,8 +37,8 @@ A request is approved when all of the following criteria are met:
   will always require at least four approvals.)
 * No members of either @nodejs/tsc or @nodejs/community-committee have objected
   to the request.
-* The pull request has been merged. Any member may merge once other 
-  prerequisites have been met. 
+* The pull request has been merged. Any member may merge once other
+  prerequisites have been met.
 
 If a request is blocked by an objection from a member of @nodejs/tsc or
 @nodejs/community-committee, then the only way for the request to be approved is
@@ -48,8 +48,8 @@ example, for the TSC, there is a voting process to make decisions when consensus
 cannot be reached.)
 
 An appointed treasurer from either the @nodejs/tsc or @nodejs/community-committee
-(or both) will liaise with a member of the Node.js Foundation on a regular basis 
-to review the status of the travel fund. In the event that any pending requests 
+(or both) will liaise with a member of the Node.js Foundation on a regular basis
+to review the status of the travel fund. In the event that any pending requests
 might not be approved because of available funds, a separate issue will be raised.
 Generally speaking, however, members shouldn't need to worry about the status
 of the fund itself.
@@ -72,7 +72,7 @@ Collaborator Summit, and Code + Learn mentoring.
 
 ### Reimbursement
 
-Once the request has been approved, you must: 
+Once the request has been approved, you must:
 
 1. Provide receipts as attachments in an email stating your name, the participation covered,
 and the total approved for reimbursement.
@@ -114,7 +114,7 @@ Joyee Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13
 Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
 Rachel White | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $1400
 Ben Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1618
-Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $1500
+Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $2000
 Hassan Sani | Collab Summit Spring 2018 | Attendance & Code & Learn | Berlin, Germany | May 30 - Jun 3 2018 | $1,000
 Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin, Germany | May 30 - Jun 2 2018 | USD 1377
 Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$2200
