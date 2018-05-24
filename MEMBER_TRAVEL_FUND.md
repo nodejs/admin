@@ -18,13 +18,6 @@ Approval is not guaranteed. If a request is rejected, reimbursement will not be
 issued. It is strongly recommended that you submit your request far enough in
 advance to get approval before making relevant expenditures.
 
-If your request has not yet been approved, then you cannot be certain that you
-will be reimbursed for expenditures. Any expenditures made for travel before
-approval of your request will not be reimbursed if your request is rejected.
-Therefore, it is strongly recommended that you make your request far enough
-in advance that you do not need to make any relevant expenditures until after
-your request has been approved.
-
 ### Request
 
 * Open a pull request which adds an entry to the table at the bottom of this
