@@ -10,7 +10,13 @@ and the Node.js Foundation projects.
 
 ## Process
 
-Any member can apply for travel funds.
+Any member can apply for travel funds. Requests must be made prior to the start
+of travel. Requests submitted after travel has started will not be approved.
+
+Review of requests will take at least 72 hours and may take considerably longer.
+Approval is not guaranteed. If a request is rejected, reimbursement will not be
+issued. It is strongly recommended that you submit your request far enough in
+advance to get approval before making relevant expenditures.
 
 ### Request
 
