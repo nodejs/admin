@@ -10,7 +10,13 @@ and the Node.js Foundation projects.
 
 ## Process
 
-Any member can apply for travel funds.
+Any member can apply for travel funds. Requests must be made prior to the start
+of travel. Requests submitted after travel has started will not be approved.
+
+Review of requests will take at least 72 hours and may take considerably longer.
+Approval is not guaranteed. If a request is rejected, reimbursement will not be
+issued. It is strongly recommended that you submit your request far enough in
+advance to get approval before making relevant expenditures.
 
 ### Request
 
@@ -37,6 +43,8 @@ A request is approved when all of the following criteria are met:
   will always require at least four approvals.)
 * No members of either @nodejs/tsc or @nodejs/community-committee have objected
   to the request.
+* The pull request has been merged. Any member may merge once other
+  prerequisites have been met.
 
 If a request is blocked by an objection from a member of @nodejs/tsc or
 @nodejs/community-committee, then the only way for the request to be approved is
@@ -44,6 +52,13 @@ for that committee to decide to approve the request using whatever
 decision-making process the  committee uses when consensus is not reached. (For
 example, for the TSC, there is a voting process to make decisions when consensus
 cannot be reached.)
+
+An appointed treasurer from either the @nodejs/tsc or @nodejs/community-committee
+(or both) will liaise with a member of the Node.js Foundation on a regular basis
+to review the status of the travel fund. In the event that any pending requests
+might not be approved because of available funds, a separate issue will be raised.
+Generally speaking, however, members shouldn't need to worry about the status
+of the fund itself.
 
 **The following considerations are made for approval of the request:**
 
@@ -63,11 +78,18 @@ Collaborator Summit, and Code + Learn mentoring.
 
 ### Reimbursement
 
-Once the request has been approved, provide receipts as attachments in an email
-stating your name, the participation covered, and the total approved for
-reimbursement. Send to ap@linuxfoundation.org and cc
-mrhinkle@linuxfoundation.org with subject `Node.js Member Travel Fund`. Due to
-privacy, the Individual Members list is not public. This team will verify the
+Once the request has been approved, you must:
+
+1. Provide receipts as attachments in an email stating your name, the participation covered,
+and the total approved for reimbursement.
+2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
+3. Email this reimbursement request to ap@linuxfoundation.org and cc
+mrhinkle@linuxfoundation.org and annmarie@thisdot.co.
+
+Submit reports within one calendar month of the event date. Submitting reports
+in a timely fashion facilitates accurate record-keeping.
+
+Due to privacy, the Individual Members list is not public. This team will verify the
 requester is on the Individual Members list before funds are disbursed. This
 disbursement is generally processed within 30 days. The community manager or a
 member of the Node.js Foundation team within the Linux Foundation will report
@@ -98,15 +120,16 @@ Joyee Cheung | Diagnostics WG Summit | Attendance | Ottawa, ON, CA | 12 Feb - 13
 Benjamin Gruenbaum | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $400
 Rachel White | Collab Summit Spring 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 31 - Jun 3 2018 | $1400
 Ben Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 2 | $1618
-Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $1500
+Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $2000
 Hassan Sani | Collab Summit Spring 2018 | Attendance & Code & Learn | Berlin, Germany | May 30 - Jun 3 2018 | $1,000
-Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin, Germany | May 30 - Jun 2 2018 | USD 1357
+Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin, Germany | May 30 - Jun 2 2018 | USD 1377
 Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$2200
 Richard Littauer | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 3 2018 | $800
 Dan Shaw | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 3 | $1500
 Benjamin Zaslavsky | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative | Berlin, Germany | May 31 - Jun 1 2018 | $385.59
-Agiri Abraham JNR | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative & Mentorship | Berlin, Germany | May 31 - Jun 3 2018 | $1765.00
-Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 1 2018 | $1384
+Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 29-June 3 2018 | $1384
+Nicola Del Gobbo | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €400
+Manil Chowdhury | MSBuild 2018 | Microsoft <> Node.js Collaboration, CommComm Representation | Seattle, WA, USA | May 6 - May 10 2018 | USD 209.40
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
