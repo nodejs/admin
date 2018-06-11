@@ -196,7 +196,7 @@ of the [Code of Conduct][].
   following the above procedures including: removing Posts, Blocking
   indefinitely, and reporting accounts to GitHub.
 * Accounts that are reasonably believed to be bots (other than bots authorized
-  by the TSC) are subject to immediate Blocking.
+  by both TSC and CommComm) are subject to immediate Blocking.
 
 Note that Moderating non-Collaborator posts can often lead to retaliation or
 escalation of inappropriate behavior by the individual whose post is being
