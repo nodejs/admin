@@ -127,6 +127,7 @@ Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's h
 Richard Littauer | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 3 2018 | $800
 Dan Shaw | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 3 | $1500
 Benjamin Zaslavsky | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative | Berlin, Germany | May 31 - Jun 1 2018 | $385.59
+Ben Michel | Node.js at MSBuild 2018 | Node.js Collaboration & CommComm Representation | Seattle Washington, USA | May 6 - 9 | $402
 Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 29-June 3 2018 | $1384
 Nicola Del Gobbo | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €400
 Manil Chowdhury | MSBuild 2018 | Microsoft <> Node.js Collaboration, CommComm Representation | Seattle, WA, USA | May 6 - May 10 2018 | USD 209.40
