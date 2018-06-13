@@ -130,7 +130,7 @@ Benjamin Zaslavsky | Collab Summit Spring 2018 | Attendance - Inclusivity Initia
 Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 1 2018 | $1500
 Nicola Del Gobbo | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €400
 Manil Chowdhury | MSBuild 2018 | Microsoft <> Node.js Collaboration, CommComm Representation | Seattle, WA, USA | May 6 - May 10 2018 | USD 209.40
-Rich Trott | Collab Summit & JS Interactive 2018 | Facilitate Code & Learn | Vancouver BC CAN | Oct 10 -13 2018 | US$950
+Rich Trott | Collab Summit & JS Interactive 2018 | Facilitate Code & Learn | Vancouver BC CAN | Oct 10 -13 2018 | US$850
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
