@@ -89,4 +89,12 @@ Bots that perform actions on behalf of the project (such as moderation or member
 management actions) are required to maintain a log, accessible to all individuals
 granted Owner permissions, of all actions taken.
 
+## GitHub's Team Discussion <sup>[1][github-team-discussion]</sup>
+
+Eventough GitHub's Team Discussion are at the moment limited in visibility to members
+of the organization only, they should be considered as publicly visible. 
+Chartered sub-projects and working groups could decide to limit the visibility of these
+discussions, and then moderate and enforoce that by themselfs.
+
+[github-team-discussion]: https://blog.github.com/2017-11-20-introducing-team-discussions/
 [nodejs/admin]: https://github.com/nodejs/admin
