@@ -198,13 +198,6 @@ of the [Code of Conduct][].
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by both TSC and CommComm) are subject to immediate Blocking.
 
-Note that Moderating non-Collaborator posts can often lead to retaliation or
-escalation of inappropriate behavior by the individual whose post is being
-Moderated. This is true primarily of individuals whose intent is to harass,
-disrupt or annoy individual members of the community. In such cases, it is best
-to handle the Moderation as quickly and as quietly as possible without drawing
-any further undue attention to the Post in question.
-
 ### Temporary Interaction Limits
 
 The Moderation Team may, at their discretion, choose to enable GitHub's
