@@ -91,10 +91,13 @@ granted Owner permissions, of all actions taken.
 
 ## GitHub's Team Discussion <sup>[1][github-team-discussion]</sup>
 
-Eventough GitHub's Team Discussion are at the moment limited in visibility to members
-of the organization only, they should be considered as publicly visible. 
-Chartered sub-projects and working groups could decide to limit the visibility of these
-discussions, and then moderate and enforoce that by themselfs.
+The current implementation of GitHub's "Team Discussions" is incongrouent with the organization's policy.
+The maximal visibility of "public" threads is limited by GitHub to members of the org only, so they
+are not what the organization defines as public. Use of the "private" settings allows any team member
+to unilaterly create a thread that is visible only to members of that team, but this use is not
+covered by the organization's genral moderation policy.
+While the use of this feature is discurged, chartered sub-projects and working groups can decide
+to enact policy that spesifies the proper use of this feature, and then enforce that policy internaly.
 
 [github-team-discussion]: https://blog.github.com/2017-11-20-introducing-team-discussions/
 [nodejs/admin]: https://github.com/nodejs/admin
