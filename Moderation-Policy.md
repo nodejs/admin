@@ -15,6 +15,7 @@ moderation request, please see [Requesting Moderation][]
   * [Temporary Interaction Limits][]
   * [Temporary and Indefinite Blocks][]
 * [Privacy of the nodejs/moderation Repository][]
+* [Privacy of the nodejs/collaborators Team Discussion Board][]
 * [Moderation Team][]
 * [Escalation of Issues][]
 * [Modifications to This Policy][]
@@ -231,6 +232,22 @@ Any Collaborator found to be violating the privacy of the nodejs/moderation
 repository by repeatedly sharing or discussing the details of nodejs/moderation
 issues in any public forum or social media service risks being permanently
 removed from the Node.js GitHub organization.
+
+## Privacy of the nodejs/collaborators Team Discussion Board
+
+The nodejs/collaborators team discussion board is sometimes used for discussing 
+things that don't directly fit the nodejs/node repository. For example nominations
+of Contributors for Collaborator status might be discussed there in order to give
+existing Collaborators a chance to voice their opinion on the nomination.
+
+The nodejs/collaborators team discussion board is considered private but accessible to
+all Collaborators. The details of any issue discussed within it are expected to remain
+confidential and are not to be discussed in any public forum or social media service.
+
+Any Collaborator found to be violating the privacy of it by repeatedly sharing or
+discussing the details of discussions in any public forum or social media service
+risks being permanently removed from the Node.js GitHub organization.
+
 
 ## Moderation Team
 
