@@ -131,6 +131,7 @@ Ben Michel | Node.js at MSBuild 2018 | Node.js Collaboration & CommComm Represen
 Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 29-June 3 2018 | $1384
 Nicola Del Gobbo | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €400
 Manil Chowdhury | MSBuild 2018 | Microsoft <> Node.js Collaboration, CommComm Representation | Seattle, WA, USA | May 6 - May 10 2018 | USD 209.40
+Dhruv Jain | Node Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC, CAN | Oct 10 - 13 2018 | $2100
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
