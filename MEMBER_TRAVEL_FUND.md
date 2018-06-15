@@ -10,7 +10,13 @@ and the Node.js Foundation projects.
 
 ## Process
 
-Any member can apply for travel funds.
+Any member can apply for travel funds. Requests must be made prior to the start
+of travel. Requests submitted after travel has started will not be approved.
+
+Review of requests will take at least 72 hours and may take considerably longer.
+Approval is not guaranteed. If a request is rejected, reimbursement will not be
+issued. It is strongly recommended that you submit your request far enough in
+advance to get approval before making relevant expenditures.
 
 ### Request
 
@@ -117,15 +123,14 @@ Ben Michel | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & W
 Dhruv Jain | Collab Summit Berlin 2018 | Attendance & Code & Learn Mentor | Berlin, Germany | May 30 - June 3 2018 | $2000
 Hassan Sani | Collab Summit Spring 2018 | Attendance & Code & Learn | Berlin, Germany | May 30 - Jun 3 2018 | $1,000
 Manil Chowdhury | Spring 2018 Collaborator's Summit | Attendance and facilitation | Berlin, Germany | May 30 - Jun 2 2018 | USD 1377
-Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$2200
+Rich Trott | Collab Summit Spring 2018 | Attendance (Code + Learn too, if it's happening) | Berlin | May 31 - Jun 3 2018 | US$919.98
 Richard Littauer | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 3 2018 | $800
 Dan Shaw | Spring 2018 Collaborator's Summit and Code & Learn | Attendance & WG facilitator | Berlin, Germany | May 30 - Jun 3 | $1500
 Benjamin Zaslavsky | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative | Berlin, Germany | May 31 - Jun 1 2018 | $385.59
-Agiri Abraham JNR | Collab Summit Spring 2018 | Attendance - Inclusivity Initiative & Mentorship | Berlin, Germany | May 31 - Jun 3 2018 | $1765.00
-Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 31-June 1 2018 | $1500
-Никита Сковорода | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €735
+Ben Michel | Node.js at MSBuild 2018 | Node.js Collaboration & CommComm Representation | Seattle Washington, USA | May 6 - 9 | $402
+Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, Germany | May 29-June 3 2018 | $1384
 Nicola Del Gobbo | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €400
-
+Manil Chowdhury | MSBuild 2018 | Microsoft <> Node.js Collaboration, CommComm Representation | Seattle, WA, USA | May 6 - May 10 2018 | USD 209.40
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
