@@ -17,19 +17,14 @@ The Admin repo is overseen by the [TSC](https://github.com/nodejs/TSC) and [Comm
 
 Members of the TSC and CommComm shall operate under Lazy Consensus as a collaborative unit in the Admin repo hereby referenced as the *Admin members*. Members shall establish appropriate guidelines for implementing Lazy Consensus (e.g. expected notification and review time periods) within the development process.
 
-The *Admin members* follow a Consensus Seeking decision making model. When an agenda item has appeared to reach a consensus the moderator will ask "Does anyone object?" as a final call for dissent from the consensus.
-
-If an agenda item cannot reach a consensus a member can call for either a closing vote or a vote to table the issue to the next meeting. The call for a vote must be seconded by a majority of the *Admin members* or else the discussion will continue.
-
-For all votes, a simple majority of all *Admin members* for, or against, the issue wins. There must be a simple majority vote in each committee. If an individual happens to be in both committees, then they would end up with two votes. An *Admin member* may choose to participate in any vote through abstention.
+For all votes, the vote must pass in both TSC and CommComm or else the motion fails. If an individual happens to be in both committees, then they would end up with two votes.
 
 ### Contacts for assistance
 - [@ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams**, Individual Membership Director
-- [@bnb](https://github.com/bnb) - **Tierny Cyren**, CommComm Co-Chair
+- [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, Education + Community at Node.js Foundation
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**, TSC Director
-- [@rachelnicole](https://github.com/rachelnicole) - **Rachel White**, CommComm Co-Chair
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**, Individual Membership Director
 
 ### Admin members
@@ -45,8 +40,10 @@ https://nodejs.org/calendar
 The calendar is maintained by:
 <!-- sorted by GitHub handle -->
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
+- [@dshaw](https://github.com/dshaw) - **Dan Shaw**
 - [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
+- [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
