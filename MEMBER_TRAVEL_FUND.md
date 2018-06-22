@@ -135,6 +135,7 @@ Gus Caplan | TC39 Meeting | Attendance | Redmond, WA, US | 23 July – 27 July 2
 Rich Trott | Collab Summit & JS Interactive 2018 | Facilitate Code & Learn | Vancouver BC CAN | Oct 10 -13 2018 | US$850
 Guy Bedford | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, CA | 12 - 13 Oct 2018 | US$1875
 Agiri Abraham Jnr | JS Interactive/Collab Summit | Attendance & Collaborate | Vancouver, BC, Cannada | Oct 10 - Oct 14 | USD 2250.00
+Dhruv Jain | Node Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC, CAN | Oct 10 - 13 2018 | $2100
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
