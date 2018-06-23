@@ -139,5 +139,6 @@ Dhruv Jain | Node Collab Summit & JS Interactive 2018 | Attendance, Collaborate 
 Никита Сковорода | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, CA | 12 - 13 Oct 2018 | US$1500
 Hassan Yabagi Sani | Collab Summit & JS Interactive 2018 | Code and Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$2376
 
+
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
