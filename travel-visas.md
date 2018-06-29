@@ -45,9 +45,14 @@ Check the visa application processing time and plan accordingly.
 
 ## Which visa do you need? 🛂
 
-In some cases, a visitor or tourism or tourist visa is what you need. In other cases, you may
-need a business visa. Check the visa policy on the consulate website for what you
-will need.
+In some cases, a visitor or tourism or tourist visa is what you need. In other cases 
+you may need a business visa, especially if you are speaking at a conference on the same 
+trip. Check the visa policy on the consulate website for what you will need.
+
+It's important to remember that border control always makes the final decision on your
+entry. A visa does not guarantee your getting into a country. It's worth noting that 
+a country's border control authority still has the final say even if you didn't need a 
+visa.
 
 ## Extra documents you may need 📝
 
