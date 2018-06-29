@@ -18,6 +18,9 @@ Approval is not guaranteed. If a request is rejected, reimbursement will not be
 issued. It is strongly recommended that you submit your request far enough in
 advance to get approval before making relevant expenditures.
 
+If you need a visa for the country in which the Node.js event you are attending
+is being held, see the document titled [`travel-visas.md`][travel-visas].
+
 ### Request
 
 * Open a pull request which adds an entry to the table at the bottom of this
@@ -28,7 +31,7 @@ advance to get approval before making relevant expenditures.
  * Include the size of the stipend you wish to receive.
    * Reimbursement stipends are expected to vary with travel distance.
    * In the PR description, mention `@nodejs/tsc` and
-     `@nodejs/community-committee`.  
+     `@nodejs/community-committee`.
 * Once the final amount spent is known, update the table again with that
   information.
 
@@ -142,3 +145,5 @@ Hassan Yabagi Sani | Collab Summit & JS Interactive 2018 | Code and Learn | Vanc
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
+
+[travel-visas]: https://github.com/nodejs/admin/travel-visas.md "travel visas document"
