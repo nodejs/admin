@@ -197,6 +197,8 @@ of the [Code of Conduct][].
   indefinitely, and reporting accounts to GitHub.
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by both TSC and CommComm) are subject to immediate Blocking.
+* Collaborators may use the Hide feature in the GitHub interface for off-topic
+  posts by non-Collaborators.
 
 ### Temporary Interaction Limits
 
