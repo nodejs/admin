@@ -279,6 +279,8 @@ remove resigning team member from respective permissions and private access.
 Past Moderation Team members in good standing are given Emeritus status. Emeriti must go 
 through the full approval process in order to become a Moderation Team member again.
 
+<!-- referenced from the CoC page -->
+<a id="current-members"></a>
 ### Current Members of Moderation Team
 * [refack](https://github.com/refack) -
 **Refael Ackermann** &lt;refack@gmail.com&gt;
