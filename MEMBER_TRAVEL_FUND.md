@@ -8,6 +8,7 @@ and the Node.js Foundation projects.
 
 * Candidates must be an individual member of the Node.js Foundation. The membership
   status can be checked on [the foundation website][].
+* Requests must include a note that their employer cannot fund that request.
 
 ## Process
 
