@@ -142,6 +142,7 @@ Dhruv Jain | Node Collab Summit & JS Interactive 2018 | Attendance, Collaborate 
 Никита Сковорода | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, CA | 12 - 13 Oct 2018 | US$1500
 Hassan Yabagi Sani | Collab Summit & JS Interactive 2018 | Code and Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$2376
 Ahmad Bamieh | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$2250
+Patricia Realini | Node Summit | Panel Speaker | San Francisco, CA, USA | July 23-25 2018 | USD$1150
 
 
 ## 2018 Board of Directors Allocation
