@@ -19,7 +19,7 @@ issued. It is strongly recommended that you submit your request far enough in
 advance to get approval before making relevant expenditures.
 
 If you need a visa for the country in which the Node.js event you are attending
-is being held, see the detail instructions on [how to prepare for visa application](./travel-visas.md).
+is being held, see the document on [preparing for a visa application](./travel-visas.md).
 
 ### Request
 
