@@ -30,7 +30,8 @@ Owner permissions are granted will be reduced.
 The following groups are granted Ownership permissions:
 
 * TSC members
-* Community Committee Chairperson or Director
+* Community Committee Chairperson
+* COmmunity Committee Board Director
 * Moderation team members. The Moderation Team members
 will limit their use of the access granted to that required to carry out
 moderation across the existing repositories.
