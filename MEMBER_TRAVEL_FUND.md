@@ -6,12 +6,15 @@ and the Node.js Foundation projects.
 
 ## Restrictions
 
-* Candidates must be an individual member of the Node.js Foundation.
+* Candidates must be an individual member of the Node.js Foundation. The membership
+  status can be checked on [the foundation website][].
+* Employees of a corporate member of the Node.js Foundation cannot request for
+  the travel fund.
 
 ## Process
 
-Any member can apply for travel funds. Requests must be made prior to the start
-of travel. Requests submitted after travel has started will not be approved.
+Requests must be made prior to the start of travel.
+Requests submitted after travel has started will not be approved.
 
 Review of requests will take at least 72 hours and may take considerably longer.
 Approval is not guaranteed. If a request is rejected, reimbursement will not be
@@ -63,21 +66,40 @@ might not be approved because of available funds, a separate issue will be raise
 Generally speaking, however, members shouldn't need to worry about the status
 of the fund itself.
 
-**The following considerations are made for approval of the request:**
-
-* Impact: Preference given to underserved communities. More specifically,
-within a subject the foundation is trying to promote awareness about (e.g.
-general knowledge about the foundation) there are people, communities, and
-geographies where that knowledge is not very widespread. This is where
-preference will be given. For instance, an event in San Francisco would be
-less attractive than an event of the same size in Kansas City.
-* Cost: The larger the stipend the more critically the travel fund admins will
-consider the application. The budget for this program is a finite resource.
-* Equity: Preference given to individuals who do not have a corporate travel
-  fund and have not previously received a stipend.
-
 Examples of prior travel requests include attending a TC39 meeting,
-Collaborator Summit, and Code + Learn mentoring.
+[Node.js collaboration summits][], and [Code and Learn][] mentoring.
+
+#### Considerations for approval of a request
+
+##### Impact
+
+* Preference given to events hosted or sponsored by the Node.js
+  foundation. For example, [Node.js collaboration summits][]
+  and Diagnostics summits should be given precedence because they bring together
+  members of the organization to help the foundation projects make progress.
+* Preference given to speakers and panelists of a conference. Speaking and doing panels
+  at a conference generate a more significant impact than attending. However, individuals
+  applying for the travel fund to speak or participate in panels should confirm that
+  the event organizers cannot cover the travel expenses before submitting a request.
+
+##### Outreach
+
+* Preference given to underserved communities. More specifically,
+  within a subject the foundation is trying to promote awareness about (e.g.
+  general knowledge about the foundation) there are people, communities, and
+  geographies where that knowledge is not very widespread. This is where
+  preference will be given. For instance, an event in San Francisco would be
+  less attractive than an event of the same size in Kansas City.
+
+##### Cost
+
+The larger the stipend the more critically the travel fund admins will
+consider the application. The budget for this program is a finite resource.
+
+##### Equity
+
+Preference given to individuals who cannot receive travel funding from their
+employers or individuals who have not previously received a stipend.
 
 ### Reimbursement
 
@@ -148,3 +170,6 @@ Ahmad Bamieh | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
 
 [travel-visas]: https://github.com/nodejs/admin/travel-visas.md "travel visas document"
+[the foundation website]: https://identity.linuxfoundation.org/user/me
+[Node.js collaboration summits]: https://github.com/nodejs/summit
+[Code and Learn]: https://github.com/nodejs/code-and-learn
