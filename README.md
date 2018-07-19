@@ -20,7 +20,6 @@ Members of the TSC and CommComm shall operate under Lazy Consensus as a collabor
 For all votes, the vote must pass in both TSC and CommComm or else the motion fails. If an individual happens to be in both committees, then they would end up with two votes.
 
 ### Contacts for assistance
-- [@ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams**, Individual Membership Director Emeritus
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, CommComm Director
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
