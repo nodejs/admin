@@ -8,8 +8,6 @@ and the Node.js Foundation projects.
 
 * Candidates must be an individual member of the Node.js Foundation. The membership
   status can be checked on [the foundation website][].
-* Employees of a corporate member of the Node.js Foundation cannot request for
-  the travel fund.
 
 ## Process
 
@@ -66,8 +64,8 @@ might not be approved because of available funds, a separate issue will be raise
 Generally speaking, however, members shouldn't need to worry about the status
 of the fund itself.
 
-Examples of prior travel requests include attending a TC39 meeting,
-[Node.js collaboration summits][], and [Code and Learn][] mentoring.
+As examples, purpose of prior sponsored travels include attending TC39 meetings,
+attending [Node.js collaboration summits][], and mentoring [Code and Learn][].
 
 #### Considerations for approval of a request
 
