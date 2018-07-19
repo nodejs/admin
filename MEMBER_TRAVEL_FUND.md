@@ -73,7 +73,7 @@ attending [Node.js collaboration summits][], and mentoring [Code and Learn][].
 ##### Impact
 
 * Preference given to events hosted or sponsored by the Node.js
-  foundation. For example, [Node.js collaboration summits][]
+  Foundation. For example, [Node.js collaboration summits][]
   and Diagnostics summits should be given precedence because they bring together
   members of the organization to help the foundation projects make progress.
 * Preference given to speakers and panelists of a conference. Speaking and doing panels
