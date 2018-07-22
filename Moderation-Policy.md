@@ -282,8 +282,6 @@ through the full approval process in order to become a Moderation Team member ag
 <!-- referenced from the CoC page -->
 <a id="current-members"></a>
 ### Current Members of Moderation Team
-* [refack](https://github.com/refack) -
-**Refael Ackermann** &lt;refack@gmail.com&gt;
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [ryanmurakami](https://github.com/ryanmurakami) -
