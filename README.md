@@ -20,9 +20,8 @@ Members of the TSC and CommComm shall operate under Lazy Consensus as a collabor
 For all votes, the vote must pass in both TSC and CommComm or else the motion fails. If an individual happens to be in both committees, then they would end up with two votes.
 
 ### Contacts for assistance
-- [@ashleygwilliams](https://github.com/ashleygwilliams) - **Ashley Williams**, Individual Membership Director
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
-- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, Education + Community at Node.js Foundation
+- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, CommComm Director
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**, TSC Director
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**, Individual Membership Director
@@ -39,6 +38,7 @@ https://nodejs.org/calendar
 
 The calendar is maintained by:
 <!-- sorted by GitHub handle -->
+- [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@dshaw](https://github.com/dshaw) - **Dan Shaw**
 - [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
