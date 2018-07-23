@@ -109,8 +109,7 @@ Once the request has been approved, you must:
 1. Provide receipts as attachments in an email stating your name, the participation covered,
 and the total approved for reimbursement.
 2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
-3. Email this reimbursement request to ap@linuxfoundation.org and cc
-mrhinkle@linuxfoundation.org and annmarie@thisdot.co.
+3. Email this reimbursement request to travelapprovals@nodejs.org.
 
 Submit reports within one calendar month of the event date. Submitting reports
 in a timely fashion facilitates accurate record-keeping.
