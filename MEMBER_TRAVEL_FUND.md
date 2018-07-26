@@ -167,7 +167,7 @@ Ahmad Bamieh | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and
 Patricia Realini | Node Summit | Panel Speaker | San Francisco, CA, USA | July 23-25 2018 | USD$1150
 Alejandro Oviedo | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver, BC, Canada | Oct 10 - Oct 14 | USD 2200
 Anna Henningsen | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1360
-
+Ujjwal Sharma | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vacouver BC, CAN | Oct 9 - Oct 14 | $2500
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
