@@ -53,5 +53,3 @@ The calendar is maintained by:
 All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
 
 This list should be reviewed and pruned annually (at minimum). The calendar has a yearly recurring event on Jan 31st for this. An issue should be opened asking the calendar maintainers for their continued volunteering efforts (directly @-mention all members). After 1 week, this list should be PRed removing members that did not respond. [The calendar permissions to be updated once merged](https://support.google.com/a/answer/117596?hl=en).
-
-***ARCHIVE*: This repository was formally Collaboration. Please see the [Community Committee](https://github.com/nodejs/community-committee) repository for information on current efforts around supporting and growing the Node.js Community.**
