@@ -274,11 +274,6 @@ Either the resigning member or an active member will file an issue notifying the
 that the team member is stepping down. An active team member will take necessary steps to 
 remove resigning team member from respective permissions and private access.
 
-*Emeriti*
-
-Past Moderation Team members in good standing are given Emeritus status. Emeriti must go 
-through the full approval process in order to become a Moderation Team member again.
-
 <!-- referenced from the CoC page -->
 <a id="current-members"></a>
 ### Current Members of Moderation Team
