@@ -23,7 +23,7 @@ issued. It is strongly recommended that you submit your request far enough in
 advance to get approval before making relevant expenditures.
 
 If you need a visa for the country in which the Node.js event you are attending
-is being held, see the document titled [`travel-visas.md`][travel-visas].
+is being held, see the document on [preparing for a visa application](./travel-visas.md).
 
 ### Request
 
@@ -172,7 +172,6 @@ Ujjwal Sharma | Collab Summit & JS Interactive 2018 | Attendance & Collaborate |
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
 
-[travel-visas]: https://github.com/nodejs/admin/travel-visas.md "travel visas document"
 [the foundation website]: https://identity.linuxfoundation.org/user/me
 [Node.js collaboration summits]: https://github.com/nodejs/summit
 [Code and Learn]: https://github.com/nodejs/code-and-learn
