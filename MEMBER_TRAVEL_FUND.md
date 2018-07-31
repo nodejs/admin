@@ -6,12 +6,16 @@ and the Node.js Foundation projects.
 
 ## Restrictions
 
-* Candidates must be an individual member of the Node.js Foundation.
+* Candidates must be an individual member of the Node.js Foundation. The membership
+  status can be checked on [the foundation website][].
+* Requester must indicate that they do not have funding available from another source,
+  such as an employer willing to cover the costs or the event covering costs
+  for presenters or others.
 
 ## Process
 
-Any member can apply for travel funds. Requests must be made prior to the start
-of travel. Requests submitted after travel has started will not be approved.
+Requests must be made prior to the start of travel.
+Requests submitted after travel has started will not be approved.
 
 Review of requests will take at least 72 hours and may take considerably longer.
 Approval is not guaranteed. If a request is rejected, reimbursement will not be
@@ -63,21 +67,40 @@ might not be approved because of available funds, a separate issue will be raise
 Generally speaking, however, members shouldn't need to worry about the status
 of the fund itself.
 
-**The following considerations are made for approval of the request:**
+As examples, purpose of prior sponsored travels include attending TC39 meetings,
+attending [Node.js collaboration summits][], and mentoring [Code and Learn][].
 
-* Impact: Preference given to underserved communities. More specifically,
-within a subject the foundation is trying to promote awareness about (e.g.
-general knowledge about the foundation) there are people, communities, and
-geographies where that knowledge is not very widespread. This is where
-preference will be given. For instance, an event in San Francisco would be
-less attractive than an event of the same size in Kansas City.
-* Cost: The larger the stipend the more critically the travel fund admins will
+#### Considerations for approval of a request
+
+##### Impact
+
+* Preference given to events hosted or sponsored by the Node.js
+  Foundation. For example, [Node.js collaboration summits][]
+  and Diagnostics summits should be given precedence because they bring together
+  members of the organization to help the foundation projects make progress.
+* Preference given to speakers and panelists of a conference. Speaking and doing panels
+  at a conference generate a more significant impact than attending. However, individuals
+  applying for the travel fund to speak or participate in panels should confirm that
+  the event organizers cannot cover the travel expenses before submitting a request.
+
+##### Outreach
+
+* Preference given to underserved communities. More specifically,
+  within a subject the foundation is trying to promote awareness about (e.g.
+  general knowledge about the foundation) there are people, communities, and
+  geographies where that knowledge is not very widespread. This is where
+  preference will be given. For instance, an event in San Francisco would be
+  less attractive than an event of the same size in Kansas City.
+
+##### Cost
+
+The larger the stipend the more critically the travel fund admins will
 consider the application. The budget for this program is a finite resource.
-* Equity: Preference given to individuals who do not have a corporate travel
-  fund and have not previously received a stipend.
 
-Examples of prior travel requests include attending a TC39 meeting,
-Collaborator Summit, and Code + Learn mentoring.
+##### Equity
+
+Preference given to individuals who cannot receive travel funding from their
+employers or individuals who have not previously received a stipend.
 
 ### Reimbursement
 
@@ -86,8 +109,7 @@ Once the request has been approved, you must:
 1. Provide receipts as attachments in an email stating your name, the participation covered,
 and the total approved for reimbursement.
 2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
-3. Email this reimbursement request to ap@linuxfoundation.org and cc
-mrhinkle@linuxfoundation.org and annmarie@thisdot.co.
+3. Email this reimbursement request to travelapprovals@nodejs.org.
 
 Submit reports within one calendar month of the event date. Submitting reports
 in a timely fashion facilitates accurate record-keeping.
@@ -143,7 +165,13 @@ Dhruv Jain | Node Collab Summit & JS Interactive 2018 | Attendance, Collaborate 
 Hassan Yabagi Sani | Collab Summit & JS Interactive 2018 | Code and Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$2376
 Ahmad Bamieh | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$2250
 Patricia Realini | Node Summit | Panel Speaker | San Francisco, CA, USA | July 23-25 2018 | USD$1150
-
+Alejandro Oviedo | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver, BC, Canada | Oct 10 - Oct 14 | USD 2200
+Anna Henningsen | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1360
+Ujjwal Sharma | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vacouver BC, CAN | Oct 9 - Oct 14 | $2500
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
+
+[the foundation website]: https://identity.linuxfoundation.org/user/me
+[Node.js collaboration summits]: https://github.com/nodejs/summit
+[Code and Learn]: https://github.com/nodejs/code-and-learn
