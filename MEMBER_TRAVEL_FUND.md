@@ -157,7 +157,7 @@ Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, G
 Nicola Del Gobbo | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €400
 Manil Chowdhury | MSBuild 2018 | Microsoft <> Node.js Collaboration, CommComm Representation | Seattle, WA, USA | May 6 - May 10 2018 | USD 209.40
 Gus Caplan | TC39 Meeting | Attendance | Redmond, WA, US | 23 July – 27 July 2018 | US $1,112.28
-Rich Trott | Collab Summit & JS Interactive 2018 | Facilitate Code & Learn | Vancouver BC CAN | Oct 10 -13 2018 | US$850
+Rich Trott | Collab Summit & JS Interactive 2018 | Facilitate Code & Learn | Vancouver BC CAN | Oct 10 -13 2018 | US$1270.76
 Guy Bedford | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, CA | 12 - 13 Oct 2018 | US$1875
 Agiri Abraham Jnr | JS Interactive/Collab Summit | Attendance & Collaborate | Vancouver, BC, Cannada | Oct 10 - Oct 14 | USD 2645.00
 Dhruv Jain | Node Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC, CAN | Oct 10 - 13 2018 | $2100
