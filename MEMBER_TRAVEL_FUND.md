@@ -168,6 +168,7 @@ Patricia Realini | Node Summit | Panel Speaker | San Francisco, CA, USA | July 2
 Alejandro Oviedo | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver, BC, Canada | Oct 10 - Oct 14 | USD 2200
 Anna Henningsen | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1360
 Ujjwal Sharma | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vacouver BC, CAN | Oct 9 - Oct 14 | $2500
+Agiri Abraham Jnr | ConcatenateConf | Attendance & Manning Booth | Lagos, Nigiera | AUG 10 - AUG 11 | USD 393
 Jamie Davis | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver BC, CAN | Oct 9 - Oct 14 | US$1175
 Trivikram Kamat | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1000
 
