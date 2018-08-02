@@ -274,16 +274,9 @@ Either the resigning member or an active member will file an issue notifying the
 that the team member is stepping down. An active team member will take necessary steps to 
 remove resigning team member from respective permissions and private access.
 
-*Emeriti*
-
-Past Moderation Team members in good standing are given Emeritus status. Emeriti must go 
-through the full approval process in order to become a Moderation Team member again.
-
 <!-- referenced from the CoC page -->
 <a id="current-members"></a>
 ### Current Members of Moderation Team
-* [refack](https://github.com/refack) -
-**Refael Ackermann** &lt;refack@gmail.com&gt;
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [ryanmurakami](https://github.com/ryanmurakami) -
