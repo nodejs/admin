@@ -23,7 +23,7 @@ issued. It is strongly recommended that you submit your request far enough in
 advance to get approval before making relevant expenditures.
 
 If you need a visa for the country in which the Node.js event you are attending
-is being held, see the document titled [`travel-visas.md`][travel-visas].
+is being held, see the document on [preparing for a visa application](./travel-visas.md).
 
 ### Request
 
@@ -157,8 +157,8 @@ Ujjwal Sharma | Collab Summit Spring 2018 | Attendance & Collaborate | Berlin, G
 Nicola Del Gobbo | Collab Summit Spring 2018 | Attendance | Berlin, DE | May 30 - June 2 2018 | €400
 Manil Chowdhury | MSBuild 2018 | Microsoft <> Node.js Collaboration, CommComm Representation | Seattle, WA, USA | May 6 - May 10 2018 | USD 209.40
 Gus Caplan | TC39 Meeting | Attendance | Redmond, WA, US | 23 July – 27 July 2018 | US $1,112.28
-Rich Trott | Collab Summit & JS Interactive 2018 | Facilitate Code & Learn | Vancouver BC CAN | Oct 10 -13 2018 | US$850
-Guy Bedford | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, CA | 12 - 13 Oct 2018 | US$1875
+Rich Trott | Collab Summit & JS Interactive 2018 | Facilitate Code & Learn | Vancouver BC CAN | Oct 10 -13 2018 | US$1270.76
+Guy Bedford | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, CA | 12 - 13 Oct 2018 | US$2040
 Agiri Abraham Jnr | JS Interactive/Collab Summit | Attendance & Collaborate | Vancouver, BC, Cannada | Oct 10 - Oct 14 | USD 2645.00
 Dhruv Jain | Node Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC, CAN | Oct 10 - 13 2018 | $2100
 Никита Сковорода | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, CA | 12 - 13 Oct 2018 | US$1500
@@ -169,12 +169,12 @@ Alejandro Oviedo | Collab Summit & JS Interactive 2018 | Attendance & Collaborat
 Anna Henningsen | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1360
 Ujjwal Sharma | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vacouver BC, CAN | Oct 9 - Oct 14 | $2500
 Agiri Abraham Jnr | ConcatenateConf | Attendance & Manning Booth | Lagos, Nigiera | AUG 10 - AUG 11 | USD 393
-
+Jamie Davis | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver BC, CAN | Oct 9 - Oct 14 | US$1175
+Trivikram Kamat | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1000
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
 
-[travel-visas]: https://github.com/nodejs/admin/travel-visas.md "travel visas document"
 [the foundation website]: https://identity.linuxfoundation.org/user/me
 [Node.js collaboration summits]: https://github.com/nodejs/summit
 [Code and Learn]: https://github.com/nodejs/code-and-learn
