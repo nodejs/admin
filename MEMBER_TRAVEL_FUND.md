@@ -172,6 +172,7 @@ Jamie Davis | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | V
 Rachel White | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver BC, CAN | Oct 9 - Oct 14 | US $2439.86
 Adam Miller | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver BC, CAN | Oct 9 - Oct 14 | US$2115
 Trivikram Kamat | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1000
+Matheus Marchini | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1200
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
