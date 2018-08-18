@@ -161,7 +161,7 @@ Guy Bedford | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, C
 Agiri Abraham Jnr | JS Interactive/Collab Summit | Attendance & Collaborate | Vancouver, BC, Cannada | Oct 10 - Oct 14 | USD 2645.00
 Dhruv Jain | Node Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC, CAN | Oct 10 - 13 2018 | $2100
 Никита Сковорода | Collab Summit 2018 | Attendance & Collaboration | Vancouver, BC, CA | 12 - 13 Oct 2018 | US$1500
-Hassan Yabagi Sani | Collab Summit & JS Interactive 2018 | Code and Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$2376
+Hassan Yabagi Sani | Collab Summit & JS Interactive 2018 | Code and Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$2741
 Ahmad Bamieh | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$2250
 Patricia Realini | Node Summit | Panel Speaker | San Francisco, CA, USA | July 23-25 2018 | USD$1150
 Alejandro Oviedo | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver, BC, Canada | Oct 10 - Oct 14 | USD 2200
@@ -172,6 +172,8 @@ Jamie Davis | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | V
 Rachel White | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver BC, CAN | Oct 9 - Oct 14 | US $2439.86
 Adam Miller | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver BC, CAN | Oct 9 - Oct 14 | US$2115
 Trivikram Kamat | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1000
+Tobias Nießen | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver, BC, CAN | Oct 9 - Oct 14 2018 | US$2100
+Liran Tal | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver BC, CAN | Oct 9 - Oct 14 | US$550
 Matheus Marchini | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1200
 
 ## 2018 Board of Directors Allocation
