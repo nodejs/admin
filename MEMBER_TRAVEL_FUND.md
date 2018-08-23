@@ -176,6 +176,7 @@ Tobias Nießen | Collab Summit & JS Interactive 2018 | Attendance, Collaborate a
 Liran Tal | Collab Summit & JS Interactive 2018 | Attendance & Collaborate | Vancouver BC, CAN | Oct 9 - Oct 14 | US$550
 Yoshua Wuyts | Collab Summit & JS Interactive 2018 | Attendence & Collaborate | Vancouver BC CAN | Oct 10 - 13 2018 | US$1250
 Waleed Ashraf | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver, BC, CAN | Oct 9 - Oct 14 2018 | US$2030
+Matheus Marchini | Collab Summit & JS Interactive 2018 | Attendance, Collaborate and Code & Learn | Vancouver BC CAN |  Oct 10 - 13 2018 | US$1200
 
 ## 2018 Board of Directors Allocation
 The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
