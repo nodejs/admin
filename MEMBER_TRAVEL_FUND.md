@@ -4,7 +4,7 @@ To establish and administer a fund for members of the Node.js
 Foundation to travel and spread knowledge about and support the foundation
 and the Node.js Foundation projects.
 
-### [current years fund][]
+### [Current Years Fund][]
 
 ## Restrictions
 
@@ -115,18 +115,23 @@ Once the request has been approved, you must:
 and the total approved for reimbursement.
 2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true).
 3. Email this reimbursement request to travelapprovals@nodejs.org.
-4. Expense reports must be submitted within 30 days of event date. Any reports submitted after 30 days may not be reimbursed.
+4. Expense reports must be submitted within 30 days of event date. Any reports submitted 
+   after 30 days may not be reimbursed.
 5. Disbursements are generally processed within 30 days. 
 
 Due to privacy, the Individual Members list is not public. This team will verify the
-requester is on the Individual Members list before funds are disbursed. The community manager or a member of the Node.js Foundation team within the Linux Foundation will report back amounts consumed from the travel allocation on a monthly basis to the Chairs.
+requester is on the Individual Members list before funds are disbursed. The community
+manager or a member of the Node.js Foundation team within the Linux Foundation will report 
+back amounts consumed from the travel allocation on a monthly basis to the Chairs.
+
 
 ## 2018 Board of Directors Allocation
-The coordinated request from the Technical Steering Committee and the Community Committee for the joint travel fund for 2018 was approved in the amount of $60,000.
+The coordinated request from the Technical Steering Committee and the Community Committee 
+for the joint travel fund for 2018 was approved in the amount of $60,000.
 
-### [current years fund][]
+### [Current Years Fund][]
 
-[current years fund]: ./TravelFunds/2018.md
+[Current Years Fund]: ./TravelFunds/2018.md
 [the foundation website]: https://identity.linuxfoundation.org/user/me
 [Node.js collaboration summits]: https://github.com/nodejs/summit
 [Code and Learn]: https://github.com/nodejs/code-and-learn
