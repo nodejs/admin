@@ -29,7 +29,7 @@ is being held, see the document on [preparing for a visa application](./travel-v
 
 ### Request
 
-* Open a pull request which adds an entry to the appropriate years file
+* Open a pull request which adds an entry to the appropriate year's file
 * Include as many fields as possible:
     * Include the name of the event you plan to attend.
     * Include the location of the event and where you will be traveling from.
@@ -40,7 +40,7 @@ is being held, see the document on [preparing for a visa application](./travel-v
        `@nodejs/community-committee`.
 * Once the final amount spent is known, update the table again with that
   information.
-* Certain details of your request (such as the column for `date sent to finance`
+* Certain details of your request (such as the column for `date sent to finance`)
   may be unknown initially; these can be filled in and updated during the process
   of reconciliation
 
