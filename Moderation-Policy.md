@@ -263,8 +263,8 @@ New Moderation Team members are onboarded with:
 *Recertification*
 
 An annual recertification vote is required for all Moderation Team members.
-For an individual to be recertified, a simple majority vote in *favor* of recertification 
-is required by both the TSC and CommComm.
+For an individual to be recertified, a simple majority vote in *favor* of
+recertification is required by both the TSC and CommComm.
 
 *Departure*
 
