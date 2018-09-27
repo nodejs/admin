@@ -252,15 +252,19 @@ recertification. If there are no objections after seven days, the nomination is 
 accepted. If there are objections to a specific nomination, then a simple majority
 vote of each the TSC and CommComm members in *favor* of the nomination is required.
 
-An annual recertification vote is required for all moderators. For an individual
-to continue as a moderator, a simple majority vote of each the TSC and CommComm
-members must vote in *favor* of retaining an individual moderator.
+*Onboarding*
 
 New Moderation Team members are onboarded with:
 - an invite to Node.js Moderation Team Slack
 - permission changes made to GitHub to allow access to moderate
 - a walkthrough of relevant processes, expectations, and documents by an existing Moderation Team member
 - access to existing documents
+
+*Recertification*
+
+An annual recertification vote is required for all Moderation Team members.
+For an individual to be recertified, a simple majority vote in *favor* of
+recertification is required by both the TSC and CommComm.
 
 *Departure*
 
