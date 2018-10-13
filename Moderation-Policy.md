@@ -297,6 +297,11 @@ remove resigning team member from respective permissions and private access.
 **Gibson Fahnestock** &lt;gibfahn@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+* [gdams](https://github.com/gdams) -
+**George Adams** &lt;george.adams@uk.ibm.com&gt;
+* [dshaw](https://github.com/dshaw) -
+**Dan Shaw** &lt;dshaw@dshaw.com&gt;
+
 
 ### Admins for Node.js Slack community
 * [alextes](https://github.com/alextes) -
