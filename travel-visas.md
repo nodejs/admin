@@ -68,4 +68,12 @@ can apply. In some cases, you can apply online or by post. In others, your appli
 may need a face-to-face interview at the consulate. Please factor this into your
 plans.
 
+## Need some assistance?
+
+We are adding all VISA related information in this document but If you need more assistance or you have any question for your application, feel free to contact us. We are not VISA experts but will try
+to assist as much as we can.
+
+- Zibby Keaton <zkeaton@linuxfoundation.org>
+- Emily Ruf <eruf@linuxfoundation.org>
+
 [visa-request-form]: https://events.linuxfoundation.org/visa-request/ "visa request form"
