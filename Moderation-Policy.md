@@ -285,8 +285,6 @@ remove resigning team member from respective permissions and private access.
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [ryanmurakami](https://github.com/ryanmurakami) -
 **Ryan Lewis** &lt;ryanharrisonlewis@gmail.comt&gt;
-* [Trott](https://github.com/Trott) -
-**Rich Trott** &lt;rtrott@gmail.com&gt;
 * [thefourtheye](https://github.com/thefourtheye) -
 **Sakthipriyan Vairamani** &lt;thechargingvolcano@gmail.com&gt;
 * [bnb](https://github.com/bnb) -
