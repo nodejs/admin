@@ -23,6 +23,8 @@ Review of requests will take at least 72 hours and may take considerably longer.
 Approval is not guaranteed. If a request is rejected, reimbursement will not be
 issued. It is strongly recommended that you submit your request far enough in
 advance to get approval before making relevant expenditures.
+Candidates can only ask for reimbursement of prior approved items. In case of
+new items added, the candidates must resubmit the updated request for a new approval.
 
 If you need a visa for the country in which the Node.js event you are attending
 is being held, see the document on [preparing for a visa application](./travel-visas.md).
