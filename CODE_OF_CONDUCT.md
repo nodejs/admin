@@ -5,9 +5,9 @@
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -23,7 +23,7 @@ include:
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
-advances
+  advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
@@ -65,7 +65,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-To learn more about the process of how moderators enforce the Code of Conduct, 
+To learn more about the process of how moderators enforce the Code of Conduct,
 review the [Moderation Policy] and [Requesting Moderation].
 
 [Moderation Policy]: https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#moderation-policy
@@ -74,7 +74,7 @@ review the [Moderation Policy] and [Requesting Moderation].
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
+version 1.4, available at https://www.contributor-covenant.org/version/1/4/
 
 ## Appendix A: The report@nodejs.org Alias
 
@@ -82,5 +82,4 @@ version 1.4, available at [http://contributor-covenant.org/version/1/4][version]
 alias is copied to all members of the [Node.js Moderation Team][].
 
 [homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
 [Node.js Moderation Team]: https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#current-members
