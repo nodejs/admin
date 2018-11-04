@@ -1,6 +1,6 @@
 It is important that members of our leadership groups (TSC, CommComm) act
 in a way that not only complies with the
-[Code of Conduct](https://github.com/nodejs/TSC/blob/master/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md)
 but that supports the vision, mission and operating principles of the Node.js project.
 
 It is understood that members will have individual opinions and will express
@@ -51,7 +51,7 @@ If you're interested in an introduction to diversity, inclusion, and unconscious
 
 If it appears that any member of the project leadership is acting outside
 of the expectations set above please refer to our
-[moderation](https://github.com/nodejs/TSC/blob/master/Moderation-Policy.md)
+[moderation](https://github.com/nodejs/admin/blob/master/Moderation-Policy.md)
 policy which outlines the process of making an official complaint.
 
 This policy, and changes to it, are not retroactive.
