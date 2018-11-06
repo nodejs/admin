@@ -113,8 +113,9 @@ Once the request has been approved, you must:
 
 1. Provide receipts as attachments in an email stating your name, the participation covered,
 and the total approved for reimbursement.
-2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true) and rename as ExpenseReport-Node-YOURNAME-YYYYMM.
-3. Email this reimbursement request to travelapprovals@nodejs.org.
+2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true) and rename as ExpenseReport-Node-EVENTNAME-YOURNAME-YYYYMM.
+3. Sign and date the file in PDF form, The sign line can be found in the lower left hand corner of the above document. The individual tasked with approve the expense will countersign before sending for processing. You may use an e-signature such as docusign or [the 'markup' feature in Preview](https://support.apple.com/guide/preview/fill-out-and-sign-pdf-forms-prvw35725/mac).
+Email this reimbursement request to travelapprovals@nodejs.org.
 4. Expense reports must be submitted within 30 days of event date. Any reports submitted 
    after 30 days may not be reimbursed.
 5. Disbursements are generally processed within 30 days. 
