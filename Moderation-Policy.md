@@ -55,8 +55,8 @@ this default policy applies.
 * *Post* refers to the content and titles of any issue, pull request, comment
   or wiki page.
 * *Moderate* refers to the act of modifying the content and title of, or
-  deleting, any Post for the purpose of correcting or addressing Code of Conduct
-  violations.
+  deleting, any Post or Issue or Pull-Request for the purpose of correcting or
+  addressing Code of Conduct violations.
 * *Remove* refers to the act of removing the configured write (commit)
   permissions for an individual Collaborator's GitHub account from *all*
   Node.js GitHub Organization repositories as well as removing the account from
@@ -191,10 +191,10 @@ of the [Code of Conduct][].
 * Moderation of Posts authored by non-Collaborators may result in those
   non-Collaborators being Blocked temporarily or indefinitely from further
   participation in the Node.js GitHub organization.
-* In the case where a GitHub Account appears to have been created with no
-  intention to collaborate in good faith, swift actions may be taken without
-  following the above procedures including: removing Posts, Blocking
-  indefinitely, and reporting accounts to GitHub.
+* In the case where a GitHub Account, Issue, or Pull-Request appears to have been
+  created with no intention to collaborate in good faith, swift actions may be taken
+  without following the above procedures including: removing Posts, deleting Issues and
+  Pull Requests, Blocking indefinitely, and reporting accounts to GitHub.
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by both TSC and CommComm) are subject to immediate Blocking.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
