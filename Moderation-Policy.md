@@ -55,8 +55,8 @@ this default policy applies.
 * *Post* refers to the content and titles of any issue, pull request, comment
   or wiki page.
 * *Moderate* refers to the act of modifying the content and title of, or
-  deleting, any Post or Issue or Pull-Request for the purpose of correcting or
-  addressing Code of Conduct violations.
+  deleting, any Post for the purpose of correcting or addressing Code of Conduct
+  violations
 * *Remove* refers to the act of removing the configured write (commit)
   permissions for an individual Collaborator's GitHub account from *all*
   Node.js GitHub Organization repositories as well as removing the account from
