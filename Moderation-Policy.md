@@ -191,7 +191,7 @@ of the [Code of Conduct][].
 * Moderation of Posts authored by non-Collaborators may result in those
   non-Collaborators being Blocked temporarily or indefinitely from further
   participation in the Node.js GitHub organization.
-* In the case where a GitHub Account, Issue, or Pull-Request appears to have been
+* In the case where a GitHub Account, Issue, or Pull Request appears to have been
   created with no intention to collaborate in good faith, swift actions may be taken
   without following the above procedures including: removing Posts, deleting Issues and
   Pull Requests, Blocking indefinitely, and reporting accounts to GitHub.
