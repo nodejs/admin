@@ -95,8 +95,8 @@ Since Teams represent the org's chartered sub-projects and working groups,
 every such group can decide to define its own policy that specifies what they
 consider to be proper use of this feature and enforce that policy internally.
 
-*For General consideration*: The current implementation of GitHub's "Team
-Discussions" is incongruent with the organization's policy. The maximal
+*For General consideration*: The current implementation of GitHub's Team
+Discussions is incongruent with the organization's policy. The maximal
 visibility of "public" threads is limited by GitHub to members of the org only,
 so they are not what the organization defines as public. Use of the "private"
 settings allows any team member to create a thread that is visible only to members
