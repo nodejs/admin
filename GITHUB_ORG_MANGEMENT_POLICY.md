@@ -91,7 +91,7 @@ granted Owner permissions, of all actions taken.
 
 ## GitHub's Team Discussion <sup>[1][github-team-discussion]</sup>
 
-Since "Teams" represent the org's chartered sub-projects and working groups,
+Since Teams represent the org's chartered sub-projects and working groups,
 every such group can decide to define its own policy that specifies what they
 consider to be proper use of this feature and enforce that policy internally.
 
