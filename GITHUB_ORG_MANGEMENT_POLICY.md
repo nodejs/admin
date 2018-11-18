@@ -100,7 +100,7 @@ Discussions" is incongruent with the organization's policy. The maximal
 visibility of "public" threads is limited by GitHub to members of the org only,
 so they are not what the organization defines as public. Use of the "private"
 settings allows any team member to create a thread that is visible only to members
-of that team, under the assumtion that it is private, but such use is not covered
+of that team, under the assumption that it is private, but such use is not covered
 by the organization's general moderation policy.  
 
 
