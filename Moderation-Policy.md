@@ -191,10 +191,12 @@ of the [Code of Conduct][].
 * Moderation of Posts authored by non-Collaborators may result in those
   non-Collaborators being Blocked temporarily or indefinitely from further
   participation in the Node.js GitHub organization.
-* In the case where a GitHub Account appears to have been created with no
-  intention to collaborate in good faith, swift actions may be taken without
-  following the above procedures including: removing Posts, Blocking
-  indefinitely, and reporting accounts to GitHub.
+* One may immediately bypass the above procedures if it is clear that there is no intention to
+  collaborate in good faith. In such cases, it is permissible to immediately:
+  * remove posts
+  * delete issues/pull requests
+  * block users
+  * report accounts to GitHub
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by both TSC and CommComm) are subject to immediate Blocking.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
