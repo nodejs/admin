@@ -54,7 +54,7 @@ this default policy applies.
 * *CommComm* refers to the [Node.js Community Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment
   or wiki page.
-* *Moderate* refers to the act of modifying the content and title of, locking or
+* *Moderate* refers to the act of modifying the content and title of, locking, or
   deleting, any Post or thread for the purpose of correcting or addressing Code
   of Conduct violations.
 * *Remove* refers to the act of removing the configured write (commit)
