@@ -54,22 +54,8 @@ The releases should still by done by the original releasers.
 See [NPM Management](./npm-management.md) on more about the Node.js foundation
 npm account.
 
-## Step 5. Fix integrations and Webhooks
-
-If the repository has previously configured external integrations and webhooks
-(for example, the Travis CI), do know that we do not allow third-party
-applications integrated into the organization. It's fine to keep the
-per-repository webhooks or add new ones, but a lot of external services require
-permissions to read the list of repositories of the organization in addition
-to webhooks, so the previous integrations may stop working once the repository
-is transferred.
-
-It is possible to bring Travis integration back using the Node.js GitHub bot.
-See the guide on [enabling Travis in a repository under the Node.js GitHub organization][].
-
 [coc]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
 [GitHub's documentation on transferring repos]: https://help.github.com/articles/about-repository-transfers/
 [Node.js GitHub Organization Management Policy]: https://github.com/nodejs/TSC/blob/master/GitHub-Org-Management-Policy.md#repositories
 [the contributing guide]: https://github.com/nodejs/node/blob/master/CONTRIBUTING.md
 [the issue tracker of the Node.js admin repository]: https://github.com/nodejs/admin/issues
-[enabling Travis in a repository under the Node.js GitHub organization]: ./enable-travis-under-nodejs.md
