@@ -39,4 +39,4 @@ encrypted form in the [secrets repo][].
 
 
 [`nodejs-foundation`]: https://www.npmjs.com/~nodejs-foundation
-https://github.com/nodejs-private/secrets/blob/master/build/test/test_logins.md
+[secrets repo]: https://github.com/nodejs-private/secrets/blob/master/build/test/test_logins.md
