@@ -7,7 +7,7 @@ To establish and administer a fund for members of the Node.js Foundation to trav
 ## Restrictions
 
 * Candidates must be an individual member of the Node.js Foundation. [The membership status can be checked on the foundation website](https://identity.linuxfoundation.org/user/login?destination=user/me). Due to privacy, the Individual Members list is not public. This team will verify the requester is on the Individual Members list before funds are disbursed. 
-* Those requesting funds must indicate that they do not have funding available from another source, such as an employer or the event itself that might covering costs for presenters. 
+* Those requesting funds must indicate that they do not have funding available from another source, such as an employer or the event itself that might cover costs for presenters. 
 
 ## Process
 
@@ -61,29 +61,29 @@ If a request is blocked by an objection from a member of @nodejs/tsc or @nodejs/
 
 An appointed treasurer from either the @nodejs/tsc or @nodejs/community-committee (or both) will liaise with a member of the Node.js Foundation on a regular basis to review the status of the travel fund. In the event that any pending requests might not be approved because of available funds, a separate issue will be raised. Generally speaking, however, members shouldn't need to worry about the status of the fund itself.
 
-As examples, purpose of prior sponsored travels include attending TC39 meetings, attending [Node.js collaboration summits](https://github.com/nodejs/summit), and mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
+As examples, the purpose of prior sponsored travels includes attending TC39 meetings, attending [Node.js collaboration summits](https://github.com/nodejs/summit), and mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 
 #### Considerations for approval of a request
 
 ##### Impact
-* Preference given to events hosted or sponsored by the Node.js Foundation. For example, Node.js collaboration summits and Diagnostics summits should be given precedence because they bring together members of the Foundation? to help the Foundation projects advance. 
-* Preference given to speakers and panelists of a conference. Speaking and doing panels at a conference generates a more significant impact than attending. However, individuals applying for the travel fund to speak or participate in panels should confirm that the event organizers cannot cover the travel expenses before submitting a request.
+* Preference is given to events hosted or sponsored by the Node.js Foundation. For example, Node.js collaboration summits and Diagnostics summits should be given precedence because they bring together members of the Foundation to help the Foundation projects advance. 
+* Preference is given to speakers and panelists of a conference. Speaking and doing panels at a conference generates a more significant impact than attending. However, individuals applying for the travel fund to speak or participate in panels should confirm that the event organizers cannot cover the travel expenses before submitting a request.
 
 ##### Outreach
-* Preference given to underserved communities. More specifically, within a subject the foundation is trying to promote awareness about (e.g. general knowledge about the foundation) there are people, communities, and geographies where that knowledge is not very widespread. This is where preference will be given. For instance, an event in San Francisco would be less attractive than an event of the same size in Kansas City.
+* Preference is given to underserved communities. More specifically, within a subject the foundation is trying to promote awareness about (e.g. general knowledge about the foundation) there are people, communities, and geographies where that knowledge is not very widespread. This is where preference will be given. For instance, an event in San Francisco would be less attractive than an event of the same size in Kansas City.
 
 ##### Cost
 * The larger the stipend the more critically the travel fund admins will consider the request and application. The budget for this program is a finite resource.
 
 ##### Equity
-* Preference given to individuals who cannot receive travel funding from their employers or individuals who have not previously received a stipend.
+* Preference is given to individuals who cannot receive travel funding from their employers or individuals who have not previously received a stipend.
 
 ### Reimbursement
 
 Once the request has been approved, you must:
 
-* Provide receipts as attachments in an email stating your name, the event?  covered, and the total approved for reimbursement.
-* Fill out and attach the expense report and rename as ExpenseReport-Node-YOURNAME-YYYYMM.
+* Provide receipts as attachments in an email stating your name, the event covered, and the total approved for reimbursement.
+* Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true) and rename as ExpenseReport-Node-YOURNAME-YYYYMM.
 * Email this reimbursement request to travelapprovals@nodejs.org.
 * Expense reports must be submitted within 30 days of event date. Any reports submitted after 30 days may not be reimbursed.
 * Disbursements are generally processed within 30 days.
