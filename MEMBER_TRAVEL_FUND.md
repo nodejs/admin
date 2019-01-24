@@ -18,6 +18,8 @@ and the Node.js Foundation projects.
 
 Requests must be made prior to the start of travel.
 Requests submitted after travel has started will not be approved.
+Candidates can only ask for reimbursement of prior approved items. In case of
+new items added, the candidates must resubmit the updated request for a new approval.
 
 Review of requests will take at least 72 hours and may take considerably longer.
 Approval is not guaranteed. If a request is rejected, reimbursement will not be
