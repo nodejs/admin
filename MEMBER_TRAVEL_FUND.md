@@ -39,10 +39,10 @@ For additional information on preparing your visa application or requesting a vi
 
 * Open a pull request that adds an entry to the appropriate year's file
   * Include as many fields as possible:
-    * Include the name of the event you plan to attend.
-    * Include the location, dates of the event and where you will be traveling from.
-    * Include the presentation you intend to give, if applicable.
-    * Include the size of the stipend you wish to receive.
+    * The name of the event you plan to attend.
+    * The location, dates of the event and where you will be traveling from.
+    * The presentation you intend to give, if applicable.
+    * The size of the stipend you wish to receive.
       * Reimbursement stipends are expected to vary with travel distance.
       * In the PR description, mention @nodejs/tsc and @nodejs/community-committee.
     * Once the final amount spent is known, update the table again with that information.
