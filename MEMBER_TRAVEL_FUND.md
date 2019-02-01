@@ -3,7 +3,9 @@
 To establish and administer a fund for members of the Node.js Foundation to travel and spread knowledge about and support Node.js 
 ecosystem and the Foundation. 
 
-### [Current Years Fund](https://github.com/nodejs/admin/blob/master/TravelFunds/2018.md)
+### [Current Year Fund](https://github.com/nodejs/admin/blob/master/TravelFunds/2019.md)
+
+### [2018 funds](https://github.com/nodejs/admin/blob/master/TravelFunds/2018.md)
 
 ## Restrictions
 
