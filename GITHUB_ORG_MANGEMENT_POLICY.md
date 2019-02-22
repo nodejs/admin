@@ -66,6 +66,15 @@ rejects the request, then the request is denied.
 In certain cases, Node.js Foundation Board of Directors approval may also be
 required.
 
+### Teams
+
+Collaboration of repositories should be managed via teams. When making a request
+to create a new repository it is a good idea to specify the team(s) that will
+have write or admin access. If there is not currently an appropriate team to
+maintain a new repo a request can be made to create a new team. Provided there are
+no objections from any TSC or CommComm members raised in the issue, such requests
+are approved automatically after 72 hours.
+
 ## Removing or Blocking Individuals
 
 Only Node.js GitHub Organization owners may remove an individual from the
