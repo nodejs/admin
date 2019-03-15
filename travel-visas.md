@@ -45,13 +45,13 @@ Check the visa application processing time and plan accordingly.
 
 ## Which visa do you need? 🛂
 
-In some cases, a visitor or tourism or tourist visa is what you need. In other cases 
-you may need a business visa, especially if you are speaking at a conference on the same 
+In some cases, a visitor or tourism or tourist visa is what you need. In other cases
+you may need a business visa, especially if you are speaking at a conference on the same
 trip. Check the visa policy on the consulate website for what you will need.
 
 It's important to remember that border control always makes the final decision on your
-entry. A visa does not guarantee your getting into a country. It's worth noting that 
-a country's border control authority still has the final say even if you didn't need a 
+entry. A visa does not guarantee your getting into a country. It's worth noting that
+a country's border control authority still has the final say even if you didn't need a
 visa.
 
 ## Extra documents you may need 📝
@@ -67,5 +67,10 @@ The consulate may not be in the city where you live; you'll need to check how yo
 can apply. In some cases, you can apply online or by post. In others, your application
 may need a face-to-face interview at the consulate. Please factor this into your
 plans.
+
+## Need some assistance?
+
+We are adding all VISA related information in this document but If you need more assistance or you have any question for your application, feel free to email us at [visainfo@nodejs.org](mailto:visainfo@nodejs.org). We are not VISA experts but will try
+to assist as much as we can.
 
 [visa-request-form]: https://events.linuxfoundation.org/visa-request/ "visa request form"
