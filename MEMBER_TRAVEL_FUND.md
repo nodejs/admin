@@ -111,32 +111,19 @@ previously received a stipend.
 
 ### Reimbursement
 
-Once the request has been approved, you must:
+Once the request has been approved, you must email travelapprovals@nodejs.org with following information:
 
-
-1. Provide receipts as attachments in an email stating your name, the participation covered,
-and the total approved for reimbursement.
+1. Provide receipts as attachments stating your name, the participation covered and the total approved for reimbursement.
 2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true) and rename as ExpenseReport-Node-EVENTNAME-YOURNAME-YYYYMM.
 3. Sign the form, date the form, and return it as a PDF. The sign line can be found in the lower left hand corner of the above document. The individual tasked with approving the expense will countersign before sending for processing. You may use an e-signature such as docusign or [the 'markup' feature in Preview](https://support.apple.com/guide/preview/fill-out-and-sign-pdf-forms-prvw35725/mac).
 
-4. Expense reports must be submitted within 30 days of event date. Any reports submitted 
-   after 30 days may not be reimbursed.
-5. Disbursements are generally processed within 30 days. 
+#### Important:
 
-Due to privacy, the Individual Members list is not public. This team will verify the
-requester is on the Individual Members list before funds are disbursed. The community
-manager or a member of the Node.js Foundation team within the Linux Foundation will report 
-back amounts consumed from the travel allocation on a monthly basis to the Chairs.
-
-* Provide receipts as attachments in an email stating your name, the event covered, and the total approved for reimbursement.
-* Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true) and rename as ExpenseReport-Node-YOURNAME-YYYYMM.
-* Email this reimbursement request to travelapprovals@nodejs.org.
 * Expense reports must be submitted within 30 days of event date. Any reports submitted after 30 days may not be reimbursed.
-* Disbursements are generally processed within 30 days.
-* Note: We are unable to pre-pay for expenses. 
-
-
-A member of the Node.js Foundation team within the Linux Foundation will report monthly on travel funds allocated to the Chairs.
+* Disbursements are generally processed within 30 days. 
+* We are unable to pre-pay for expenses. 
+* Due to privacy, the Individual Members list is not public. This team will verify the requester is on the Individual Members list before funds are disbursed. The community manager or a member of the Node.js Foundation team within the Linux Foundation will report 
+back amounts consumed from the travel allocation on a monthly basis to the Chairs. A member of the Node.js Foundation team within the Linux Foundation will report monthly on travel funds allocated to the Chairs.
 
 ## 2018 Board of Directors Allocation
 The request from Technical Steering Committee and the Community Committee for a 2018 joint travel fund was 
