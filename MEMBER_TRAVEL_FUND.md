@@ -13,9 +13,6 @@ ecosystem and the Foundation.
 This team will verify the requester is on the Individual Members list before funds are disbursed. 
 * Those requesting funds must indicate that they do not have funding available from another source, such as an employer or 
 the event itself that might cover costs for presenters. 
-* Requester should write a report after the trip. A new request should not be approved until 
-  the requester finish the report for their last trip (starting from May 2019), if there
-  is one.
 
 ## Process
 
@@ -24,6 +21,7 @@ Requests must be made prior to the start of travel. Requests submitted once trav
 It is strongly recommended that you submit your request far enough in advance to get approval before making relevant expenditures. 
 Review of requests will take at least 72 hours and may take considerably longer. Note, with limited funds available, approval is not 
 guaranteed. If a request is rejected, reimbursement will not be issued.The Foundation cannot pre-pay for travel expenditures. 
+It is recommended to write a report after the trip.
 
 ## Visa Tips
 
@@ -90,11 +88,6 @@ mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 
 #### Considerations for approval of a request
 
-#### Contents of previous trip reports
-
-The administrators should take the contents of the requester's previous trip reports (if there is any)
-into account when they decide whether to approve a travel fund request.
-
 ##### Impact
 * Preference is given to events hosted or sponsored by the Node.js Foundation. For example, 
 Node.js collaboration summits and Diagnostics summits should be given precedence because they bring together members of the 
@@ -135,7 +128,7 @@ back amounts consumed from the travel allocation on a monthly basis to the Chair
 
 ### Trip report
 
-After the trip, the requester should post a report, and add a link in the document
+After the trip, it's recommend to write a report, and add a link in the document
 that contains their request. The report may include topics such as:
 
 1. Purpose of this travel.
