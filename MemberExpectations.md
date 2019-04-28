@@ -1,7 +1,7 @@
-It is important that members of our leadership groups (TSC, CommComm) act
-in a way that not only complies with the
-[Code of Conduct](CODE_OF_CONDUCT.md)
-but that supports the vision, mission and operating principles of the Node.js project.
+All participants in the Node.js project must follow the
+[Code of Conduct](CODE_OF_CONDUCT.md). There are further expectations for
+members of leadership teams ([TSC](https://github.com/nodejs/TSC) and
+[CommComm](https://github.com/nodejs/community-committee)).
 
 It is understood that members will have individual opinions and will express
 their individual opinions during discussions within the organization. All
