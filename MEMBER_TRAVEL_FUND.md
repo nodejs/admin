@@ -1,3 +1,5 @@
+# Node.js Membership Travel Fund
+
 ## Purpose
 
 To establish and administer a fund for members of the Node.js Foundation to travel and spread knowledge about and support Node.js 
@@ -49,7 +51,7 @@ and/or we’ve lacked the expertise to be effective.
 For additional information on preparing your visa application or requesting a visa letter, please email 
 [visainfo@nodejs.org](mailto:visainfo@nodejs.org).
 
-### Requesting Travel Funds 
+## Requesting Travel Funds 
 
 * Open a pull request that adds an entry to the appropriate year's file
   * Include as many fields as possible:
@@ -57,12 +59,15 @@ For additional information on preparing your visa application or requesting a vi
     * The location, dates of the event and where you will be traveling from.
     * The presentation you intend to give, if applicable.
     * The size of the stipend you wish to receive.
-      * Reimbursement stipends are expected to vary with travel distance.
+      * In the pull request description, explain how you calculated your
+        stipend. For example, include estimates for airfare, hotel, other
+        transportation, and so on. The total amount should be your stipend
+        request.
       * In the PR description, mention @nodejs/tsc and @nodejs/community-committee.
     * Once the final amount spent is known, update the table again with that information.
     * Certain details of your request (such as the column for date sent to finance) may be unknown initially; these can be filled in and updated during the process of reconciliation.
 
-### Approval
+## Approval
 
 A request is approved when all of the following criteria are met:
 
@@ -86,9 +91,9 @@ As examples, the purpose of prior sponsored travels includes attending TC39 meet
 attending [Node.js collaboration summits](https://github.com/nodejs/summit), and 
 mentoring [Code and Learn](https://github.com/nodejs/code-and-learn).
 
-#### Considerations for approval of a request
+### Considerations for approval of a request
 
-##### Impact
+#### Impact
 * Preference is given to events hosted or sponsored by the Node.js Foundation. For example, 
 Node.js collaboration summits and Diagnostics summits should be given precedence because they bring together members of the 
 Foundation to help the Foundation projects advance. 
@@ -96,21 +101,21 @@ Foundation to help the Foundation projects advance.
 significant impact than attending. However, individuals applying for the travel fund to speak or participate in panels should confirm 
 that the event organizers cannot cover the travel expenses before submitting a request.
 
-##### Outreach
+#### Outreach
 * Preference is given to underserved communities. More specifically, within a subject the foundation is trying to promote awareness 
 about (e.g. general knowledge about the foundation) there are people, communities, and geographies where that knowledge is not very 
 widespread. This is where preference will be given. For instance, an event in San Francisco would be less attractive than an event of 
 the same size in Kansas City.
 
-##### Cost
+#### Cost
 * The larger the stipend the more critically the travel fund admins will consider the request and application. 
 The budget for this program is a finite resource.
 
-##### Equity
+#### Equity
 * Preference is given to individuals who cannot receive travel funding from their employers or individuals who have not 
 previously received a stipend.
 
-### Reimbursement
+## Reimbursement
 
 Once the request has been approved, you must email travelapprovals@nodejs.org with following information:
 
@@ -118,7 +123,7 @@ Once the request has been approved, you must email travelapprovals@nodejs.org wi
 2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true) and rename as ExpenseReport-Node-EVENTNAME-YOURNAME-YYYYMM.
 3. Sign the form, date the form, and return it as a PDF. The sign line can be found in the lower left hand corner of the above document. The individual tasked with approving the expense will countersign before sending for processing. You may use an e-signature such as docusign or [the 'markup' feature in Preview](https://support.apple.com/guide/preview/fill-out-and-sign-pdf-forms-prvw35725/mac).
 
-#### Important:
+### Important:
 
 * Expense reports must be submitted within 30 days of event date. Any reports submitted after 30 days may not be reimbursed.
 * Disbursements are generally processed within 30 days. 
@@ -126,7 +131,7 @@ Once the request has been approved, you must email travelapprovals@nodejs.org wi
 * Due to privacy, the Individual Members list is not public. This team will verify the requester is on the Individual Members list before funds are disbursed. The community manager or a member of the Node.js Foundation team within the Linux Foundation will report 
 back amounts consumed from the travel allocation on a monthly basis to the Chairs. A member of the Node.js Foundation team within the Linux Foundation will report monthly on travel funds allocated to the Chairs.
 
-### Trip report
+## Trip report
 
 After the trip, it's recommend to write a report, and add a link in the document
 that contains their request. The report may include topics such as:
