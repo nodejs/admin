@@ -63,6 +63,10 @@ this default policy applies.
 * *Block* refers to the act of prohibiting an individual GitHub account from any
   further participation in the Node.js GitHub Organization. A block may be
   *temporary* or *indefinite*.
+  * This Moderation Policy applies only to blocking from the organization.
+    Individuals may choose to
+    [block other individuals from their personal GitHub accounts][]. This policy
+    does not restrict blocking from personal GitHub accounts.
 * *Requester* refers to an individual requesting Moderation on a Post.
 
 ## Grounds for Moderation
@@ -364,3 +368,4 @@ in *favor* of the change is required.
 [Escalation of Issues]: #escalation-of-issues
 [Modifications to This Policy]: #modifications-to-this-policy
 [report@nodejs.org]: mailto:report@nodejs.org
+[block other individuals from their personal GitHub accounts]: https://help.github.com/en/articles/blocking-a-user-from-your-personal-account
