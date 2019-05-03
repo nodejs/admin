@@ -59,7 +59,10 @@ For additional information on preparing your visa application or requesting a vi
     * The location, dates of the event and where you will be traveling from.
     * The presentation you intend to give, if applicable.
     * The size of the stipend you wish to receive.
-      * Reimbursement stipends are expected to vary with travel distance.
+      * In the pull request description, explain how you calculated your
+        stipend. For example, include estimates for airfare, hotel, other
+        transportation, and so on. The total amount should be your stipend
+        request.
       * In the PR description, mention @nodejs/tsc and @nodejs/community-committee.
     * Once the final amount spent is known, update the table again with that information.
     * Certain details of your request (such as the column for date sent to finance) may be unknown initially; these can be filled in and updated during the process of reconciliation.
