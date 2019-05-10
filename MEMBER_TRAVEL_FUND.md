@@ -13,7 +13,7 @@ ecosystem and the Foundation.
 
 * Candidates must be an individual member of the Node.js Foundation. [The membership status can be checked on the foundation website](https://identity.linuxfoundation.org/user/login?destination=user/me). Due to privacy, the Individual Members list is not public. 
 This team will verify the requester is on the Individual Members list before funds are disbursed.
-  * Exception: For the Collaborator Summits, members of JavaScript Foundation
+  * Exception: For the Collaborator Summits, members of JS Foundation
     projects may submit funding requests.
 * Those requesting funds must indicate that they do not have funding available from another source, such as an employer or 
 the event itself that might cover costs for presenters.
