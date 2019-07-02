@@ -119,11 +119,35 @@ previously received a stipend.
 
 ## Reimbursement
 
-Once the request has been approved, you must email travelapprovals@nodejs.org with following information:
+So that we can reimburse you more quickly, we strongly encourage you to use
+[Expensify](https://expensify.com) to organize and submit your receipts.  Please
+see our [guide to creating and configuring a free Expensify
+account](./reimbursement_process.pdf).
 
-1. Provide receipts as attachments stating your name, the participation covered and the total approved for reimbursement.
-2. Fill out and attach the [Expense Report](./expense-report-template.xls?raw=true) and rename as ExpenseReport-Node-EVENTNAME-YOURNAME-YYYYMM.
-3. Sign the form, date the form, and return it as a PDF. The sign line can be found in the lower left hand corner of the above document. The individual tasked with approving the expense will countersign before sending for processing. You may use an e-signature such as docusign or [the 'markup' feature in Preview](https://support.apple.com/guide/preview/fill-out-and-sign-pdf-forms-prvw35725/mac).
+Here are the highlights of the process:
+
+* A free Expensify account is sufficient.
+* You can use the Android and iOS apps to capture receipts while you are
+  traveling.  If you do not use the app, you will need to upload photos of your
+  receipts after you return.
+* When you add an expense, please use local currency so that it matches the
+  amount on the receipt.
+* Once you have uploaded your receipts, please add them to a report and submit
+  it with [operations@openjsf.org](mailto:operations@openjsf.org) on cc, and the
+  Memo field set to "YOURNAME - TRIPNAME".
+
+When we receive your report, we will send you a form via DocuSign to collect
+your payment details.  At that point, you're done.
+
+### Alternate process
+
+If you decide not to use Expensify, the reimbursement process is manual and may
+take longer for us to process.  You can email a zip file of your receipts and
+the completed [Expense Report](./expense-report-template.xls?raw=true), renamed
+as ExpenseReport-OpenJS-EVENTNAME-YOURNAME-YYYYMM.xls, to
+[operations@openjsf.org](mailto:operations@openjsf.org).  Please send the file
+as a spreadsheet, not as a PDF.  We will send it back to you for signature in
+DocuSign.
 
 ### Important:
 
