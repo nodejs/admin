@@ -126,7 +126,7 @@ account](./reimbursement_process.pdf).
 
 Here are the highlights of the process:
 
-* A free Expensify account is sufficient.
+* A free [Expensify](https://www.expensify.com/) account is sufficient.
 * You can use the Android and iOS apps to capture receipts while you are
   traveling.  If you do not use the app, you will need to upload photos of your
   receipts after you return.
