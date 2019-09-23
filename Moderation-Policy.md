@@ -289,22 +289,14 @@ remove resigning team member from respective permissions and private access.
 ### Current Members of Moderation Team
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
-* [ryanmurakami](https://github.com/ryanmurakami) -
-**Ryan Lewis** &lt;ryanharrisonlewis@gmail.comt&gt;
-* [thefourtheye](https://github.com/thefourtheye) -
-**Sakthipriyan Vairamani** &lt;thechargingvolcano@gmail.com&gt;
 * [bnb](https://github.com/bnb) -
 **Tierney Cyren** &lt;hello@bnb.im&gt;
-* [hackygolucky](https://github.com/hackygolucky) -
-**Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
-* [gibfahn](https://github.com/gibfahn) -
-**Gibson Fahnestock** &lt;gibfahn@gmail.com&gt;
+* [ljharb](https://github.com/ljharb) -
+**Jordan Harband** &lt;ljharb@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
-* [gdams](https://github.com/gdams) -
-**George Adams** &lt;george.adams@uk.ibm.com&gt;
-* [dshaw](https://github.com/dshaw) -
-**Dan Shaw** &lt;dshaw@dshaw.com&gt;
+* [ryanmurakami](https://github.com/ryanmurakami) -
+**Ryan Lewis** &lt;ryanharrisonlewis@gmail.comt&gt;
 
 
 ### Admins for Node.js Slack community
