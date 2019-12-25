@@ -297,6 +297,8 @@ remove resigning team member from respective permissions and private access.
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 * [ryanmurakami](https://github.com/ryanmurakami) -
 **Ryan Lewis** &lt;ryanharrisonlewis@gmail.comt&gt;
+* [codebytere](https://github.com/codebytere) -
+**Shelley Vohr** &lt;shelley.vohr@gmail.com&gt;
 
 
 ### Admins for Node.js Slack community
