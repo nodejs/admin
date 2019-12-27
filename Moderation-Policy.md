@@ -291,14 +291,18 @@ remove resigning team member from respective permissions and private access.
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [bnb](https://github.com/bnb) -
 **Tierney Cyren** &lt;hello@bnb.im&gt;
+* [codebytere](https://github.com/codebytere) -
+**Shelley Vohr** &lt;shelley.vohr@gmail.com&gt;
+* [gdams](https://github.com/gdams) -
+**George Adams** &lt;george.adams@microsoft.com&gt;
+* [JohnTitor](https://github.com/JohnTitor) -
+**Yuki Okushi** &lt;huyuumi@neet.club&gt;
 * [ljharb](https://github.com/ljharb) -
 **Jordan Harband** &lt;ljharb@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 * [ryanmurakami](https://github.com/ryanmurakami) -
-**Ryan Lewis** &lt;ryanharrisonlewis@gmail.comt&gt;
-* [codebytere](https://github.com/codebytere) -
-**Shelley Vohr** &lt;shelley.vohr@gmail.com&gt;
+**Ryan Lewis** &lt;ryanharrisonlewis@gmail.com&gt;
 
 
 ### Admins for Node.js Slack community
