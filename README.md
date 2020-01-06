@@ -40,6 +40,7 @@ The calendar is maintained by:
 <!-- sorted by GitHub handle -->
 - [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
 - [@bamieh](https://github.com/bamieh) - **Ahmad Bamieh**
+- [@bethgriggs](https://github.com/bethgriggs) - **Beth Griggs**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@dshaw](https://github.com/dshaw) - **Dan Shaw**
 - [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
