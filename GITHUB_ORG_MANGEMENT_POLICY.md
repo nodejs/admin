@@ -1,10 +1,5 @@
 # Node.js GitHub Organization Management Policy
 
-The Node.js Foundation GitHub Organization (https://github.com/nodejs) is
-provided as a development resource by the Node.js Foundation under the direction
-of the Node.js Technical Steering Committee (TSC) and Node.js Foundation
-Community Committee (CommComm).
-
 ## Node.js Admin Repository
 
 The [Node.js admin repository][nodejs/admin] serves as the
@@ -31,7 +26,6 @@ The following groups are granted Ownership permissions:
 
 * TSC members
 * Community Committee Chairperson
-* Community Committee Board Director
 * Moderation team members. The Moderation Team members
 will limit their use of the access granted to that required to carry out
 moderation across the existing repositories.
@@ -45,11 +39,11 @@ members to the organization when requested by a Working Group or team.
 ## Repositories
 
 Any repository created under the Node.js GitHub Organization is considered to be
-a project under the ownership of the Node.js Foundation, and thereby subject
+a project under the ownership of the OpenJS Foundation, and thereby subject
 to the Intellectual Property and Governance policies of the Foundation.
 
 Any organization member may request the management of repositories within the
-Node.js Foundation GitHub Organization by opening an issue in the
+Node.js GitHub Organization by opening an issue in the
 [Node.js admin repository][nodejs/admin]. The actions requested could be:
 
 - Creating a new repository
@@ -63,8 +57,8 @@ objection is made, the request may be moved to a vote in each of the
 Technical Steering and Community Committees. If either the TSC or CommComm
 rejects the request, then the request is denied.
 
-In certain cases, Node.js Foundation Board of Directors approval may also be
-required.
+In certain cases, OpenJS Cross Project Council and/or OpenJS Foundation Board
+of Directors approval may also be required.
 
 ### Teams
 
@@ -76,7 +70,7 @@ objections from TSC or CommComm after 72 hours.
 ## Removing or Blocking Individuals
 
 Only Node.js GitHub Organization owners may remove an individual from the
-Node.js Foundation membership or block individuals. This is due largely to
+Node.js membership or block individuals. This is due largely to
 limitations in the way GitHub permissions are structured.
 
 To remove any current member from the GitHub organization, an issue must be
