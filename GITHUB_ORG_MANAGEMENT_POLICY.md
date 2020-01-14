@@ -1,5 +1,10 @@
 # Node.js GitHub Organization Management Policy
 
+The Node.js GitHub Organization (https://github.com/nodejs) is
+a development resource under the direction
+of the Node.js Technical Steering Committee (TSC) and Node.js Foundation
+Community Committee (CommComm).
+
 ## Node.js Admin Repository
 
 The [Node.js admin repository][nodejs/admin] serves as the
