@@ -1,15 +1,25 @@
 # Administration for TSC + Community Committee collaborative efforts
 This repository is formal efforts of the Node.js project that are overseen and require input from both the [TSC](https://github.com/nodejs/TSC) and [CommComm](https://github.com/nodejs/community-committee).
 
-Initiatives that are overseen here:
-- [Travel Fund](https://github.com/nodejs/admin/blob/master/MEMBER_TRAVEL_FUND.md)
-
 Repositories that fall under the responsibility of the TSC and CommComm:
 
 - This repo
 - [Getting Started](https://github.com/nodejs/getting-started)
-- [Collaboration Summit](https://github.com/nodejs/summit)
 - The private [Moderation](https://github.com/nodejs/moderation) repo (Collaborators-only access)
+
+## Travel Fund
+
+Each member of the Node.js organization can ask for funding to travel and spread knowledge about and support the Javascript ecosystem and the Foundation.
+
+The management of Travel Fund for collaborators is managed by the [OpenJS
+Foundation Cross-Project-Council](https://github.com/openjs-foundation/cross-project-council/blob/master/MEMBER_TRAVEL_FUND.md).
+
+## Collaborator Summit
+
+Every year, Node.js collaborators meet up in one or more Collaborator
+Summit. If you are interested in joining or helping with the
+organization, the management of Collaborators Summit is managed by the [OpenJS
+Foundation Summit team](https://github.com/openjs-foundation/summit).
 
 ## Governance and Current Members
 
