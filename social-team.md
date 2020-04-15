@@ -65,6 +65,10 @@ More explicitly: If an objection is stated, the nomination does not pass.
 
 If a nomination is objected to, the nominee can be re-nominated or re-self-nominated after 6 months.
 
+### Removal
+
+A member of the Social team may be removed on request of any TSC or CommComm member. This request can be raised in the same way as listed for raising an [objection](#objection) to a nomination, in the original nomination issue.
+
 ### Membership Expectations
 
 The Social Team is expected to adhere to the [Membership Expectations](https://github.com/nodejs/admin/blob/master/MemberExpectations.md) document.
