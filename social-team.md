@@ -25,7 +25,7 @@ This team controls and maintains the various social platforms that Node.js has:
 
 ### Access
 
-Social Team members will have full access to all [platofrms](#platforms).
+Social Team members will have full access to all [platforms](#platforms).
 
 ### Expectations
 
