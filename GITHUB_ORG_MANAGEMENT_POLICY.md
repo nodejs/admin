@@ -88,6 +88,23 @@ Blocking an individual who is not currently a member of the GitHub organization
 may occur at any time subject to the policies outlined in the Moderation
 Guidelines.
 
+## GitHub Apps
+
+Installation of GitHub apps for one or more repositories must be approved
+by the TSC and Community Committee.
+
+In order to request the installation of a GitHub application open an 
+issue in the [Node.js admin repository][nodejs/admin] with details of
+the application to be installed the repositories for which it will be
+enabled. A new request is required each time an application is enabled
+for a new repository even if it has already been installed.
+
+Provided there are no objections from any TSC or CommComm members raised in
+the issue, such requests are approved automatically after 72 hours. If any
+objection is made, the request may be moved to a vote in each of the
+Technical Steering and Community Committees. If either the TSC or CommComm
+rejects the request, then the request is denied.
+
 ## Use of Bots and Services
 
 Automation tools such as bots and third-party services on any repository must
