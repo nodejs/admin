@@ -13,7 +13,7 @@ The Social Team is tasked with maintaining the project social accounts. This inc
   - liking, replying, and so on
 - updating account metadata (like bio, avatar, header images, and so on)
 
-With regard to posts and community interaction, there is not requirement or entitlement - rather, posts and interactions are completely at the discretion of the Social Team's members.
+With regard to posts and community interaction, there is no requirement or entitlement - rather, posts and interactions are completely at the discretion of the Social Team's members.
 
 ### Platforms 
 
