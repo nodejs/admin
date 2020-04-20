@@ -65,6 +65,10 @@ More explicitly: If an objection is stated, the nomination does not pass.
 
 If a nomination is objected to, the nominee can be re-nominated or re-self-nominated after 6 months.
 
+### Re-certification
+
+An annual recertification vote is required for all Social Team members. For an individual to be recertified, a simple majority vote in favor of recertification is required by both the TSC and CommComm.
+
 ### Removal
 
 A member of the Social team may be removed on request of any TSC or CommComm member. This request can be raised in the same way as listed for raising an [objection](#objection) to a nomination, in the original nomination issue.
