@@ -99,8 +99,7 @@ the application to be installed the repositories for which it will be
 enabled. A new request is required each time an application is enabled
 for a new repository even if it has already been installed.
 
-Provided there are no objections from any TSC or CommComm members raised in
-the issue, such requests are approved automatically after 72 hours. If any
+The request must be approved by at least two TSC or CommComm members. If any
 objection is made, the request may be moved to a vote in each of the
 Technical Steering and Community Committees. If either the TSC or CommComm
 rejects the request, then the request is denied.
