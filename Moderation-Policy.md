@@ -11,7 +11,6 @@ moderation request, please see [Requesting Moderation][]
 * [Guidelines and Requirements][]
   * [Collaborator Posts][]
   * [Non-Collaborator Posts][]
-  * [Escalation to the TSC][]
   * [Temporary Interaction Limits][]
   * [Temporary and Indefinite Blocks][]
 * [Privacy of the nodejs/moderation Repository][]
@@ -208,8 +207,8 @@ of the [Code of Conduct][].
 
 ### Temporary Interaction Limits
 
-The Moderation Team may, at their discretion, choose to enable GitHub's
-[Temporary Interaction Limits][] on any GitHub repository in the Node.js GitHub
+The Moderation Team may, at their discretion, choose to enable [GitHub's
+Temporary Interaction Limits][] on any GitHub repository in the Node.js GitHub
 Organization.
 
 Any Collaborator may request that the Moderation Team enable the Temporary
@@ -350,7 +349,7 @@ in *favor* of the change is required.
 [Node.js Technical Steering Committee]: https://github.com/nodejs/node#tsc-technical-steering-committee
 [Node.js Community Committee]: https://github.com/nodejs/community-committee
 [GitHub's access permissions documentation]: https://help.github.com/articles/access-permissions-on-github/
-[Temporary Interaction Limits]: https://github.com/blog/2370-introducing-temporary-interaction-limits
+[GitHub's Temporary Interaction Limits]: https://github.com/blog/2370-introducing-temporary-interaction-limits
 [Applicability]: #applicability
 [Terms]: #terms
 [Grounds for Moderation]: #grounds-for-moderation
@@ -359,10 +358,9 @@ in *favor* of the change is required.
 [Guidelines and Requirements]: #guidelines-and-requirements
 [Collaborator Posts]: #collaborator-posts
 [Non-Collaborator Posts]: #non-collaborator-posts
-[Escalation to the TSC]: #escalation-to-the-tsc
 [Temporary Interaction Limits]: #temporary-interaction-limits
 [Temporary and Indefinite Blocks]: #temporary-and-indefinite-blocks
-[Privacy of the nodejs/moderation Repository]: #privacy-of-the-nodejs-moderation-repository
+[Privacy of the nodejs/moderation Repository]: #privacy-of-the-nodejsmoderation-repository
 [Moderation Team]: #moderation-team
 [Moderation Team members]: #current-members
 [Escalation of Issues]: #escalation-of-issues
