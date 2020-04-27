@@ -30,11 +30,10 @@ Members of the TSC and CommComm shall operate under Lazy Consensus as a collabor
 For all votes, the vote must pass in both TSC and CommComm or else the motion fails. If an individual happens to be in both committees, then they would end up with two votes.
 
 ### Contacts for assistance
-- [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**, CommComm Chair
-- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**, CommComm Director
+- [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
+- [@joesepi](https://github.com/joesepi) - **Joe Sepi**, CommComm OpenJS Representative
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
-- [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**, TSC Director
-- [@williamkapke](https://github.com/williamkapke) - **William Kapke**, Individual Membership Director
+- [@mcollina](https://github.com/mcollina) - **Matteo Collina**, TSC OpenJS Representative
 
 ### Admin members
 All active members of the TSC and CommComm.
