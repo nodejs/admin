@@ -6,12 +6,12 @@ Node.js as a project has a Social Team, a joint team between the TSC and CommCom
 
 The Social Team is tasked with maintaining the project social accounts. This includes:
 
-- content creation
-- amplification of our community
-  - sharing, retweeting, and so on
-- engagement with our community
-  - liking, replying, and so on
-- updating account metadata (like bio, avatar, header images, and so on)
+- Content creation
+- Amplification of our community
+  - Sharing, retweeting, and so on
+- Engagement with our community
+  - Liking, replying, and so on
+- Updating account metadata (like bio, avatar, header images, and so on)
 
 With regard to posts and community interaction, there is no requirement or entitlement - rather, posts and interactions are completely at the discretion of the Social Team's members.
 
@@ -31,9 +31,9 @@ Social Team members will have full access to all [platforms](#platforms).
 
 The basic expectations are that **all** Social Team members will have both a willingness and ability to...
 
-- spend time weekly engaging on various platforms, or communicate the inability to do so with other social team members and work with them to ensure there is *some* coverage
-- spend time working with other social team members on building out good content
-- spend time working work project committees, working groups, initiatives, and teams to build effective outward communication as needed
+- Spend time weekly engaging on various platforms, or communicate the inability to do so with other social team members and work with them to ensure there is *some* coverage
+- Spend time working with other social team members on building out good content
+- Spend time working work project committees, working groups, initiatives, and teams to build effective outward communication as needed
 
 ### Repositories
 
