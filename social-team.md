@@ -33,7 +33,7 @@ The basic expectations are that **all** Social Team members will have both a wil
 
 - Spend time engaging on various platforms weekly, or communicate the inability to do so with other social team members and work with them to ensure there is *some* coverage
 - Spend time working with other social team members on building out good content
-- Spend time working work project committees, working groups, initiatives, and teams to build effective outward communication as needed
+- Spend time working with project committees, working groups, initiatives, and teams to build effective outward communication as needed
 
 ### Repositories
 
