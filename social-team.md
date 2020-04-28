@@ -51,7 +51,7 @@ Nominations and self-nominations are open to **project members** on an ongoing b
 
 Membership in the Social Team **requires** zero objections from [TSC](https://github.com/nodejs/tsc) and [CommComm](https://github.com/nodejs/community-committee) members.
 
-Should there be an objection from a TSC member or CommComm member to a nomination, there are multiple paths to surfacing it:
+Should there be an objection from a TSC member or CommComm member to a nomination, there are multiple paths to surface it:
 
 - Directly in a nomination issue
 - Through requesting a peer on the TSC or CommComm proxy your objection
