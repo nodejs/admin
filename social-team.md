@@ -54,7 +54,7 @@ Membership in the Social Team **requires** zero objections from [TSC](https://gi
 Should there be an objection from a TSC member or CommComm member to a nomination, there are multiple paths to surface it:
 
 - Directly in a nomination issue
-- Through requesting a peer on the TSC or CommComm proxy your objection
+- By requesting a peer on the TSC or CommComm to proxy your objection
 - Through the TSC or CommComm chairperson who will proxy your objection
 
 An objection *does* require substantiation beyond a simple `-1`, which can be commented or otherwise passed along through an objection proxy. Since this is a role built upon extreme trust and high impact, the substantiation is not negotiable by either the nominee or other TSC or CommComm members.
