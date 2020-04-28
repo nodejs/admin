@@ -31,7 +31,7 @@ Social Team members will have full access to all [platforms](#platforms).
 
 The basic expectations are that **all** Social Team members will have both a willingness and ability to...
 
-- Spend time weekly engaging on various platforms, or communicate the inability to do so with other social team members and work with them to ensure there is *some* coverage
+- Spend time engaging on various platforms weekly, or communicate the inability to do so with other social team members and work with them to ensure there is *some* coverage
 - Spend time working with other social team members on building out good content
 - Spend time working work project committees, working groups, initiatives, and teams to build effective outward communication as needed
 
