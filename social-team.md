@@ -71,7 +71,7 @@ An annual recertification vote is required for all Social Team members. For an i
 
 ### Removal
 
-A member of the Social team may be removed on request of any TSC or CommComm member. This request can be raised in the same way as listed for raising an [objection](#objection) to a nomination, in the original nomination issue.
+A member of the Social Team may be removed by the request of any TSC or CommComm member. This request can be raised in the same way as is listed for raising an [objection](#objection) to a nomination, in the original nomination issue.
 
 ### Membership Expectations
 
