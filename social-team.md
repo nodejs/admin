@@ -4,7 +4,7 @@ Node.js as a project has a Social Team, a joint team between the TSC and CommCom
 
 ## Responsibilities
 
-The Social Team is tasked with maintaining the project social accounts. This includes:
+The Social Team is tasked with maintaining the project's social accounts. This includes:
 
 - Content creation
 - Amplification of our community
