@@ -1,6 +1,6 @@
 # Social Team
 
-Node.js as a project has a Social Team, a joint team between the TSC and CommComm to which the project has delegated management of official social media.
+Node.js as a project has a Social Team, a joint team between the TSC and CommComm to which the project has delegated the management of its official social media.
 
 ## Responsibilities
 
