@@ -17,7 +17,7 @@ With regard to posts and community interaction, there is no requirement or entit
 
 ### Platforms 
 
-This team controls and maintains the various social platforms that Node.js has:
+This team controls and maintains the various social platforms in which Node.js has an official presence:
 
 - [Node.js on Twitter](https://twitter.com/nodejs)
 - [Node.js on Facebook](https://www.facebook.com/nodejsfoundation)
