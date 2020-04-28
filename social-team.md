@@ -77,4 +77,4 @@ A member of the Social Team may be removed by the request of any TSC or CommComm
 
 The Social Team is expected to adhere to the [Membership Expectations](https://github.com/nodejs/admin/blob/master/MemberExpectations.md) document.
 
-Further, the Social Team is expected to be responsive and open to good-faith feedback from both project and community members about their approach to content and interactions on the platforms they maintain. Social Team members are expected to be proactive in reacting to good-faith feedback received from project and community members.
+Furthermore, the Social Team is expected to be responsive and open to good-faith feedback from both project and community members about their approach to content and interactions on the platforms they maintain. Social Team members are expected to be proactive in reacting to any good-faith feedback received from project and community members.
