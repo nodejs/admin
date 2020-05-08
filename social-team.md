@@ -45,7 +45,7 @@ The Social Team will be responsible for and maintain the following:
 
 ### Nominations
 
-Nominations and self-nominations are open to **project members** on an ongoing basis. An issue should be created in [nodejs/admin](https://github.com/nodejs/admin) for any kind of nomination.
+Nominations and self-nominations are open to **project members** on an ongoing basis. An issue should be created in [nodejs/admin](https://github.com/nodejs/admin) for any kind of nomination. If there are no objections after seven days, the nomination is automatically accepted.
 
 ### Objections
 
