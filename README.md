@@ -38,6 +38,12 @@ For all votes, the vote must pass in both TSC and CommComm or else the motion fa
 ### Admin members
 All active members of the TSC and CommComm.
 
+## Social Team
+
+The currently active members of the [Social Team](./social-team.md):
+
+- [@bnb](https://github.com/bnb) - **Tierney Cyren**
+
 ## Node.js Foundation Calendar
 A calendar of The Foundation's meetings can be found at:
 
