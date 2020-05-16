@@ -43,6 +43,7 @@ All active members of the TSC and CommComm.
 The currently active members of the [Social Team](./social-team.md):
 
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
+- [@larson-carter](https://github.com/larson-carter) - **Larson Carter**
 
 ## Node.js Foundation Calendar
 A calendar of The Foundation's meetings can be found at:
