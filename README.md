@@ -68,7 +68,7 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
 - [@trott](https://github.com/trott) - **Rich Trott**
 
-### Emeritus Calendar Mainters
+### Emeriti Calendar Maintainers
 
 This is a list of former maintainers of the Node.js Community Calendar. If these members become active in the project again and have a reason to be a maintainer, they are more than welcome to move themselves to the [Calendar Maintainers](#calendar-maintainers) list above via a Pull Request.
 
