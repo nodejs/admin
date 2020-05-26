@@ -44,30 +44,37 @@ The currently active members of the [Social Team](./social-team.md):
 
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 
-## Node.js Foundation Calendar
-A calendar of The Foundation's meetings can be found at:
+## Node.js Project Calendar
+
+A calendar of the project's meetings can be found at:
 
 https://nodejs.org/calendar
 
 <sup>Click `+GoogleCalendar` at the bottom right to add to your own Google calendar.</sup>
 
-The calendar is maintained by:
+All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
+
+This list should be reviewed and pruned annually (at minimum). The calendar has a yearly recurring event on Jan 31st for this. An issue should be opened asking the calendar maintainers for their continued volunteering efforts (directly @-mention all members). After 1 week, this list should be PRed removing members that did not respond. [The calendar permissions to be updated once merged](https://support.google.com/a/answer/117596?hl=en).
+
+### Calendar Maintainers
+
 <!-- sorted by GitHub handle -->
-- [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
-- [@bamieh](https://github.com/bamieh) - **Ahmad Bamieh**
 - [@bethgriggs](https://github.com/bethgriggs) - **Beth Griggs**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
-- [@dshaw](https://github.com/dshaw) - **Dan Shaw**
 - [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
-- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
-- [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
 - [@trott](https://github.com/trott) - **Rich Trott**
+
+### Emeriti Calendar Maintainers
+
+This is a list of former maintainers of the Node.js Community Calendar. If these members become active in the project again and have a reason to be a maintainer, they are more than welcome to move themselves to the [Calendar Maintainers](#calendar-maintainers) list above via a Pull Request.
+
+- [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
+- [@bamieh](https://github.com/bamieh) - **Ahmad Bamieh**
+- [@dshaw](https://github.com/dshaw) - **Dan Shaw**
+- [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
+- [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**
-
-All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
-
-This list should be reviewed and pruned annually (at minimum). The calendar has a yearly recurring event on Jan 31st for this. An issue should be opened asking the calendar maintainers for their continued volunteering efforts (directly @-mention all members). After 1 week, this list should be PRed removing members that did not respond. [The calendar permissions to be updated once merged](https://support.google.com/a/answer/117596?hl=en).
