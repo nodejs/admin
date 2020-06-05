@@ -103,7 +103,7 @@ issue in the [Node.js admin repository][nodejs/admin] with details of:
 A new request is required each time an application is enabled
 for a new repository even if it has already been installed.
 
-The request must be approved by at least two TSC or CommComm members and
+The request must be approved by at least two TSC and two CommComm members and
 be open for a minimum of 7 days before landing.
 
 If any objection is made, the request may be moved to a vote in each of the
