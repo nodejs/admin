@@ -96,10 +96,8 @@ All emails sent to the [report@nodejs.org][] address are currently forwarded
 to all members of the Moderation Team.
 
 When a request is sent by email to the [report@nodejs.org][] (or directly to a
-Moderation Team member) a new issue detailing the request must be created in
-the private nodejs/moderation repository. The identity of the individual
-submitting the request should be omitted from the issue unless permission to
-include the identity is provided by the reporter.
+Moderation Team member) the moderation team must log the issue internally and
+report it periodically to the leadership bodies (TSC and CommComm).
 
 Requests should contain as much information and context as possible, including
 the URL and a screenshot of the Post in question. Screenshots may be modified
