@@ -49,7 +49,7 @@ The currently active members of the [Social Team](./social-team.md):
 Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source), Node.js has been comped a paid version of 1Password.
 
 ### Current account owners:
-There will always be two owners of this account - the TSC and CommComm chairpeopple. These owners are expected to use their access only to maintain the account and not for access to credientials that they do not otherwise explicitly have access to through [Groups](#1password-groups) within.
+There will always be two owners of this account - the TSC and CommComm chairpeople. These owners are expected to use their access only to maintain the account and not for access to credientials that they do not otherwise explicitly have access to through [Groups](#1password-groups) within.
 
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
