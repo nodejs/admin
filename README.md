@@ -44,6 +44,21 @@ The currently active members of the [Social Team](./social-team.md):
 
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 
+## Node.js 1Password
+
+Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source), Node.js has been comped a paid version of 1Password. There will always be two owners of this account - the TSC and CommComm chairpeopple.
+
+### Current account owners:
+- [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
+- [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
+
+### 1Password Groups
+Groups are created in 1Password with a 1:1 mapping of Node.js organization teams, as requested. If there is a team in the Node.js organization that would like to have a Group for your Node.js organization team, please PR an addition to the list below and request the current account owners as reviewers on the PR.
+
+#### Current Groups
+
+- **Social Team:** For the [Social Team](#social-team) to contain official account credientials.
+
 ## Node.js Project Calendar
 
 A calendar of the project's meetings can be found at:
