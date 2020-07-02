@@ -88,20 +88,24 @@ Blocking an individual who is not currently a member of the GitHub organization
 may occur at any time subject to the policies outlined in the Moderation
 Guidelines.
 
-## GitHub Apps
+## GitHub Apps, Bot Personal Tokens and Repository Secrets
 
-Installation of GitHub apps for one or more repositories must be approved
-by the TSC and Community Committee.
+Installation of GitHub apps for one or more repositories, creating personal
+tokens for a project bot account (such as `@nodejs-github-bot`) and adding 
+secrets to a repository must be approved by the TSC and Community Committee.
 
-In order to request the installation of a GitHub application open an 
-issue in the [Node.js admin repository][nodejs/admin] with details of:
+In order to request any of the above, open an issue in the 
+[Node.js admin repository][nodejs/admin] with details of:
 
-* the application to be installed
-* the permissions that it requires
-* the repositories for which it will be enabled. 
+* the application to be installed, token to be created or secret to be added
+  * in the case of secrets, don't share the value on the issue, share just 
+    details on how it will be used
+* for apps and personal tokens, the permissions that it requires
+* the repositories for which the app will be installed or the secrets will be 
+  added
 
-A new request is required each time an application is enabled
-for a new repository even if it has already been installed.
+A new request is required each time an application is enabled or a secret is 
+added for a new repository even if it has been done before.
 
 The request must be approved by at least two TSC and two CommComm members and
 be open for a minimum of 7 days before landing.
