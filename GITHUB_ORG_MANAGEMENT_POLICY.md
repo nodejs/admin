@@ -75,7 +75,7 @@ objections from TSC or CommComm after 72 hours.
 ## Teams
 
 To join a Working Group team or a team who fall under the charter of a Working
-Group, read that Working Group governance documentation. For other teams, send
+Group, read that Working Group's governance documentation. For other teams, send
 a join request for the team via the Team page, or, if you are not a member of
 the Node.js org, open an issue on the [Node.js admin repository][nodejs/admin].
 
