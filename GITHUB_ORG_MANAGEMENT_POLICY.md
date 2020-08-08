@@ -85,7 +85,7 @@ those users have permission to add themselves to the team. In this case, use
 your best judgement to decide between adding yourself to the team or asking for
 permission. When joining a `*-admin` which is not bound to a working group or
 repository, open an issue in the nodejs/admin repo pinging the team,
-start a discussion on the team, or contact the team maintainers directly to ask
+inquire using the team discussion feature, or contact the team maintainers directly to ask
 to join.
 
 ## Removing or Blocking Individuals
