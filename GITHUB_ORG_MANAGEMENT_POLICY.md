@@ -84,7 +84,7 @@ Moderation), it is not possible to send a join request to any teams, since
 those users have permission to add themselves to the team. In this case, use
 your best judgement to decide between adding yourself to the team or asking for
 permission. When joining a `*-admin` which is not bound to a working group or
-repository, it is suggested to open an issue on nodejs/admin pinging the team,
+repository, open an issue in the nodejs/admin repo pinging the team,
 start a discussion on the team, or contact the team maintainers directly to ask
 to join.
 
