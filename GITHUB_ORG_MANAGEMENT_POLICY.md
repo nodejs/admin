@@ -65,12 +65,28 @@ rejects the request, then the request is denied.
 In certain cases, OpenJS Cross Project Council and/or OpenJS Foundation Board
 of Directors approval may also be required.
 
-### Teams
+### Repository Team Ownership
 
 When making a request to create a new repository, specify the team(s) that will
 have write or admin access. If there is not an appropriate team to maintain a
 new repository, request a new team. Approval is automatic if there are no
 objections from TSC or CommComm after 72 hours.
+
+## Teams
+
+To join a Working Group team or a team who fall under the charter of a Working
+Group, read that Working Group's governance documentation. For other teams, send
+a join request for the team via the Team page, or, if you are not a member of
+the Node.js org, open an issue on the [Node.js admin repository][nodejs/admin].
+
+For members of teams with org-wide admin permissions (TSC, CommComm and
+Moderation), it is not possible to send a join request to any teams, since
+those users have permission to add themselves to the team. In this case, use
+your best judgement to decide between adding yourself to the team or asking for
+permission. When joining a `*-admin` which is not bound to a working group or
+repository, open an issue in the nodejs/admin repo pinging the team,
+inquire using the team discussion feature, or contact the team maintainers directly to ask
+to join.
 
 ## Removing or Blocking Individuals
 
