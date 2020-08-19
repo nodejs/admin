@@ -37,6 +37,12 @@ well.
 The credentials required for the `nodejs-foundation` user are maintained in
 encrypted form in the [secrets repo][].
 
+## Publishing new packages
+
+To publish a new npm package, send a request to nodejs/admin, pinging TSC and
+CommComm. Publishing a new package follows the same rules as 
+[creating a new GitHub repository][]
 
 [`nodejs-foundation`]: https://www.npmjs.com/~nodejs-foundation
 [secrets repo]: https://github.com/nodejs-private/secrets/blob/master/build/test/test_logins.md
+[creating a new GitHub repository]: https://github.com/nodejs/admin/blob/master/GITHUB_ORG_MANAGEMENT_POLICY.md#repositories
