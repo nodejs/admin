@@ -14,6 +14,9 @@ Ideally, the repository should have the following documents in place:
   the project.
 - `README.md`
 
+Make sure the default branch is set to `main` before transfering the repository
+to the org.
+
 ## Step 2. Open an issue in the admin repository
 
 The people opening the issue should be a member of the Node.js organization,
