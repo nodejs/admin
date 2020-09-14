@@ -123,8 +123,8 @@ In order to request any of the above, open an issue in the
 A new request is required each time an application is enabled or a secret is 
 added for a new repository even if it has been done before.
 
-The request must be approved by at least two TSC and two CommComm members and
-be open for a minimum of 7 days before landing. 
+The request must be approved by at least one TSC and one CommComm members and
+be open for a minimum of 72 hours before landing. 
 
 For GitHub Apps already used in the Org, or for secrets already used in other
 repositories in the Org, the request can be fast-tracked. To fast-track, add
@@ -133,7 +133,7 @@ a) a link showing how the GitHub App or the secret being requested is already
 in use, and b) ask for approvals to fast-track the request. Two members of 
 either TSC or CommComm must approve the fast track request. Fast-tracked 
 requests only need one approval from either TSC or CommComm is required, and 
-the request must  remain open for 72 hours.
+the request must  remain open for 24 hours.
 
 If any objection is made, the request may be moved to a vote in each of the
 Technical Steering and Community Committees. If either the TSC or CommComm
