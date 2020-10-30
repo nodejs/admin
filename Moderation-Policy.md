@@ -66,6 +66,8 @@ this default policy applies.
     Individuals may choose to
     [block other individuals from their personal GitHub accounts][]. This policy
     does not restrict blocking from personal GitHub accounts.
+  * Blocks are kept track of via the GitHub organization "Moderation Settings"
+    feature as well as issues in the private nodejs/moderation repository.
 * *Requester* refers to an individual requesting Moderation on a Post.
 
 ## Grounds for Moderation
