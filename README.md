@@ -94,5 +94,6 @@ This is a list of former maintainers of the Node.js Community Calendar. If these
 - [@bamieh](https://github.com/bamieh) - **Ahmad Bamieh**
 - [@dshaw](https://github.com/dshaw) - **Dan Shaw**
 - [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
+- [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**
