@@ -80,7 +80,6 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 <!-- sorted by GitHub handle -->
 - [@bethgriggs](https://github.com/bethgriggs) - **Beth Griggs**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
-- [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
@@ -96,5 +95,6 @@ This is a list of former maintainers of the Node.js Community Calendar. If these
 - [@bamieh](https://github.com/bamieh) - **Ahmad Bamieh**
 - [@dshaw](https://github.com/dshaw) - **Dan Shaw**
 - [@maddhruv](https://github.com/maddhruv) - **Dhruv Jain**
+- [@gibfahn](https://github.com/gibfahn) - **Gibson Fahnestock**
 - [@hackygolucky](https://github.com/hackygolucky) - **Tracy Hinds**
 - [@williamkapke](https://github.com/williamkapke) - **William Kapke**
