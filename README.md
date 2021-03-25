@@ -80,6 +80,7 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 <!-- sorted by GitHub handle -->
 - [@bethgriggs](https://github.com/bethgriggs) - **Beth Griggs**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
+- [@joesepi](https://github.com/joesepi) - **Joe Sepi**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**
