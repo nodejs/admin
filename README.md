@@ -33,7 +33,7 @@ For all votes, the vote must pass in both TSC and CommComm or else the motion fa
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**, CommComm OpenJS Representative
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
-- [@mmarchini](https://github.com/mmarchini) - **Mary Marchnini**, TSC OpenJS Representative
+- [@mmarchini](https://github.com/mmarchini) - **Mary Marchini**, TSC OpenJS Representative
 
 ### Admin members
 All active members of the TSC and CommComm.
