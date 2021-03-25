@@ -12,7 +12,7 @@ Repositories that fall under the responsibility of the TSC and CommComm:
 Each member of the Node.js organization can ask for funding to travel and spread knowledge about and support the Javascript ecosystem and the Foundation.
 
 The management of Travel Fund for collaborators is managed by the [OpenJS
-Foundation Cross-Project-Council](https://github.com/openjs-foundation/cross-project-council/blob/master/project-resources/MEMBER_TRAVEL_FUND.md).
+Foundation Cross-Project-Council](https://github.com/openjs-foundation/cross-project-council/blob/HEAD/project-resources/MEMBER_TRAVEL_FUND.md).
 
 ## Collaborator Summit
 
@@ -33,7 +33,7 @@ For all votes, the vote must pass in both TSC and CommComm or else the motion fa
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**, CommComm OpenJS Representative
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
-- [@mcollina](https://github.com/mcollina) - **Matteo Collina**, TSC OpenJS Representative
+- [@mmarchini](https://github.com/mmarchini) - **Mary Marchini**, TSC OpenJS Representative
 
 ### Admin members
 All active members of the TSC and CommComm.
