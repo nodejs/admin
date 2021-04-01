@@ -39,6 +39,7 @@ The basic expectations are that **all** Social Team members will have both a wil
 
 The Social Team will be responsible for and maintain the following:
 
+- [nodejs/social-team](https://github.com/nodejs/social-team): a repo for general discussion, logging, and broad requests made of the Social Team.
 - [nodejs/tweet](https://github.com/nodejs/tweet): a repo leveraging [Twitter Together](https://github.com/gr2m/twitter-together) that enables project members to queue up tweets to [@nodejs](https://twitter.com/nodejs) from within GitHub.
 
 ## Membership
