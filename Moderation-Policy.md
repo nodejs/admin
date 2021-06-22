@@ -202,6 +202,8 @@ of the [Code of Conduct][].
   * report accounts to GitHub
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by both TSC and CommComm) are subject to immediate Blocking.
+* Issues, pull requests, discussions, and comments that are spam (job posting,
+  service advertising, etc.) are subject to immediate moderation.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
   posts by non-Collaborators.
 
