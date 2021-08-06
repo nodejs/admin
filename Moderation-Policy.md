@@ -294,8 +294,6 @@ remove resigning team member from respective permissions and private access.
 **Tierney Cyren** &lt;hello@bnb.im&gt;
 * [codebytere](https://github.com/codebytere) -
 **Shelley Vohr** &lt;shelley.vohr@gmail.com&gt;
-* [gdams](https://github.com/gdams) -
-**George Adams** &lt;george.adams@microsoft.com&gt;
 * [JohnTitor](https://github.com/JohnTitor) -
 **Yuki Okushi** &lt;huyuumi@neet.club&gt;
 * [ljharb](https://github.com/ljharb) -
