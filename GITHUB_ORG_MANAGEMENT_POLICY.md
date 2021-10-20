@@ -8,7 +8,7 @@ of the Node.js Technical Steering Committee (TSC).
 
 The [Node.js admin repository][nodejs/admin] serves as the
 central location for managing Node.js GitHub Organization administrative
-activities. Only Node.js GitHub Organization owners and TSC members to 
+activities. Only Node.js GitHub Organization owners and TSC members have write permissions to 
 the Node.js admin repository.
 
 ## Organization Roles
