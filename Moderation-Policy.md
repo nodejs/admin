@@ -50,7 +50,6 @@ this default policy applies.
   Moderation Repository*. See [GitHub's access permissions documentation][] for
   more information.
 * *TSC* refers to the [Node.js Technical Steering Committee][].
-* *CommComm* refers to the [Node.js Community Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment,
   or wiki page.
 * *Moderate* means to modify, lock, or delete one or more Posts to correct or
@@ -99,7 +98,7 @@ to all members of the Moderation Team.
 
 When a request is sent by email to the [report@nodejs.org][] (or directly to a
 Moderation Team member) the moderation team must log the issue internally and
-report it periodically to the leadership bodies (TSC and CommComm).
+report it periodically to the TSC.
 
 Requests should contain as much information and context as possible, including
 the URL and a screenshot of the Post in question. Screenshots may be modified
@@ -201,7 +200,7 @@ of the [Code of Conduct][].
   * block users
   * report accounts to GitHub
 * Accounts that are reasonably believed to be bots (other than bots authorized
-  by both TSC and CommComm) are subject to immediate Blocking.
+  by the TSC) are subject to immediate Blocking.
 * Issues, pull requests, discussions, and comments that are spam (job posting,
   service advertising, etc.) are subject to immediate moderation.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
@@ -249,15 +248,15 @@ Moderation team members have the same expections as other leadership groups
 as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
 
 At least once per month, the Moderation Team must provide a report of all Moderation
-actions taken by the Moderation Team to both the CommComm and TSC.
+actions taken by the Moderation Team to the TSC.
 
 *Nomination*
 
-Moderation team members are Collaborators who self-nominate or are nominated by either 
-the TSC or CommComm. Team members must be approved by *both* committees with annual 
+Moderation team members are Collaborators who self-nominate or are nominated by 
+the TSC. Team members must be approved by the TSC with annual 
 recertification. If there are no objections after seven days, the nomination is automatically
 accepted. If there are objections to a specific nomination, then a simple majority
-vote of each the TSC and CommComm members in *favor* of the nomination is required.
+vote of the TSC in favor of the nomination is required.
 
 *Onboarding*
 
@@ -270,13 +269,11 @@ New Moderation Team members are onboarded with:
 *Recertification*
 
 An annual recertification vote is required for all Moderation Team members.
-For an individual to be recertified, a simple majority vote in *favor* of
-recertification is required by both the TSC and CommComm.
+For an individual to be recertified, a TSC vote in favor of recertification is required.
 
 *Departure*
 
-A simple majority vote of each the TSC and CommComm members is required to remove
-a moderator.
+A TSC vote is required to remove a moderator who has not resigned.
 
 *Resignation*
 
@@ -320,34 +317,31 @@ remove resigning team member from respective permissions and private access.
 
 ## Escalation of Issues
 
-Moderation issue disputes not involving a TSC, CommComm or Moderation Team
-member may be escalated to the TSC and CommComm for review by tagging the
+Moderation issue disputes not involving a TSC or Moderation Team
+member may be escalated to the TSC for review by tagging the
 original issue, pull request, or associated nodejs/moderation repository
 tracking issue with the `moderation-review` label. Any such Moderation action
-may be overturned through a simple majority vote of each of the TSC and
-CommComm members.
+may be overturned through a TSC vote.
 
-TSC, CommComm or Moderation Team members directly involved in a Moderation
-issue -- as either the Requester or author of the Post in question -- are
-*required* to recuse themselves from any decisions required to resolve the
+TSC or Moderation Team members directly involved in a Moderation
+issue (as either the Requester or author of the Post in question) are
+required to recuse themselves from any decisions required to resolve the
 issue.
 
-Moderation disputes involving TSC, CommComm or Moderation Team members,
-including questions of whether TSC, CommComm or Moderation Team member has
+Moderation disputes involving TSC or Moderation Team members,
+including questions of whether a TSC or Moderation Team member has
 violated the Code of Conduct, *shall* be referred to an Independent Mediator
-selected by the Node.js Foundation.
+selected by the OpenJS Foundation.
 
 ## Modifications to This Policy
 
-Modifications to this policy are subject to approval by both the TSC and
-CommComm. When modifications are proposed, if there are no objections after
-72 hours, the modification are considered accepted. If there any objections to
-any proposed change, a simple majority vote of each of the CommComm and TSC
-in *favor* of the change is required.
+Modifications to this policy are subject to approval by the TSC.
+When modifications are proposed, if there are no objections after
+72 hours, the modifications are considered accepted. If there any objections to
+any proposed change, a TSC vote in favor of the change is required.
 
 [Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
 [Node.js Technical Steering Committee]: https://github.com/nodejs/node#tsc-technical-steering-committee
-[Node.js Community Committee]: https://github.com/nodejs/community-committee
 [GitHub's access permissions documentation]: https://help.github.com/articles/access-permissions-on-github/
 [GitHub's Temporary Interaction Limits]: https://github.com/blog/2370-introducing-temporary-interaction-limits
 [Applicability]: #applicability
