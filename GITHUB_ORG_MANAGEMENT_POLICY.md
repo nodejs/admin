@@ -56,7 +56,7 @@ Node.js GitHub Organization by opening an issue in the
 
 Provided there are no objections from any TSC members raised in
 the issue, such requests are approved automatically after 72 hours. If any
-objection is made, the request may be moved to a vote in each of the
+objection is made, the request may be moved to a vote in the
 Technical Steering. If the TSC rejects the request, then the request is denied.
 
 In certain cases, OpenJS Cross Project Council and/or OpenJS Foundation Board
