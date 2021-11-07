@@ -94,7 +94,7 @@ limitations in the way GitHub permissions are structured.
 To remove any current member from the GitHub organization, an issue must be
 opened in the Node.js admin repository. If, after 72 hours, there are no
 objections from any TSC members, removal becomes automatic. If there are 
-objections, then simple majority votes of each of the Technical Steering
+objections, then a vote of the Technical Steering
 Committee in favor of removal are required.
 
 Blocking an individual who is not currently a member of the GitHub organization
