@@ -129,7 +129,7 @@ the `fast-track` label to the request, and leave a comment which must contain:
 a) a link showing how the GitHub App or the secret being requested is already 
 in use, and b) ask for approvals to fast-track the request. Two members of the 
 TSC must approve the fast track request. Fast-tracked requests require only 
-need one approval from the TSC, and the request must  remain open for 72 hours.
+one approval from the TSC, and the request must remain open for 72 hours.
 
 If any objection is made, the request may be moved to a vote in the TSC. 
 If the TSC rejects the request, then the request is denied.
