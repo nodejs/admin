@@ -120,7 +120,7 @@ In order to request any of the above, open an issue in the
 A new request is required each time an application is enabled or a secret is 
 added for a new repository even if it has been done before.
 
-The request must be approved by at least three TSC members and
+The request must be approved by at least two TSC members and
 be open for a minimum of 7 days before landing.
 
 For GitHub Apps already used in the Org, or for secrets already used in other
