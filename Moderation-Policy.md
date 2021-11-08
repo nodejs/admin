@@ -214,7 +214,7 @@ Organization.
 
 Any Collaborator may request that the Moderation Team enable the Temporary
 Interaction Limits by posting an issue to the moderation repository. If the
-Moderation Team choose not to do so, then a comment explaining why that
+Moderation Team chooses not to do so, then a comment explaining why that
 decision was made should be added to the moderation repository thread.
 
 ### Temporary and Indefinite Blocks
@@ -244,7 +244,7 @@ removed from the Node.js GitHub organization.
 
 The Node.js Moderation Team is tasked with enforcement of this policy.
 
-Moderation team members have the same expections as other leadership groups
+Moderation team members have the same expectations as other leadership groups
 as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
 
 At least once per month, the Moderation Team must provide a report of all Moderation
@@ -337,7 +337,7 @@ selected by the OpenJS Foundation.
 
 Modifications to this policy are subject to approval by the TSC.
 When modifications are proposed, if there are no objections after
-72 hours, the modifications are considered accepted. If there any objections to
+72 hours, the modifications are accepted. If there any objections to
 any proposed change, a TSC vote in favor of the change is required.
 
 [Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
