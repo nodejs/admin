@@ -14,11 +14,15 @@ Ideally, the repository should have the following documents in place:
   the project.
 - `README.md`
 
+It's recommended to set the default branch to `main` before transferring the
+repository to the org, assuming that's possible without breaking existing
+tooling or workflows.
+
 ## Step 2. Open an issue in the admin repository
 
 The people opening the issue should be a member of the Node.js organization,
 so they can ping the relevant GitHub teams to discuss about the request.
-If the person who want to initiate the request is not a member, they could ask
+If the person who wants to initiate the request is not a member, they could ask
 an existing member to open the issue, or request to join the organization.
 
 Go to [the issue tracker of the Node.js admin repository][], open an issue
@@ -31,7 +35,7 @@ to request moving the repository into the organization. The issue should include
   the request and weigh in.
 
 See the [Node.js GitHub Organization Management Policy][] on how the request
-are approved.
+is approved.
 
 ## Step 3. Transfer the repository
 
@@ -49,7 +53,7 @@ If the transferred repository has one or more associated npm packages for releas
 [the Node.js foundation npm account](https://www.npmjs.com/~nodejs-foundation)
 should be added to the list of the npm collaborators of the packages. The account
 is managed by the Node.js Build Working Group and only serves as a safety net.
-The releases should still by done by the original releasers.
+The releases should still be done by the original releasers.
 
 See [NPM Management](./npm-management.md) on more about the Node.js foundation
 npm account.
