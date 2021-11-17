@@ -121,15 +121,16 @@ A new request is required each time an application is enabled or a secret is
 added for a new repository even if it has been done before.
 
 The request must be approved by at least two TSC members and
-be open for a minimum of 7 days before landing.
+be open for a minimum of 72 hours before landing.
 
 For GitHub Apps already used in the Org, or for secrets already used in other
 repositories in the Org, the request can be fast-tracked. To fast-track, add
 the `fast-track` label to the request, and leave a comment which must contain:
 a) a link showing how the GitHub App or the secret being requested is already 
 in use, and b) ask for approvals to fast-track the request. Two members of the 
-TSC must approve the fast track request. Fast-tracked requests require only 
-one approval from the TSC, and the request must remain open for 72 hours.
+TSC must approve the fast track request. Fast-tracked requests require only
+one approval from the TSC, and the request must remain open for 24 hours.
+
 
 If any objection is made, the request may be moved to a vote in the TSC. 
 If the TSC rejects the request, then the request is denied.
