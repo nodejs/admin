@@ -108,7 +108,7 @@ tokens for a project bot account (such as `@nodejs-github-bot`) and adding
 secrets to a repository must be approved by the TSC.
 
 In order to request any of the above, open an issue in the 
-[Node.js admin repository][nodejs/admin] with details of:
+[Node.js TSC repository][nodejs/tsc] with details of:
 
 * the application to be installed, token to be created or secret to be added
   * in the case of secrets, don't share the value on the issue, share just 
