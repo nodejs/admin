@@ -84,6 +84,7 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
+- [@mmarchini](https://github.com/mmarchini) - **Mary Marchini**
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
 - [@trott](https://github.com/trott) - **Rich Trott**
