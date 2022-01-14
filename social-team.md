@@ -1,6 +1,6 @@
 # Social Team
 
-Node.js as a project has a Social Team, a joint team between the TSC and CommComm to which the project has delegated the management of its official social media.
+Node.js as a project has a Social Team to which the project has delegated the management of its official social media.
 
 ## Responsibilities
 
@@ -50,15 +50,15 @@ Nominations and self-nominations are open to **project members** on an ongoing b
 
 ### Objections
 
-Membership in the Social Team **requires** zero objections from [TSC](https://github.com/nodejs/tsc) and [CommComm](https://github.com/nodejs/community-committee) members.
+Membership in the Social Team **requires** zero objections from [TSC](https://github.com/nodejs/tsc) members.
 
-Should there be an objection from a TSC member or CommComm member to a nomination, there are multiple paths to surface it:
+Should there be an objection from a TSC member to a nomination, there are multiple paths to surface it:
 
 - Directly in a nomination issue
-- By requesting a peer on the TSC or CommComm to proxy your objection
-- Through the TSC or CommComm chairperson who will proxy your objection
+- By requesting a peer on the TSC to proxy your objection
+- Through the TSC chairperson who will proxy your objection
 
-An objection *does* require substantiation beyond a simple `-1`, which can be commented or otherwise passed along through an objection proxy. Since this is a role built upon extreme trust and high impact, the substantiation is not negotiable by either the nominee or other TSC or CommComm members.
+An objection *does* require substantiation beyond a simple `-1`, which can be commented or otherwise passed along through an objection proxy. Since this is a role built upon extreme trust and high impact, the substantiation is not negotiable by either the nominee or other TSC members.
 
 More explicitly: If an objection is stated, the nomination does not pass.
 
@@ -68,11 +68,11 @@ If a nomination is objected to, the nominee can be re-nominated or re-self-nomin
 
 ### Re-certification
 
-An annual recertification vote is required for all Social Team members. For an individual to be recertified, a simple majority vote in favor of recertification is required by both the TSC and CommComm.
+An annual recertification vote is required for all Social Team members. For an individual to be recertified, a simple majority vote in favor of recertification is required by the TSC.
 
 ### Removal
 
-A member of the Social Team may be removed by the request of any TSC or CommComm member. This request can be raised in the same way as is listed for raising an [objection](#objection) to a nomination, in the original nomination issue.
+A member of the Social Team may be removed by the request of any TSC member. This request can be raised in the same way as is listed for raising an [objection](#objection) to a nomination, in the original nomination issue.
 
 ### Membership Expectations
 
