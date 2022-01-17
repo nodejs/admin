@@ -1,6 +1,6 @@
 # Moderation policy
 
-If you are not a member of the Node.js GitHub Organization and wish to submit a
+If you are not a member of the Node.js GitHub Organizations and wish to submit a
 moderation request, please see [Requesting Moderation][]
 
 * [Applicability][]
@@ -20,10 +20,10 @@ moderation request, please see [Requesting Moderation][]
 
 ## Applicability
 
-By default, this policy applies to all repositories under the Node.js GitHub
-Organization and all Node.js Working Groups. This policy also applies to the
-[Node.js Slack Community](https://node-js.slack.com), supported by the Admin
-team of the Slack organization.
+By default, this policy applies to all repositories under the Node.js
+[GitHub Organizations][] and all Node.js Working Groups. This policy also
+applies to the [Node.js Slack Community](https://node-js.slack.com),
+supported by the Admin team of the Slack organization.
 
 Individual Working Groups may adopt an alternative Moderation Policy for any
 repository under their stewardship so long as the Moderation Policy is
@@ -56,10 +56,10 @@ this default policy applies.
   address Code of Conduct violations.
 * *Remove* refers to the act of removing the configured write (commit)
   permissions for an individual Collaborator's GitHub account from *all*
-  Node.js GitHub Organization repositories as well as removing the account from
-  the Node.js GitHub Organization membership.
+  Node.js GitHub Organizations repositories as well as removing the account from
+  the Node.js GitHub Organizations membership.
 * *Block* refers to the act of prohibiting an individual GitHub account from any
-  further participation in the Node.js GitHub Organization. A block may be
+  further participation in the Node.js GitHub Organizations. A block may be
   *temporary* or *indefinite*.
   * This Moderation Policy applies only to blocking from the organization.
     Individuals may choose to
@@ -109,7 +109,7 @@ used to request Moderation.
 
 Collaborators must never discuss the specific details of a Moderation request
 in any public forum or any social media service outside of the Node.js GitHub
-Organization.
+Organizations.
 
 Note that quoting the original content of a Post within a Moderation request or
 nodejs/moderation repository issue is not considered a violation of the
@@ -139,12 +139,12 @@ a Post from Moderation.
   within that repository's issue tracker.
 * The Moderation Team serves as the final arbiter for all Moderation issues.
 * Moderation Team members may Remove or Block an individual from the Node.js
-  GitHub Organization.
+  GitHub Organizations.
 * For any Removal or Blocking action, an issue describing the reasons for the
   action, and identifying the Github account being acted upon, must be posted
   to the Moderation Repository with an explanation provided by the Moderation
   Team member performing the action.
-* Any individual Blocked from the Node.js GitHub Organization will be recommended
+* Any individual Blocked from the Node.js GitHub Organizations will be recommended
   for exclusion from any Node.js Foundation sponsored event or activity.
 * Minor edits to the formatting of a Post or to correct typographical errors
   are not considered to be "Moderation". Such edits and their intent should
@@ -210,7 +210,7 @@ of the [Code of Conduct][].
 
 The Moderation Team may, at their discretion, choose to enable [GitHub's
 Temporary Interaction Limits][] on any GitHub repository in the Node.js GitHub
-Organization.
+Organizations.
 
 Any Collaborator may request that the Moderation Team enable the Temporary
 Interaction Limits by posting an issue to the moderation repository. If the
@@ -361,3 +361,5 @@ any proposed change, a TSC vote in favor of the change is required.
 [Modifications to This Policy]: #modifications-to-this-policy
 [report@nodejs.org]: mailto:report@nodejs.org
 [block other individuals from their personal GitHub accounts]: https://help.github.com/en/articles/blocking-a-user-from-your-personal-account
+[GitHub Organizations]: https://github.com/nodejs/admin/blob/master/GITHUB_ORG_MANAGEMENT_POLICY.md
+
