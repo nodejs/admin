@@ -15,29 +15,20 @@ the Node.js admin repository.
 
 ### Owners
 
-Whether to grant Owner permissions is determined by optimizing
-for the following conflicting requirements:
-
-* Limiting access to reduce risk
-* Enabling individuals to move community work forward without undue delay
-
-When possible, automation and tools should be used to reduce the breadth of
-access that needs to be provided in order to enable individuals to move
-community work forward. As these tools are created, the groups to which
-Owner permissions are granted will be reduced.
-
-The following groups are granted Ownership permissions:
-
-* **TSC members.**
-* **Moderation team members.** The Moderation Team members
-will limit their use of the access granted to that required to carry out
-moderation across the existing repositories.
+TSC members are the only group granted the owner role in the Node.js GitHub
+organization.
 
 ### Members
 
 GitHub users are added as members to the Node.js GitHub Organization when they
 are added to any Working Group or team. Organization Owners should add new
 members to the organization when requested by a Working Group or team.
+
+### Moderation
+
+Moderation team members can block and unblock users from the organization in
+accordance with our moderation policy. They can also manage interaction limits
+for public repositories.
 
 ## Repositories
 
