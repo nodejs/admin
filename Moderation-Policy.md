@@ -104,7 +104,7 @@ Requests should contain as much information and context as possible, including
 the URL and a screenshot of the Post in question. Screenshots may be modified
 to obscure obscene or offensive content.
 
-External public venues or social media services such as Twitter should never be
+External public venues or social media services such as Twitter must never be
 used to request Moderation.
 
 Collaborators must never discuss the specific details of a Moderation request
@@ -147,7 +147,7 @@ a Post from Moderation.
 * Any individual Blocked from the Node.js GitHub Organization will be recommended
   for exclusion from any Node.js Foundation sponsored event or activity.
 * Minor edits to the formatting of a Post or to correct typographical errors
-  are not considered to be "Moderation". Such edits and their intent should
+  are not considered to be "Moderation". Such edits and their intent must
   still be documented with a short note indicating who made the edit and why.
 
 ### Collaborator Posts
@@ -156,7 +156,7 @@ a Post from Moderation.
   given a reasonable opportunity to modify or remove the Post on their own.
 * If the author of the Post disagrees that Moderation is required, the matter
   can be escalated to the Moderation Team for resolution. In such cases, no
-  Moderation action should be taken until a decision by the Moderation Team is
+  Moderation action may be taken until a decision by the Moderation Team is
   made.
 * When Moderating any Post authored by another Collaborator, the moderating
   Collaborator must:
@@ -178,14 +178,14 @@ a Post from Moderation.
 * Posts authored by non-Collaborators are always subject to immediate Moderation
 by any Collaborator if the content is intentionally disruptive or in violation
 of the [Code of Conduct][].
-* When Moderating non-Collaborator Posts, the moderating Collaborator should:
+* When Moderating non-Collaborator Posts, the moderating Collaborator must:
   * Explain the justification for Moderating the post, and
   * Identify all changes made to the Post.
   * If the Moderation action included Blocking, an indication of whether the Block
     is temporary or indefinite is required, along with a note justifying the
     action.
 * If an explanation of a Moderation action for a non-Collaborator Post is
-  provided, it should be provided in:
+  provided, it must be provided in:
   * The original Post being modified (as replacement or appended content),
   * A new post within the original thread, or
   * A new issue within the private nodejs/moderation repository.
@@ -215,7 +215,7 @@ Organization.
 Any Collaborator may request that the Moderation Team enable the Temporary
 Interaction Limits by posting an issue to the moderation repository. If the
 Moderation Team chooses not to do so, then a comment explaining why that
-decision was made should be added to the moderation repository thread.
+decision was made must be added to the moderation repository thread.
 
 ### Temporary and Indefinite Blocks
 
