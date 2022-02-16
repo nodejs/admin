@@ -177,8 +177,8 @@ a Post from Moderation.
 
 * Posts authored by non-Collaborators are always subject to immediate Moderation
 by any Collaborator if the content is intentionally disruptive or in violation
-of the [Code of Conduct][].
-* When Moderating non-Collaborator Posts, the moderating Collaborator must:
+of the [Code of Conduct][]. 
+* When moderating non-Collaborator posts, the moderating Collaborator must:
   * Explain the justification for Moderating the post, and
   * Identify all changes made to the Post.
   * If the Moderation action included Blocking, an indication of whether the Block
@@ -192,19 +192,46 @@ of the [Code of Conduct][].
 * Moderation of Posts authored by non-Collaborators may result in those
   non-Collaborators being Blocked temporarily or indefinitely from further
   participation in the Node.js GitHub organization.
-* One may immediately bypass the above procedures if it is clear that there is no intention to
-  collaborate in good faith. In such cases, it is permissible to immediately:
-  * remove posts
-  * lock issues/pull requests
-  * delete issues/pull requests
-  * block users
-  * report accounts to GitHub
+* It is always permitted and encouraged to report users interacting in bad
+  faith to GitHub.
+* If there is clear that there is no intention to collaborate in good faith,
+  it is possible to hide comments of non-Collaborators. In that case there is
+  an exception to the reporting requirement described above.
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by the TSC) are subject to immediate Blocking.
 * Issues, pull requests, discussions, and comments that are spam (job posting,
   service advertising, etc.) are subject to immediate moderation.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
   posts by non-Collaborators.
+
+There are a few examples of modearing non-Collaborator posts:
+
+Scenario 1:
+ * A non-Collaborator posts a comment that indicates that they are a bot.
+ * A collaborator sees the post and hides it.
+ * No further action is necessary.
+
+Scenario 2:
+ * A non-Collaborator posts a comment that is against the Code of Conduct.
+ * A Collaborator sees the comment and asks the author to self-moderate.
+ * The author refuses to self-moderate.
+ * The Collaborator deletes the comment and posts an issue in the moderation
+   repository explaining their actions.
+
+Scenario 3:
+ * A non-Collaborator opens a pull request with comments indicating they are a
+   bot.
+ * A Collaborator sees that pull requests, closes it, deletes the comments
+   and posts an issue in the moderation repository explaining their actions.
+ * A moderation team member sees the issue and decides to ban the user from the
+   organization.
+
+Scenario 4:
+ * A non-Collaborator posts a comment on an old commit that is against the
+   Code of Conduct and not in good faith.
+ * A Collaborator sees the comment and deletes it.
+ * The Collaborator posts an issue in the moderation repository explaining
+   their actions.
 
 ### Temporary Interaction Limits
 
