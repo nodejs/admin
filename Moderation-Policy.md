@@ -204,7 +204,7 @@ of the [Code of Conduct][].
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
   posts by non-Collaborators.
 
-There are a few examples of modearing non-Collaborator posts:
+There are a few examples of moderating non-Collaborator posts:
 
 Scenario 1:
  * A non-Collaborator posts a comment that indicates that they are a bot.
