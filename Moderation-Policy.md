@@ -194,7 +194,7 @@ of the [Code of Conduct][].
   participation in the Node.js GitHub organization.
 * It is always permitted and encouraged to report users interacting in bad
   faith to GitHub.
-* If there is clear that there is no intention to collaborate in good faith,
+* If it is clear that there is no intention to collaborate in good faith,
   it is possible to hide comments of non-Collaborators. In that case there is
   an exception to the reporting requirement described above.
 * Accounts that are reasonably believed to be bots (other than bots authorized
