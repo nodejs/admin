@@ -223,7 +223,7 @@ Scenario 3:
    bot.
  * A Collaborator sees that pull requests, closes it, deletes the comments
    and posts an issue in the moderation repository explaining their actions.
- * A moderation team member sees the issue and decides to ban the user from the
+ * A moderation team member sees the issue and decides to block the user from the
    organization.
 
 Scenario 4:
