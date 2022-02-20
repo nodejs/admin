@@ -177,7 +177,7 @@ a Post from Moderation.
 
 * Posts authored by non-Collaborators are always subject to immediate Moderation
 by any Collaborator if the content is intentionally disruptive or in violation
-of the [Code of Conduct][]. 
+of the [Code of Conduct][].
 * When moderating non-Collaborator posts, the moderating Collaborator must:
   * Explain the justification for Moderating the post, and
   * Identify all changes made to the Post.
