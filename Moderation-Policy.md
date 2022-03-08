@@ -20,28 +20,10 @@ moderation request, please see [Requesting Moderation][]
 
 ## Applicability
 
-By default, this policy applies to all repositories under the Node.js GitHub
+This policy applies to all repositories under the Node.js GitHub
 Organization and all Node.js Working Groups. This policy also applies to the
 [Node.js Slack Community](https://node-js.slack.com), supported by the Admin
 team of the Slack organization.
-
-Individual Working Groups may adopt an alternative Moderation Policy for any
-repository under their stewardship so long as the Moderation Policy is
-openly documented as part of the Working Group charter and includes provisions
-for clearly and openly documenting Moderation actions taken.
-
-If a particular repository can be considered to fall under the stewardship of
-multiple Working Groups that have adopted different Moderation Policies, they
-can choose to either:
-
-* Decide among themselves which Moderation Policy will be in effect for the
-  repository in question, or
-* Ask the TSC to determine which Moderation Policy should apply.
-
-Any alternative Moderation Policy used for a given repository must be included
-in the root directory of the repository using the `Moderation-Policy.md`
-filename. If a repository does not contain a `Moderation-Policy.md` file, then
-this default policy applies.
 
 ## Terms
 
