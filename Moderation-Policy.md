@@ -33,7 +33,7 @@ team of the Slack organization.
   more information.
 * *TSC* refers to the [Node.js Technical Steering Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment,
-  or wiki page.
+  discussion, or wiki page.
 * *Moderate* means to modify, lock, or delete one or more Posts to correct or
   address Code of Conduct violations.
 * *Remove* refers to the act of removing the configured write (commit)
