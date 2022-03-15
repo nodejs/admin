@@ -267,6 +267,8 @@ remove resigning team member from respective permissions and private access.
 <!-- referenced from the CoC page -->
 <a id="current-members"></a>
 ### Current Members of Moderation Team
+* [aduh95](https://github.com/aduh95) -
+  **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [bnb](https://github.com/bnb) -
