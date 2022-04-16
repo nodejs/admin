@@ -88,5 +88,3 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
 - [@trott](https://github.com/trott) - **Rich Trott**
 
-### Emeriti Calendar Maintainers
-
