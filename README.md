@@ -90,6 +90,3 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 
 ### Emeriti Calendar Maintainers
 
-This is a list of former maintainers of the Node.js Community Calendar. If these members become active in the project again and have a reason to be a maintainer, they are more than welcome to move themselves to the [Calendar Maintainers](#calendar-maintainers) list above via a Pull Request.
-
-- [@amiller-gh](https://github.com/amiller-gh) - **Adam Miller**
