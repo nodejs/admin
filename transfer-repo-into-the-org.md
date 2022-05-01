@@ -4,15 +4,17 @@
 
 Ideally, the repository should have the following documents in place:
 
-- `CODE_OF_CONDUCT.md`: it can be a reference to
-  [the Node.js Code of Conduct][coc].
-- `CONTRIBUTING.md`: if there isn't one already, [the contributing guide][]
-  of Node.js core could be a good example. Consider including the Developer's
-  Certificate of Origin section in the document to avoid potential copyright
-  conflicts.
 - `LICENSE`, or other kind of documents that describe the license of
   the project.
 - `README.md`
+
+Ideally, it would not have the following documents to inherit them from
+[nodejs/.github](https://github.com/nodejs/.github):
+
+- `CODE_OF_CONDUCT.md`.
+- `CONTRIBUTING.md`: if there is one already, consider including the Developer's
+  Certificate of Origin section in the document to avoid potential copyright
+  conflicts.
 
 It's recommended to set the default branch to `main` before transferring the
 repository to the org, assuming that's possible without breaking existing
