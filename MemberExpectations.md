@@ -1,7 +1,6 @@
 All participants in the Node.js project must follow the
 [Code of Conduct](CODE_OF_CONDUCT.md). There are further expectations for
-members of leadership teams ([TSC](https://github.com/nodejs/TSC) and
-[CommComm](https://github.com/nodejs/community-committee)).
+members of the ([TSC](https://github.com/nodejs/TSC).
 
 It is understood that members will have individual opinions and will express
 their individual opinions during discussions within the organization. All
