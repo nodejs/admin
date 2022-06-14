@@ -46,5 +46,3 @@ If it appears that any member of the project leadership is acting outside
 of the expectations set above please refer to our
 [moderation](Moderation-Policy.md)
 policy which outlines the process of making an official complaint.
-
-This policy, and changes to it, are not retroactive.
