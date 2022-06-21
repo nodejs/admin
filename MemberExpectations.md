@@ -11,8 +11,10 @@ unwilling or unable to do so, then they should resign their leadership position.
 This does not mean that decisions cannot be revisited and discussed within the
 team at a later time.
 
-Members of our leadership groups must also conduct themselves in a
-professional and respectful manner. Some general guidelines include:
+Everyone participating in the Node.js project must conduct themselves in
+a professional and respectful manner in accordance with our
+[Code of Conduct](CODE_OF_CONDUCT.md). In addition, some general guidelines for
+leadership group members include:
 
 - Remediate quickly when you realize you made a mistake. Leaders are human,
   and they will make mistakes. However they should act swiftly to
