@@ -228,7 +228,7 @@ Scenario 3:
 
 Scenario 4:
  * A non-Collaborator posts a comment on an old commit that is against the
-   Code of Conduct and not in good faith.
+   Code of Conduct.
  * A Collaborator sees the comment, takes a screenshot, and deletes it.
  * The Collaborator posts an issue in the moderation repository explaining
    their actions.
