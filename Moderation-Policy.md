@@ -187,7 +187,8 @@ of the [Code of Conduct][].
   posts by non-Collaborators.
 * Members of the Moderation Team or TSC can delete any issues or comments posted
   by accounts that have been deleted by GitHub. These accounts show up in the
-  GitHub interface as user `ghost`.
+  GitHub interface as user `ghost`. There is no need
+  to screenshot or document these deletions.
 
 ### Temporary Interaction Limits
 
