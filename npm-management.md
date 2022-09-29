@@ -39,7 +39,7 @@ encrypted form in the [secrets repo][].
 
 ## Publishing new packages
 
-To publish a new npm package, send a request to nodejs/admin, pinging TSC and
+To publish a new npm package, send a request to nodejs/admin, pinging TSC.
 CommComm. Publishing a new package follows the same rules as 
 [creating a new GitHub repository][]
 
