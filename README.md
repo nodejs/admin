@@ -44,6 +44,7 @@ The currently active members of the [Social Team](./social-team.md):
 
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
+- [@trott](https://github.com/trott) - **Rich Trott**
 
 ## Node.js 1Password
 
