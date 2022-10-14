@@ -20,28 +20,10 @@ moderation request, please see [Requesting Moderation][]
 
 ## Applicability
 
-By default, this policy applies to all repositories under the Node.js
+This policy applies to all repositories under the Node.js
 [GitHub Organizations][] and all Node.js Working Groups. This policy also
 applies to the [Node.js Slack Community](https://node-js.slack.com),
 supported by the Admin team of the Slack organization.
-
-Individual Working Groups may adopt an alternative Moderation Policy for any
-repository under their stewardship so long as the Moderation Policy is
-openly documented as part of the Working Group charter and includes provisions
-for clearly and openly documenting Moderation actions taken.
-
-If a particular repository can be considered to fall under the stewardship of
-multiple Working Groups that have adopted different Moderation Policies, they
-can choose to either:
-
-* Decide among themselves which Moderation Policy will be in effect for the
-  repository in question, or
-* Ask the TSC to determine which Moderation Policy should apply.
-
-Any alternative Moderation Policy used for a given repository must be included
-in the root directory of the repository using the `Moderation-Policy.md`
-filename. If a repository does not contain a `Moderation-Policy.md` file, then
-this default policy applies.
 
 ## Terms
 
@@ -51,7 +33,7 @@ this default policy applies.
   more information.
 * *TSC* refers to the [Node.js Technical Steering Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment,
-  or wiki page.
+  discussion, or wiki page.
 * *Moderate* means to modify, lock, or delete one or more Posts to correct or
   address Code of Conduct violations.
 * *Remove* refers to the act of removing the configured write (commit)
@@ -65,8 +47,6 @@ this default policy applies.
     Individuals may choose to
     [block other individuals from their personal GitHub accounts][]. This policy
     does not restrict blocking from personal GitHub accounts.
-  * Blocks are kept track of via the GitHub organization "Moderation Settings"
-    feature as well as issues in the private nodejs/moderation repository.
 * *Requester* refers to an individual requesting Moderation on a Post.
 
 ## Grounds for Moderation
@@ -104,7 +84,7 @@ Requests should contain as much information and context as possible, including
 the URL and a screenshot of the Post in question. Screenshots may be modified
 to obscure obscene or offensive content.
 
-External public venues or social media services such as Twitter should never be
+External public venues or social media services such as Twitter must never be
 used to request Moderation.
 
 Collaborators must never discuss the specific details of a Moderation request
@@ -147,7 +127,7 @@ a Post from Moderation.
 * Any individual Blocked from the Node.js GitHub Organizations will be recommended
   for exclusion from any Node.js Foundation sponsored event or activity.
 * Minor edits to the formatting of a Post or to correct typographical errors
-  are not considered to be "Moderation". Such edits and their intent should
+  are not considered to be "Moderation". Such edits and their intent must
   still be documented with a short note indicating who made the edit and why.
 
 ### Collaborator Posts
@@ -156,7 +136,7 @@ a Post from Moderation.
   given a reasonable opportunity to modify or remove the Post on their own.
 * If the author of the Post disagrees that Moderation is required, the matter
   can be escalated to the Moderation Team for resolution. In such cases, no
-  Moderation action should be taken until a decision by the Moderation Team is
+  Moderation action may be taken until a decision by the Moderation Team is
   made.
 * When Moderating any Post authored by another Collaborator, the moderating
   Collaborator must:
@@ -178,14 +158,14 @@ a Post from Moderation.
 * Posts authored by non-Collaborators are always subject to immediate Moderation
 by any Collaborator if the content is intentionally disruptive or in violation
 of the [Code of Conduct][].
-* When Moderating non-Collaborator Posts, the moderating Collaborator should:
+* When Moderating non-Collaborator Posts, the moderating Collaborator must:
   * Explain the justification for Moderating the post, and
   * Identify all changes made to the Post.
   * If the Moderation action included Blocking, an indication of whether the Block
     is temporary or indefinite is required, along with a note justifying the
     action.
 * If an explanation of a Moderation action for a non-Collaborator Post is
-  provided, it should be provided in:
+  provided, it must be provided in:
   * The original Post being modified (as replacement or appended content),
   * A new post within the original thread, or
   * A new issue within the private nodejs/moderation repository.
@@ -205,6 +185,10 @@ of the [Code of Conduct][].
   service advertising, etc.) are subject to immediate moderation.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
   posts by non-Collaborators.
+* Members of the Moderation Team or TSC can delete any issues or comments posted
+  by accounts that have been deleted by GitHub. These accounts show up in the
+  GitHub interface as user `ghost`. There is no need
+  to screenshot or document these deletions.
 
 ### Temporary Interaction Limits
 
@@ -215,7 +199,7 @@ Organizations.
 Any Collaborator may request that the Moderation Team enable the Temporary
 Interaction Limits by posting an issue to the moderation repository. If the
 Moderation Team chooses not to do so, then a comment explaining why that
-decision was made should be added to the moderation repository thread.
+decision was made must be added to the moderation repository thread.
 
 ### Temporary and Indefinite Blocks
 
@@ -285,6 +269,8 @@ remove resigning team member from respective permissions and private access.
 <!-- referenced from the CoC page -->
 <a id="current-members"></a>
 ### Current Members of Moderation Team
+* [aduh95](https://github.com/aduh95) -
+**Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [bnb](https://github.com/bnb) -
