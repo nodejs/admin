@@ -42,7 +42,6 @@ All active members of the TSC and CommComm.
 
 The currently active members of the [Social Team](./social-team.md):
 
-- [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
 - [@Trott](https://github.com/Trott) - **Rich Trott**
 
