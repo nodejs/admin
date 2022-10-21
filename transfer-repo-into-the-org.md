@@ -30,9 +30,8 @@ to request moving the repository into the organization. The issue should include
 
 - The owner and the name of the repository, and a link to it.
 - What the repository is for, why it should be transferred into the organization.
-- Mentions of `@nodejs/community-committee` and `@nodejs/tsc` so the Community
-  Committee and the Technical Steering Committee members can be notified about
-  the request and weigh in.
+- Mentions of `@nodejs/tsc` so the Technical Steering Committee members can be 
+  notified about the request and weigh in.
 
 See the [Node.js GitHub Organization Management Policy][] on how the request
 is approved.
