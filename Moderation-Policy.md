@@ -273,8 +273,6 @@ remove resigning team member from respective permissions and private access.
 **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
-* [bnb](https://github.com/bnb) -
-**Tierney Cyren** &lt;hello@bnb.im&gt;
 * [codebytere](https://github.com/codebytere) -
 **Shelley Vohr** &lt;shelley.vohr@gmail.com&gt;
 * [JohnTitor](https://github.com/JohnTitor) -
