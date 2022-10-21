@@ -292,8 +292,6 @@ remove resigning team member from respective permissions and private access.
 **Alexander Tesfamichael** &lt;alex.tesfamichael@gmail.com&gt;
 * [aredridel](https://github.com/aredridel) -
 **Aria Stewart** &lt;aredridel@dinhe.net&gt;
-* [bnb](https://github.com/bnb) -
-**Tierney Cyren** &lt;hello@bnb.im&gt;
 * [ljharb](https://github.com/ljharb) -
 **Jordan Harband** &lt;ljharb@gmail.com&gt;
 * [jxm262](https://github.com/jxm262) -
