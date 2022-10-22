@@ -36,6 +36,10 @@ Thanks to 1Password's [open-source program](https://github.com/1Password/1passwo
 
 Groups are created in 1Password with a 1:1 mapping of Node.js organization teams, as requested. Groups are asssigned to Vaults, which contain distinct sets of credentials that should only be used by the Groups that are provided access to them. If there is a team in the Node.js organization that would like to have a Group for your Node.js organization team, please PR an addition to the list below and request the current account owners as reviewers on the PR.
 
+#### Current Groups
+
+- **Social Team:** For the [Social Team](#social-team) to contain official account credientials.
+
 ## Node.js Project Calendar
 
 A calendar of the project's meetings can be found at:
