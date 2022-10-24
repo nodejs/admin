@@ -277,8 +277,6 @@ remove resigning team member from respective permissions and private access.
 **Shelley Vohr** &lt;shelley.vohr@gmail.com&gt;
 * [JohnTitor](https://github.com/JohnTitor) -
 **Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
-* [ljharb](https://github.com/ljharb) -
-**Jordan Harband** &lt;ljharb@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 * [ryanmurakami](https://github.com/ryanmurakami) -
