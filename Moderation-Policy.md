@@ -51,7 +51,7 @@ supported by the Admin team of the Slack organization.
 
 ## Grounds for Moderation
 
-Any Post considered to be in violation of the Node.js [Code of Conduct][] is
+Any Post in violation of the Node.js [Code of Conduct][] is
 subject to Moderation.
 
 The Moderation Team is responsible for deciding what constitutes inappropriate
@@ -92,7 +92,7 @@ in any public forum or any social media service outside of the Node.js GitHub
 Organizations.
 
 Note that quoting the original content of a Post within a Moderation request or
-nodejs/moderation repository issue is not considered a violation of the
+nodejs/moderation repository issue is not a violation of the
 [Code of Conduct][]. However, discretion is advised when including such quotes
 in requests posted to public repositories.
 
@@ -106,7 +106,7 @@ Before Moderating a Post, Collaborators should carefully consider the possible
 intent of the author. It may be that the author has simply made an error or is
 not yet familiar with the [Code of Conduct][]; or it may be that cultural
 differences exist, or that the author is unaware that certain content is
-considered inappropriate. In such cases, the author should be given an
+inappropriate. In such cases, the author should be given an
 opportunity to correct any error that may have been made.
 
 Note, however, that unfamiliarity with the [Code of Conduct][] does not excuse
@@ -127,7 +127,7 @@ a Post from Moderation.
 * Any individual Blocked from the Node.js GitHub Organizations will be recommended
   for exclusion from any Node.js Foundation sponsored event or activity.
 * Minor edits to the formatting of a Post or to correct typographical errors
-  are not considered to be "Moderation". Such edits and their intent must
+  are not "Moderation". Such edits and their intent must
   still be documented with a short note indicating who made the edit and why.
 
 ### Collaborator Posts
