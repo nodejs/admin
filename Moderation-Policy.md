@@ -181,10 +181,10 @@ of the [Code of Conduct][].
   service advertising, etc.) are subject to immediate moderation.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
   posts by non-Collaborators.
-* Members of the Moderation Team or TSC can delete any issues or comments posted
-  by accounts that have been deleted by GitHub. These accounts show up in the
-  GitHub interface as user `ghost`. There is no need
-  to screenshot or document these deletions.
+* Moderation Team members and TSC voting members can delete any issues or
+  comments posted by accounts that have been deleted by GitHub. These accounts
+  show up in the GitHub interface as user `ghost`. There is no need to
+  screenshot or document these deletions.
 
 There are a few examples of moderating non-Collaborator posts:
 
@@ -257,15 +257,15 @@ Moderation team members have the same expectations as other leadership groups
 as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
 
 At least once per month, the Moderation Team must provide a report of all Moderation
-actions taken by the Moderation Team to the TSC.
+actions taken by the Moderation Team to TSC voting members.
 
 *Nomination*
 
 Moderation team members are Collaborators who self-nominate or are nominated by 
-the TSC. Team members must be approved by the TSC with annual 
+the TSC. Team members must be approved by the TSC voting members with annual 
 recertification. If there are no objections after seven days, the nomination is automatically
-accepted. If there are objections to a specific nomination, then a simple majority
-vote of the TSC in favor of the nomination is required.
+accepted. If there are objections to a specific nomination, then TSC vote
+in favor of the nomination is required.
 
 *Onboarding*
 
@@ -324,8 +324,8 @@ remove resigning team member from respective permissions and private access.
 
 ## Escalation of Issues
 
-Moderation issue disputes not involving a TSC or Moderation Team
-member may be escalated to the TSC for review by tagging the
+Moderation issue disputes not involving a TSC voting member or Moderation Team
+member may be escalated to the TSC voting members for review by tagging the
 original issue, pull request, or associated nodejs/moderation repository
 tracking issue with the `moderation-review` label. Any such Moderation action
 may be overturned through a TSC vote.
