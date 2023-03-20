@@ -262,7 +262,7 @@ actions taken by the Moderation Team to the TSC.
 *Nomination*
 
 Moderation team members are Collaborators who self-nominate or are nominated by 
-the TSC. Team members must be approved by the TSC voting members with annual 
+the TSC. Team members must be approved by the TSC with annual 
 recertification. If there are no objections after seven days, the nomination is automatically
 accepted. If there are objections to a specific nomination, then TSC vote
 in favor of the nomination is required.
