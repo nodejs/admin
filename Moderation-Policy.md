@@ -257,7 +257,7 @@ Moderation team members have the same expectations as other leadership groups
 as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
 
 At least once per month, the Moderation Team must provide a report of all Moderation
-actions taken by the Moderation Team to TSC voting members.
+actions taken by the Moderation Team to the TSC.
 
 *Nomination*
 
