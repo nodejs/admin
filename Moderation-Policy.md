@@ -325,7 +325,7 @@ remove resigning team member from respective permissions and private access.
 ## Escalation of Issues
 
 Moderation issue disputes not involving a TSC voting member or Moderation Team
-member may be escalated to the TSC voting members for review by tagging the
+member may be escalated to the TSC for review by tagging the
 original issue, pull request, or associated nodejs/moderation repository
 tracking issue with the `moderation-review` label. Any such Moderation action
 may be overturned through a TSC vote.
