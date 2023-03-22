@@ -16,6 +16,11 @@ Ideally, it would not have the following documents to inherit them from
   Certificate of Origin section in the document to avoid potential copyright
   conflicts.
 
+Note that if the above documents are not checked out on the repository, they
+will appear on the GitHub web UI but not on local clones of the repository. The
+upside is that if the upstream document updates, no action needs to be taken for
+the downstream repository to stay up-to-date.
+
 It's recommended to set the default branch to `main` before transferring the
 repository to the org, assuming that's possible without breaking existing
 tooling or workflows.
