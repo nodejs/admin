@@ -165,10 +165,10 @@ of the [Code of Conduct][].
     is temporary or indefinite is required, along with a note justifying the
     action.
 * If an explanation of a Moderation action for a non-Collaborator Post is
-  provided, it must be provided in:
-  * The original Post being modified (as replacement or appended content),
-  * A new post within the original thread, or
-  * A new issue within the private nodejs/moderation repository.
+  provided, it must be provided in a new issue within the private
+  [nodejs/moderation][] repository. The reason for this is that we want to keep
+  a trace of the Moderation action even if the issue or pull request is deleted
+  after the fact.
 * Moderation of Posts authored by non-Collaborators may result in those
   non-Collaborators being Blocked temporarily or indefinitely from further
   participation in the Node.js GitHub organization.
@@ -369,4 +369,5 @@ any proposed change, a TSC vote in favor of the change is required.
 [report@nodejs.org]: mailto:report@nodejs.org
 [block other individuals from their personal GitHub accounts]: https://help.github.com/en/articles/blocking-a-user-from-your-personal-account
 [GitHub Organizations]: https://github.com/nodejs/admin/blob/master/GITHUB_ORG_MANAGEMENT_POLICY.md
+[nodejs/moderation]: https://github.com/nodejs/moderation
 
