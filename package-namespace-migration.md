@@ -1,6 +1,6 @@
-# Node.js Package Namespace Migration Plan
+# Node.js Package Scope Migration Plan
 
-Packages intended to be used directly by general developers should be published under the `@nodejs` namespace. Packages intended to be used only by Node.js contributors should be published under the `@node-core` namespace.
+Packages intended to be used directly by general developers should be published under the `@nodejs` scope. Packages intended to be used only by Node.js contributors should be published under the `@node-core` scope.
 
 Packages that already exist and are used directly by general developers, i.e. `undici`, should be cross-published to the new scope and existing name. It should remain this way until the *next major* version is released, in which case the existing name should be *deprecated* and instruct users to start the upgrade path to the new major using the new scope.
 
