@@ -308,6 +308,8 @@ remove resigning team member from respective permissions and private access.
 **Ryan Lewis** &lt;ryanharrisonlewis@gmail.com&gt;
 * [Trott](https://github.com/Trott) -
 **Rich Trott** &lt;rtrott@gmail.com&gt;
+* [ovflowd](https://github.com/ovflowd) -
+**Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
 
 
 ### Admins for Node.js Slack community
@@ -369,4 +371,3 @@ any proposed change, a TSC vote in favor of the change is required.
 [report@nodejs.org]: mailto:report@nodejs.org
 [block other individuals from their personal GitHub accounts]: https://help.github.com/en/articles/blocking-a-user-from-your-personal-account
 [GitHub Organizations]: https://github.com/nodejs/admin/blob/master/GITHUB_ORG_MANAGEMENT_POLICY.md
-
