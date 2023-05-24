@@ -298,18 +298,16 @@ remove resigning team member from respective permissions and private access.
 **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
-* [codebytere](https://github.com/codebytere) -
-**Shelley Vohr** &lt;shelley.vohr@gmail.com&gt;
 * [JohnTitor](https://github.com/JohnTitor) -
 **Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+* [ovflowd](https://github.com/ovflowd) -
+**Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
 * [ryanmurakami](https://github.com/ryanmurakami) -
 **Ryan Lewis** &lt;ryanharrisonlewis@gmail.com&gt;
 * [Trott](https://github.com/Trott) -
 **Rich Trott** &lt;rtrott@gmail.com&gt;
-* [ovflowd](https://github.com/ovflowd) -
-**Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
 
 
 ### Admins for Node.js Slack community
