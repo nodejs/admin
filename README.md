@@ -1,4 +1,4 @@
-# Administration for TSC + Community Committee collaborative efforts
+# Administration for Node.js collaborative efforts
 This repository is formal efforts of the Node.js project that are overseen and require input from both the [TSC](https://github.com/nodejs/TSC) and [CommComm](https://github.com/nodejs/community-committee).
 
 Repositories that fall under the responsibility of the TSC and CommComm:
