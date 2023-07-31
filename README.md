@@ -1,4 +1,5 @@
 # Administration for TSC + Community Committee collaborative efforts
+
 This repository is formal efforts of the Node.js project that are overseen and require input from both the [TSC](https://github.com/nodejs/TSC) and [CommComm](https://github.com/nodejs/community-committee).
 
 Repositories that fall under the responsibility of the TSC and CommComm:
@@ -30,12 +31,14 @@ Members of the TSC and CommComm shall operate under Lazy Consensus as a collabor
 For all votes, the vote must pass in both TSC and CommComm or else the motion fails. If an individual happens to be in both committees, then they would end up with two votes.
 
 ### Contacts for assistance
+
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**, CommComm OpenJS Representative
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 - [@mmarchini](https://github.com/mmarchini) - **Mary Marchini**, TSC OpenJS Representative
 
 ### Admin members
+
 All active members of the TSC and CommComm.
 
 ## Social Team
@@ -50,6 +53,7 @@ The currently active members of the [Social Team](./social-team.md):
 Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source), Node.js has been comped a paid version of 1Password.
 
 ### Current account owners:
+
 There will always be two owners of this account - the TSC and CommComm chairpeople. These owners are expected to use their access only to maintain the account and not for access to credientials that they do not otherwise explicitly have access to through [Groups](#1password-groups) within.
 
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**, CommComm Chair
