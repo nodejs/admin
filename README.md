@@ -43,7 +43,6 @@ All active members of the TSC and CommComm.
 The currently active members of the [Social Team](./social-team.md):
 
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
-- [@Trott](https://github.com/Trott) - **Rich Trott**
 
 ## Node.js 1Password
 
