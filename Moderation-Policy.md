@@ -270,7 +270,7 @@ in favor of the nomination is required.
 *Onboarding*
 
 New Moderation Team members are onboarded with:
-- an invite to Node.js Moderation Team Slack
+- an invite to Node.js Moderation Team channel in the OpenJS Slack
 - permission changes made to GitHub to allow access to moderate
 - a walkthrough of relevant processes, expectations, and documents by an existing Moderation Team member
 - access to existing documents
