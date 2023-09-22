@@ -135,7 +135,6 @@ in use, and b) ask for approvals to fast-track the request. Two members of the
 TSC must approve the fast track request. Fast-tracked requests require only
 one approval from the TSC, and the request must remain open for 24 hours.
 
-
 If any objection is made, the request may be moved to a vote in the TSC. 
 If the TSC rejects the request, then the request is denied.
 
