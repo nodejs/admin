@@ -16,7 +16,10 @@ Foundation Cross-Project-Council](https://github.com/openjs-foundation/cross-pro
 
 ## Collaborator Summit
 
-Every year, Node.js collaborators meet up in one or more Collaborator Summit. If you are interested in joining or helping with the organization, the management of Collaborators Summit is managed by the [OpenJS Foundation Summit team](https://github.com/openjs-foundation/summit).
+Every year, Node.js collaborators meet up in one or more Collaborator
+Summit. If you are interested in joining or helping with the
+organization, the management of Collaborators Summit is managed by the [OpenJS
+Foundation Summit team](https://github.com/openjs-foundation/summit).
 
 ## Governance and Current Members
 
