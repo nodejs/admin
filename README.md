@@ -1,6 +1,7 @@
 # Administration Documents for Node.js
 
-This repository is formal efforts of the Node.js project that are overseen by the [TSC](https://github.com/nodejs/TSC) regarding the less technical aspects of the project.
+This repository is formal efforts of the Node.js project that are overseen by the
+[TSC](https://github.com/nodejs/TSC) regarding the less technical aspects of the project.
 
 It is also used to discuss:
 
@@ -23,7 +24,8 @@ Foundation Summit team](https://github.com/openjs-foundation/summit).
 
 ## Governance and Current Members
 
-The Admin repo is overseen by the [TSC](https://github.com/nodejs/TSC). Any action requiring consensus and voting will abide by the TSC process for that.
+The Admin repo is overseen by the [TSC](https://github.com/nodejs/TSC). Any
+action requiring consensus and voting will abide by the TSC process for that.
 
 ### Contacts for assistance
 
@@ -42,7 +44,8 @@ The currently active members of the [Social Team](./social-team.md):
 
 ## Node.js 1Password
 
-Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source), Node.js has been comped a paid version of 1Password, managed by the TSC chair person.
+Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source),
+Node.js has been comped a paid version of 1Password, managed by the TSC chair person.
 
 ### 1Password Groups
 
