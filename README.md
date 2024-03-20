@@ -29,8 +29,6 @@ The Admin repo is overseen by the [TSC](https://github.com/nodejs/TSC). Any acti
 
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**, TSC Vice Chair
-- [@joesepi](https://github.com/joesepi) - **Joe Sepi**, CommComm OpenJS Representative
-- [@mmarchini](https://github.com/mmarchini) - **Mary Marchini**, TSC OpenJS Representative
 
 ### Admin members
 
@@ -44,7 +42,7 @@ The currently active members of the [Social Team](./social-team.md):
 
 ## Node.js 1Password
 
-Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source), Node.js has been comped a paid version of 1Password, owned by the TSC.
+Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source), Node.js has been comped a paid version of 1Password, managed by the TSC chair person.
 
 ### 1Password Groups
 
