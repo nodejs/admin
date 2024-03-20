@@ -51,7 +51,7 @@ supported by the Admin team of the Slack organization.
 
 ## Grounds for Moderation
 
-Any Post considered to be in violation of the Node.js [Code of Conduct][] is
+Any Post in violation of the Node.js [Code of Conduct][] is
 subject to Moderation.
 
 The Moderation Team is responsible for deciding what constitutes inappropriate
@@ -92,7 +92,7 @@ in any public forum or any social media service outside of the Node.js GitHub
 Organizations.
 
 Note that quoting the original content of a Post within a Moderation request or
-nodejs/moderation repository issue is not considered a violation of the
+nodejs/moderation repository issue is not a violation of the
 [Code of Conduct][]. However, discretion is advised when including such quotes
 in requests posted to public repositories.
 
@@ -106,7 +106,7 @@ Before Moderating a Post, Collaborators should carefully consider the possible
 intent of the author. It may be that the author has simply made an error or is
 not yet familiar with the [Code of Conduct][]; or it may be that cultural
 differences exist, or that the author is unaware that certain content is
-considered inappropriate. In such cases, the author should be given an
+inappropriate. In such cases, the author should be given an
 opportunity to correct any error that may have been made.
 
 Note, however, that unfamiliarity with the [Code of Conduct][] does not excuse
@@ -127,7 +127,7 @@ a Post from Moderation.
 * Any individual Blocked from the Node.js GitHub Organizations will be recommended
   for exclusion from any Node.js Foundation sponsored event or activity.
 * Minor edits to the formatting of a Post or to correct typographical errors
-  are not considered to be "Moderation". Such edits and their intent must
+  are not "Moderation". Such edits and their intent must
   still be documented with a short note indicating who made the edit and why.
 
 ### Collaborator Posts
@@ -158,7 +158,7 @@ a Post from Moderation.
 * Posts authored by non-Collaborators are always subject to immediate Moderation
 by any Collaborator if the content is intentionally disruptive or in violation
 of the [Code of Conduct][].
-* When Moderating non-Collaborator Posts, the moderating Collaborator must:
+* When moderating non-Collaborator posts, the moderating Collaborator must:
   * Explain the justification for Moderating the post, and
   * Identify all changes made to the Post.
   * If the Moderation action included Blocking, an indication of whether the Block
@@ -172,23 +172,48 @@ of the [Code of Conduct][].
 * Moderation of Posts authored by non-Collaborators may result in those
   non-Collaborators being Blocked temporarily or indefinitely from further
   participation in the Node.js GitHub organization.
-* One may immediately bypass the above procedures if it is clear that there is no intention to
-  collaborate in good faith. In such cases, it is permissible to immediately:
-  * remove posts
-  * lock issues/pull requests
-  * delete issues/pull requests
-  * block users
-  * report accounts to GitHub
+* If it is clear that there is no intention to collaborate in good faith,
+  it is possible to hide comments of non-Collaborators. In that case there is
+  an exception to the reporting requirement described above.
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by the TSC) are subject to immediate Blocking.
 * Issues, pull requests, discussions, and comments that are spam (job posting,
   service advertising, etc.) are subject to immediate moderation.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
   posts by non-Collaborators.
-* Members of the Moderation Team or TSC can delete any issues or comments posted
-  by accounts that have been deleted by GitHub. These accounts show up in the
-  GitHub interface as user `ghost`. There is no need
-  to screenshot or document these deletions.
+* Moderation Team members and TSC voting members can delete any issues or
+  comments posted by accounts that have been deleted by GitHub. These accounts
+  show up in the GitHub interface as user `ghost`. There is no need to
+  screenshot or document these deletions.
+
+There are a few examples of moderating non-Collaborator posts:
+
+Scenario 1:
+ * A non-Collaborator posts a comment that indicates that they are a bot.
+ * A collaborator sees the post and hides it.
+ * No further action is necessary.
+
+Scenario 2:
+ * A non-Collaborator posts a comment that is against the Code of Conduct.
+ * A Collaborator sees the comment and asks the author to self-moderate.
+ * The author refuses to self-moderate.
+ * The Collaborator deletes the comment and posts an issue in the moderation
+   repository explaining their actions.
+
+Scenario 3:
+ * A non-Collaborator opens a pull request with comments indicating they are a
+   bot.
+ * A Collaborator sees that pull requests, closes it, deletes the comments
+   and posts an issue in the moderation repository explaining their actions.
+ * A moderation team member sees the issue and decides to block the user from the
+   organization.
+
+Scenario 4:
+ * A non-Collaborator posts a comment on an old commit that is against the
+   Code of Conduct.
+ * A Collaborator sees the comment, takes a screenshot, and deletes it.
+ * The Collaborator posts an issue in the moderation repository explaining
+   their actions.
 
 ### Temporary Interaction Limits
 
@@ -239,13 +264,13 @@ actions taken by the Moderation Team to the TSC.
 Moderation team members are Collaborators who self-nominate or are nominated by 
 the TSC. Team members must be approved by the TSC with annual 
 recertification. If there are no objections after seven days, the nomination is automatically
-accepted. If there are objections to a specific nomination, then a simple majority
-vote of the TSC in favor of the nomination is required.
+accepted. If there are objections to a specific nomination, then a TSC vote
+in favor of the nomination is required.
 
 *Onboarding*
 
 New Moderation Team members are onboarded with:
-- an invite to Node.js Moderation Team Slack
+- an invite to Node.js Moderation Team channel in the OpenJS Slack
 - permission changes made to GitHub to allow access to moderate
 - a walkthrough of relevant processes, expectations, and documents by an existing Moderation Team member
 - access to existing documents
@@ -273,14 +298,12 @@ remove resigning team member from respective permissions and private access.
 **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
-* [codebytere](https://github.com/codebytere) -
-**Shelley Vohr** &lt;shelley.vohr@gmail.com&gt;
 * [JohnTitor](https://github.com/JohnTitor) -
 **Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
-* [ljharb](https://github.com/ljharb) -
-**Jordan Harband** &lt;ljharb@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+* [ovflowd](https://github.com/ovflowd) -
+**Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
 * [ryanmurakami](https://github.com/ryanmurakami) -
 **Ryan Lewis** &lt;ryanharrisonlewis@gmail.com&gt;
 * [Trott](https://github.com/Trott) -
@@ -301,7 +324,7 @@ remove resigning team member from respective permissions and private access.
 
 ## Escalation of Issues
 
-Moderation issue disputes not involving a TSC or Moderation Team
+Moderation issue disputes not involving a TSC voting member or Moderation Team
 member may be escalated to the TSC for review by tagging the
 original issue, pull request, or associated nodejs/moderation repository
 tracking issue with the `moderation-review` label. Any such Moderation action
@@ -346,4 +369,3 @@ any proposed change, a TSC vote in favor of the change is required.
 [report@nodejs.org]: mailto:report@nodejs.org
 [block other individuals from their personal GitHub accounts]: https://help.github.com/en/articles/blocking-a-user-from-your-personal-account
 [GitHub Organizations]: https://github.com/nodejs/admin/blob/master/GITHUB_ORG_MANAGEMENT_POLICY.md
-

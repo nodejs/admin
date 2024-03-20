@@ -23,10 +23,21 @@ Every year, Node.js collaborators meet up in one or more Collaborator Summit. If
 The Admin repo is overseen by the [TSC](https://github.com/nodejs/TSC). Any action requiring consensus and voting will abide by the TSC process for that.
 
 ### Contacts for assistance
+
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**, TSC Vice Chair
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**, CommComm OpenJS Representative
 - [@mmarchini](https://github.com/mmarchini) - **Mary Marchini**, TSC OpenJS Representative
+
+### Admin members
+
+All voting members of the TSC.
+
+## Social Team
+
+The currently active members of the [Social Team](./social-team.md):
+
+- [@joesepi](https://github.com/joesepi) - **Joe Sepi**
 
 ## Node.js 1Password
 
@@ -62,5 +73,6 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**
+- [@ruyadorno](https://github.com/ruyadorno) - **Ruy Adorno**
 - [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
 - [@trott](https://github.com/trott) - **Rich Trott**
