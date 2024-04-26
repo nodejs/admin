@@ -99,7 +99,7 @@ This request can be raised in the same way as is listed for raising an
 ### Membership Expectations
 
 The joint team is expected to adhere to the
-[Membership Expectations](https://github.com/nodejs/admin/blob/master/MemberExpectations.md) document.
+[Membership Expectations](https://github.com/nodejs/admin/blob/master/Member-Expectations.md) document.
 
 Furthermore, the joint team is expected to be responsive and open to good-faith
 feedback from both project and community members about their approach to
