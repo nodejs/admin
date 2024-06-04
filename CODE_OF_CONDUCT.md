@@ -125,12 +125,13 @@ For answers to common questions about this code of conduct, see the FAQ at
 [https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
 [https://www.contributor-covenant.org/translations][translations].
 
-### Appendix A: The report@nodejs.org Alias
-Currently, any email directed to the report@nodejs.org email alias is automatically forwarded to
-every member of the Node.js Moderation Team.
+### Appendix A: The <report@nodejs.org> Alias
+Currently, any email directed to the <report@nodejs.org> email alias is automatically forwarded to
+every member of the [Node.js Moderation Team][].
 
 [homepage]: https://www.contributor-covenant.org
 [v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+[Node.js Moderation Team]: https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#current-members
