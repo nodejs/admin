@@ -27,10 +27,9 @@ supported by the Admin team of the Slack organization.
 
 ## Terms
 
-* *Collaborator* refers to any individual with configured write (commit)
-  permissions to any Node.js GitHub organization repository *other than the
-  Moderation Repository*. See [GitHub's access permissions documentation][] for
-  more information.
+* *Collaborator* refers to any individual with configured triage permissions to
+  any Node.js GitHub organization repository. See
+  [GitHub's access permissions documentation][] for more information.
 * *TSC* refers to the [Node.js Technical Steering Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment,
   discussion, or wiki page.
