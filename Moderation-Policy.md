@@ -114,8 +114,9 @@ a Post from Moderation.
 ## Guidelines and Requirements
 
 * All Posts are expected to respect the Node.js [Code of Conduct][].
-* Any Collaborator with commit rights to a given repository may Moderate Posts
-  within that repository's issue tracker.
+* Any Collaborator with triage permission to a given repository (except
+  nodejs/moderation) may Moderate Posts within that repository's issue tracker.
+  Only the Moderation team is allowed to moderate posts on nodejs/moderation.
 * The Moderation Team serves as the final arbiter for all Moderation issues.
 * Moderation Team members may Remove or Block an individual from the Node.js
   GitHub Organizations.
