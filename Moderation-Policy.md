@@ -27,9 +27,9 @@ supported by the Admin team of the Slack organization.
 
 ## Terms
 
-* *Collaborator* refers to any individual with configured triage permissions to
-  any Node.js GitHub organization repository. See
-  [GitHub's access permissions documentation][] for more information.
+* *Collaborator* refers to any individual with configured triage role or higher
+  in any Node.js GitHub organization repository. See
+  [GitHub's Repository roles documentation][] for more information.
 * *TSC* refers to the [Node.js Technical Steering Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment,
   discussion, or wiki page.
@@ -349,7 +349,7 @@ any proposed change, a TSC vote in favor of the change is required.
 
 [Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
 [Node.js Technical Steering Committee]: https://github.com/nodejs/node#tsc-technical-steering-committee
-[GitHub's access permissions documentation]: https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#repository-roles-for-organizations
+[GitHub's Repository roles documentation]: https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#repository-roles-for-organizations
 [GitHub's Temporary Interaction Limits]: https://github.com/blog/2370-introducing-temporary-interaction-limits
 [Applicability]: #applicability
 [Terms]: #terms
