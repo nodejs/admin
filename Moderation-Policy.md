@@ -296,22 +296,22 @@ remove resigning team member from respective permissions and private access.
 ### Current Members of Moderation Team
 * [aduh95](https://github.com/aduh95) -
 **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
+* [atlowChemi](https://github.com/atlowChemi) -
+**Chemi Atlow** <<chemi@atlow.co.il>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
-* [JohnTitor](https://github.com/JohnTitor) -
-**Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
+* [bmuenzenmeyer](https://github.com/bmuenzenmeyer) -
+**Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 * [ovflowd](https://github.com/ovflowd) -
 **Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
+* [JohnTitor](https://github.com/JohnTitor) -
+**Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
 * [Trott](https://github.com/Trott) -
 **Rich Trott** &lt;rtrott@gmail.com&gt;
-* [bmuenzenmeyer](https://github.com/bmuenzenmeyer) -
-**Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
 * [UlisesGascon](https://github.com/ulisesgascon) -
 **Ulises Gascón** <<ulisesgascongonzalez@gmail.com>> (he/him)
-* [atlowChemi](https://github.com/atlowChemi) -
-**Chemi Atlow** <<chemi@atlow.co.il>> (he/him)
 
 ### Admins for Node.js Slack community
 * [alextes](https://github.com/alextes) -
