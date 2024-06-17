@@ -306,7 +306,12 @@ remove resigning team member from respective permissions and private access.
 **Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
 * [Trott](https://github.com/Trott) -
 **Rich Trott** &lt;rtrott@gmail.com&gt;
-
+* [bmuenzenmeyer](https://github.com/bmuenzenmeyer) -
+**Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
+* [UlisesGascon](https://github.com/ulisesgascon) -
+**Ulises Gascón** <<ulisesgascongonzalez@gmail.com>> (he/him)
+* [atlowChemi](https://github.com/atlowChemi) -
+**Chemi Atlow** <<chemi@atlow.co.il>> (he/him)
 
 ### Admins for Node.js Slack community
 * [alextes](https://github.com/alextes) -
