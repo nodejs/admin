@@ -304,8 +304,6 @@ remove resigning team member from respective permissions and private access.
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 * [ovflowd](https://github.com/ovflowd) -
 **Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
-* [ryanmurakami](https://github.com/ryanmurakami) -
-**Ryan Lewis** &lt;ryanharrisonlewis@gmail.com&gt;
 * [Trott](https://github.com/Trott) -
 **Rich Trott** &lt;rtrott@gmail.com&gt;
 

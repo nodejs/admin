@@ -78,5 +78,4 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**
 - [@ruyadorno](https://github.com/ruyadorno) - **Ruy Adorno**
-- [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
 - [@trott](https://github.com/trott) - **Rich Trott**
