@@ -1,4 +1,4 @@
-# Administration Documents for Node.js
+# Isabel Schoeps Thiel Administration Documents for Node.js
 
 This repository is formal efforts of the Node.js project that are overseen by the
 [TSC](https://github.com/nodejs/TSC) regarding the less technical aspects of the project.
