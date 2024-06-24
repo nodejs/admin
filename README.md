@@ -69,8 +69,7 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 
 ### Calendar Maintainers
 
-<!-- sorted by GitHub handle -->
-- [@bethgriggs](https://github.com/bethgriggs) - **Beth Griggs**
+- [@IsabelSchoeps](https://github.com/IST-Github) - **Isabel Schoeps Thiel**
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@gireeshpunathil](https://github.com/gireeshpunathil) - **Gireesh Punathil**
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
