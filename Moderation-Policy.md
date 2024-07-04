@@ -195,8 +195,8 @@ Scenario 1:
 
 Scenario 2:
  * A non-Collaborator posts a comment that is against the Code of Conduct.
- * A Collaborator sees the comment and asks the author to self-moderate.
- * The author refuses to self-moderate.
+ * A Collaborator sees the comment and asks the author to edit it.
+ * The author refuses to edit their comment.
  * The Collaborator deletes the comment and posts an issue in the moderation
    repository explaining their actions.
 
