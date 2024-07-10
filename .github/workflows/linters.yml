@@ -23,7 +23,7 @@ permissions:
   contents: read
 
 jobs:
-  lint-readme:
+  lint-md-lists:
     runs-on: ubuntu-latest
     strategy:
       matrix:
