@@ -294,7 +294,6 @@ remove resigning team member from respective permissions and private access.
 <!-- referenced from the CoC page -->
 <a id="current-members"></a>
 ### Current Members of Moderation Team
-
 * [aduh95](https://github.com/aduh95) -
 **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
@@ -310,17 +309,16 @@ remove resigning team member from respective permissions and private access.
 
 
 ### Admins for Node.js Slack community
-
 * [alextes](https://github.com/alextes) -
 **Alexander Tesfamichael** &lt;alex.tesfamichael@gmail.com&gt;
 * [aredridel](https://github.com/aredridel) -
 **Aria Stewart** &lt;aredridel@dinhe.net&gt;
-* [hackygolucky](https://github.com/hackygolucky) -
-**Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
-* [jxm262](https://github.com/jxm262) -
-**Justin Maat** &lt;jxm262@gmail.com&gt;
 * [ljharb](https://github.com/ljharb) -
 **Jordan Harband** &lt;ljharb@gmail.com&gt;
+* [jxm262](https://github.com/jxm262) -
+**Justin Maat** &lt;jxm262@gmail.com&gt;
+* [hackygolucky](https://github.com/hackygolucky) -
+**Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 
 ## Escalation of Issues
 
