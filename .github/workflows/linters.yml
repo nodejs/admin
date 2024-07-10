@@ -26,6 +26,7 @@ jobs:
   lint-md-lists:
     runs-on: ubuntu-latest
     strategy:
+      fail-fast: false
       matrix:
         file:
           - README.md
