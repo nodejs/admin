@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// Validates the list in the README are in the correct order.
+// Validates the list in the markdown file passed as CLI argument are in the correct order.
 
 import { open } from 'node:fs/promises';
 
