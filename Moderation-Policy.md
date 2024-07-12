@@ -297,8 +297,12 @@ remove resigning team member from respective permissions and private access.
 
 * [aduh95](https://github.com/aduh95) -
 **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
+* [atlowChemi](https://github.com/atlowChemi) -
+**Chemi Atlow** <<chemi@atlow.co.il>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
+* [bmuenzenmeyer](https://github.com/bmuenzenmeyer) -
+**Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
 * [JohnTitor](https://github.com/JohnTitor) -
 **Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
@@ -307,7 +311,8 @@ remove resigning team member from respective permissions and private access.
 **Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
 * [Trott](https://github.com/Trott) -
 **Rich Trott** &lt;rtrott@gmail.com&gt;
-
+* [UlisesGascon](https://github.com/ulisesgascon) -
+**Ulises Gascón** <<ulisesgascongonzalez@gmail.com>> (he/him)
 
 ### Admins for Node.js Slack community
 
