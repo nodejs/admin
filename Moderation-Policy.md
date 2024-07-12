@@ -293,39 +293,40 @@ remove resigning team member from respective permissions and private access.
 
 <!-- referenced from the CoC page -->
 <a id="current-members"></a>
+
 ### Current Members of Moderation Team
 
 * [aduh95](https://github.com/aduh95) -
-**Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
+  **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [atlowChemi](https://github.com/atlowChemi) -
-**Chemi Atlow** <<chemi@atlow.co.il>> (he/him)
+  **Chemi Atlow** <<chemi@atlow.co.il>> (he/him)
 * [benjamingr](https://github.com/benjamingr) -
-**Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
+  **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [bmuenzenmeyer](https://github.com/bmuenzenmeyer) -
-**Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
+  **Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
 * [JohnTitor](https://github.com/JohnTitor) -
-**Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
+  **Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
-**Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+  **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 * [ovflowd](https://github.com/ovflowd) -
-**Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
+  **Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
 * [Trott](https://github.com/Trott) -
-**Rich Trott** &lt;rtrott@gmail.com&gt;
+  **Rich Trott** &lt;rtrott@gmail.com&gt;
 * [UlisesGascon](https://github.com/ulisesgascon) -
-**Ulises Gascón** <<ulisesgascongonzalez@gmail.com>> (he/him)
+  **Ulises Gascón** <<ulisesgascongonzalez@gmail.com>> (he/him)
 
 ### Admins for Node.js Slack community
 
 * [alextes](https://github.com/alextes) -
-**Alexander Tesfamichael** &lt;alex.tesfamichael@gmail.com&gt;
+  **Alexander Tesfamichael** &lt;alex.tesfamichael@gmail.com&gt;
 * [aredridel](https://github.com/aredridel) -
-**Aria Stewart** &lt;aredridel@dinhe.net&gt;
+  **Aria Stewart** &lt;aredridel@dinhe.net&gt;
 * [hackygolucky](https://github.com/hackygolucky) -
-**Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
+  **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
 * [jxm262](https://github.com/jxm262) -
-**Justin Maat** &lt;jxm262@gmail.com&gt;
+  **Justin Maat** &lt;jxm262@gmail.com&gt;
 * [ljharb](https://github.com/ljharb) -
-**Jordan Harband** &lt;ljharb@gmail.com&gt;
+  **Jordan Harband** &lt;ljharb@gmail.com&gt;
 
 ## Escalation of Issues
 
