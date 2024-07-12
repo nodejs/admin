@@ -29,8 +29,8 @@ action requiring consensus and voting will abide by the TSC process for that.
 
 ### Contacts for assistance
 
-- [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**, TSC Vice Chair
+- [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**, TSC Chair
 
 ### Admin members
 
@@ -78,5 +78,4 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**
 - [@ruyadorno](https://github.com/ruyadorno) - **Ruy Adorno**
-- [@ryanmurakami](https://github.com/ryanmurakami) - **Ryan Lewis**
 - [@trott](https://github.com/trott) - **Rich Trott**

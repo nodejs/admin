@@ -195,8 +195,8 @@ Scenario 1:
 
 Scenario 2:
  * A non-Collaborator posts a comment that is against the Code of Conduct.
- * A Collaborator sees the comment and asks the author to self-moderate.
- * The author refuses to self-moderate.
+ * A Collaborator sees the comment and asks the author to edit it.
+ * The author refuses to edit their comment.
  * The Collaborator deletes the comment and posts an issue in the moderation
    repository explaining their actions.
 
@@ -294,6 +294,7 @@ remove resigning team member from respective permissions and private access.
 <!-- referenced from the CoC page -->
 <a id="current-members"></a>
 ### Current Members of Moderation Team
+
 * [aduh95](https://github.com/aduh95) -
 **Antoine du Hamel** <<duhamelantoine1995@gmail.com>> (he/him)
 * [atlowChemi](https://github.com/atlowChemi) -
@@ -302,28 +303,29 @@ remove resigning team member from respective permissions and private access.
 **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [bmuenzenmeyer](https://github.com/bmuenzenmeyer) -
 **Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
+* [JohnTitor](https://github.com/JohnTitor) -
+**Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
 * [othiym23](https://github.com/othiym23) -
 **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 * [ovflowd](https://github.com/ovflowd) -
 **Claudio Wunder** &lt;cwunder@gnome.org&gt; (he/they)
-* [JohnTitor](https://github.com/JohnTitor) -
-**Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
 * [Trott](https://github.com/Trott) -
 **Rich Trott** &lt;rtrott@gmail.com&gt;
 * [UlisesGascon](https://github.com/ulisesgascon) -
 **Ulises Gascón** <<ulisesgascongonzalez@gmail.com>> (he/him)
 
 ### Admins for Node.js Slack community
+
 * [alextes](https://github.com/alextes) -
 **Alexander Tesfamichael** &lt;alex.tesfamichael@gmail.com&gt;
 * [aredridel](https://github.com/aredridel) -
 **Aria Stewart** &lt;aredridel@dinhe.net&gt;
-* [ljharb](https://github.com/ljharb) -
-**Jordan Harband** &lt;ljharb@gmail.com&gt;
-* [jxm262](https://github.com/jxm262) -
-**Justin Maat** &lt;jxm262@gmail.com&gt;
 * [hackygolucky](https://github.com/hackygolucky) -
 **Tracy Hinds** &lt;tracyhinds@gmail.com&gt;
+* [jxm262](https://github.com/jxm262) -
+**Justin Maat** &lt;jxm262@gmail.com&gt;
+* [ljharb](https://github.com/ljharb) -
+**Jordan Harband** &lt;ljharb@gmail.com&gt;
 
 ## Escalation of Issues
 
