@@ -55,6 +55,10 @@ Groups are created in 1Password with a 1:1 mapping of Node.js organization teams
 
 - **Social Team:** For the [Social Team](#social-team) to contain official account credientials.
 
+## @nodejs-github-bot
+
+Follow the steps in [request-an-access-token](./request-an-access-token.md) to request an access token under the name of [`@nodejs-github-bot`][].
+
 ## Node.js Project Calendar
 
 A calendar of the project's meetings can be found at:
@@ -79,3 +83,5 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**
 - [@ruyadorno](https://github.com/ruyadorno) - **Ruy Adorno**
 - [@trott](https://github.com/trott) - **Rich Trott**
+
+[`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
