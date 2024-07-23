@@ -34,9 +34,15 @@ The "secret name" is a string that the secret can be referenced in the GitHub Ac
 scripts. Like a secret name of `RELEASE_PLEASE_TOKEN` can be accessed from the script
 as `${{ secrets.RELEASE_PLEASE_TOKEN }}`.
 
-Repo                        | Secret name
----                         | ---
-nodejs/import-in-the-middle | RELEASE_PLEASE_GITHUB_TOKEN
+The "expiration date" is the date before which the token should be renewed and
+replaced. This should be no longer than 1 year.
+
+The "pull request" is the PR that initially requested the token, or requested
+permission scope changes. The PR should describe the permission scopes requested.
+
+Repo                        | Secret name                  | Expiration date | Pull Request                              |
+---                         | ---                          | ---             | ---                                       |
+nodejs/import-in-the-middle | RELEASE_PLEASE_GITHUB_TOKEN  | 2025-07-31      | https://github.com/nodejs/admin/pull/902  |
 
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
