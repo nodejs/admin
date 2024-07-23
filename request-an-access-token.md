@@ -42,7 +42,7 @@ permission scope changes. The PR should describe the permission scopes requested
 
 Repo                        | Secret name                  | Expiration date | Pull Request                              |
 ---                         | ---                          | ---             | ---                                       |
-nodejs/import-in-the-middle | RELEASE_PLEASE_GITHUB_TOKEN  | 2025-07-31      | https://github.com/nodejs/admin/pull/902  |
+nodejs/import-in-the-middle | RELEASE_PLEASE_GITHUB_TOKEN  | 2025-07-23      | https://github.com/nodejs/admin/pull/902  |
 
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
