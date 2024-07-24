@@ -37,7 +37,7 @@ The following groups are granted Ownership permissions:
   Management will limit their use of the access granted to:
     * accepting GitHub terms and conditions.
   They will be added to the team called openjs_administrative_support as we
-  required all members to be part of one or more teams in order to simplify
+  require all members to be part of one or more teams in order to simplify
   member management.
 * **Moderation team members.** The Moderation Team members
 will limit their use of the access granted to that required to carry out
