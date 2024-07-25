@@ -35,9 +35,8 @@ The following groups are granted Ownership permissions:
 * **TSC members.**
 * **OpenJS Director of Program Management** The OpenJS Director of Program
   Management will limit their use of the access granted to:
-    * accepting GitHub terms and conditions.
-  They will be added to the team called [openjs-administrative-support](https://github.com/orgs/nodejs/teams/openjs-administrative-support) as we
-  require all members to be part of one or more teams in order to simplify
+  * accepting GitHub terms and conditions.
+  They will be added to the team called [openjs-administrative-support](https://github.com/orgs/nodejs/teams/openjs-administrative-support) as we require all members to be part of one or more teams in order to simplify
   member management.
 * **Moderation team members.** The Moderation Team members
 will limit their use of the access granted to that required to carry out
