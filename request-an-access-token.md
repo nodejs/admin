@@ -20,6 +20,8 @@ steps as:
        and requested permission scopes only.
     1. Save the token as a repository secret at `https://github.com/<org>/<repo>/settings/secrets/actions`,
        do not reveal the token to the anyone in plaintext.
+    1. If necessary, grant write access to [`@nodejs-github-bot`][] at
+       `https://github.com/<org>/<repo>/settings/access`.
     1. Land the PR.
 
 Fine-grained tokens created with access to https://github.com/nodejs resources will
@@ -40,9 +42,10 @@ replaced. This should be no longer than 1 year.
 The "pull request" is the PR that initially requested the token, or requested
 permission scope changes. The PR should describe the permission scopes requested.
 
-Repo                        | Secret name                  | Expiration date | Pull Request                              |
----                         | ---                          | ---             | ---                                       |
-nodejs/import-in-the-middle | RELEASE_PLEASE_GITHUB_TOKEN  | 2025-07-23      | https://github.com/nodejs/admin/pull/902  |
+Repo                              | Secret name                   | Expiration date | Pull Request                               |
+---                               | ---                           | ---             | ---                                        |
+[`nodejs/import-in-the-middle`][] | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-07-23      | <https://github.com/nodejs/admin/pull/902> |
 
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
+[`nodejs/import-in-the-middle`]: https://github.com/nodejs/import-in-the-middle
