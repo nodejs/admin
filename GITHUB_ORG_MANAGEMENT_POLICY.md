@@ -25,7 +25,7 @@ for the following conflicting requirements:
 When possible, automation and tools should be used to reduce the breadth of
 access that needs to be provided in order to enable individuals to move
 community work forward. As these tools are created, the groups to which
-Owner role are granted will be reduced.
+Organization Owner role are granted will be reduced.
 
 The following groups have the role "Owner" in our GitHub Organizations:
 
@@ -72,7 +72,7 @@ of Directors approval may also be required.
 ### Repository Team Ownership
 
 When making a request to create a new repository, specify the team(s) that will
-have Maintain permission. If there is not an appropriate team to maintain a
+have Maintain role. If there is not an appropriate team to maintain a
 new repository, request creating a new team. Approval is automatic if there are no
 objections from TSC members after 72 hours.
 
