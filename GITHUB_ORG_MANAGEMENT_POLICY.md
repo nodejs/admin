@@ -33,7 +33,7 @@ The following groups have the role "Owner" in our GitHub Organizations:
 * **OpenJS Director of Program Management**. The OpenJS Director of Program
   Management will limit their use of the access granted to accept GitHub terms
   and conditions. They will be added to the team called
-  [openjs-administrative-support](https://github.com/orgs/nodejs/teams/openjs-administrative-support)
+  [`openjs`](https://github.com/orgs/nodejs/teams/openjs)
   as we require all members to be part of one or more teams in order to simplify
   member management.
 * **Moderation team members**. The Moderation Team members will limit their use
@@ -98,7 +98,7 @@ Only GitHub Organization owners may remove an individual from the
 membership or block individuals. This is due largely to
 limitations in the way GitHub permissions are structured.
 
-Remove inactive members from our GitHub organizations can happen without any formality.
+Removal of inactive members from our GitHub organizations can happen without any formality.
 
 Blocking an individual who is not currently a member of our GitHub organizations
 may occur at any time subject to the policies outlined in the Moderation
