@@ -1,73 +1,70 @@
 # Node.js GitHub Organization Management Policy
 
-The Node.js GitHub Organizations:
+The following GitHub Organizations are development resources under the direction
+of the Node.js Technical Steering Committee (TSC):
 
-* (https://github.com/nodejs)
-* (https://github.com/pkgjs)
-
-are development resources under the direction
-of the Node.js Technical Steering Committee (TSC)
+* [`nodejs`](https://github.com/nodejs)
+* [`pkgs`](https://github.com/pkgjs)
 
 ## Node.js Admin Repository
 
 The [Node.js admin repository][nodejs/admin] serves as the
-central location for managing Node.js GitHub Organization administrative
-activities. Only Node.js GitHub Organization owners and TSC members have write permissions to 
-the Node.js admin repository.
+central location for managing our GitHub Organization administrative
+activities. This repository is maintained by the TSC.
 
 ## Organization Roles
 
 ### Owners
 
-Whether to grant Owner permissions is determined by optimizing
+Whether to grant Owner role is determined by optimizing
 for the following conflicting requirements:
 
-* Limiting access to reduce risk
-* Enabling individuals to move community work forward without undue delay
+* Limiting access to reduce risk.
+* Enabling individuals to move community work forward without undue delay.
 
 When possible, automation and tools should be used to reduce the breadth of
 access that needs to be provided in order to enable individuals to move
 community work forward. As these tools are created, the groups to which
-Owner permissions are granted will be reduced.
+Organization Owner role are granted will be reduced.
 
-The following groups are granted Ownership permissions:
+The following groups have the role "Owner" in our GitHub Organizations:
 
-* **TSC members.**
+* **TSC voting members**.
 * **OpenJS Director of Program Management**. The OpenJS Director of Program
   Management will limit their use of the access granted to accept GitHub terms
   and conditions. They will be added to the team called
-  [openjs-administrative-support](https://github.com/orgs/nodejs/teams/openjs-administrative-support)
+  [`openjs`](https://github.com/orgs/nodejs/teams/openjs)
   as we require all members to be part of one or more teams in order to simplify
   member management.
-* **Moderation team members.** The Moderation Team members
-will limit their use of the access granted to that required to carry out
-moderation across the existing repositories.
+* **Moderation team members**. The Moderation Team members will limit their use
+  of the access granted to that required to carry out moderation across the
+  existing repositories.
 
 ### Members
 
-GitHub users are added as members to the **Node.js** GitHub Organization when they
+GitHub users are added as members to our GitHub Organization when they
 are added to any Working Group or team. Organization Owners should add new
 members to the organization when requested by a Working Group or team.
 
 ## Repositories
 
-Any repository created under the Node.js Organizations are considered to be
+Any repository created under the our GitHub Organizations are considered to be
 a project under the ownership of the OpenJS Foundation, and thereby subject
 to the Intellectual Property and Governance policies of the Foundation.
 
-Any member of one of the Node.js  organizations may request the management
-of repositories within the GitHub Organizations by opening an issue in the
+Any member of one of our GitHub Organizations may request the management
+of repositories within our GitHub Organizations by opening an issue in the
 [Node.js admin repository][nodejs/admin]. The actions requested could be:
 
-- Creating a new repository
-- Deleting an existing repository
-- Archiving an existing repository
-- Transferring a repository into or out of one of the organizations
+- Creating a new repository.
+- Deleting an existing repository.
+- Archiving an existing repository.
+- Transferring a repository into or out of one of our GitHub Organizations.
 
 Provided there are no objections from any TSC members raised in
 the issue, such requests are approved automatically after 72 hours. If any
-objection is made, the request may be moved to a vote in the
-Technical Steering Committee. If the TSC rejects the request, then the request is denied.
+objection is made, the request shall not be completed without a vote from
+the TSC to dismiss the objection.
 
 In certain cases, OpenJS Cross Project Council and/or OpenJS Foundation Board
 of Directors approval may also be required.
@@ -75,8 +72,8 @@ of Directors approval may also be required.
 ### Repository Team Ownership
 
 When making a request to create a new repository, specify the team(s) that will
-have write or admin access. If there is not an appropriate team to maintain a
-new repository, request a new team. Approval is automatic if there are no
+have Maintain role. If there is not an appropriate team to maintain a
+new repository, request creating a new team. Approval is automatic if there are no
 objections from TSC members after 72 hours.
 
 ## Teams
@@ -91,7 +88,7 @@ Moderation), it is not possible to send a join request to any teams, since
 those users have permission to add themselves to the team. In this case, use
 your best judgement to decide between adding yourself to the team or asking for
 permission. When joining a `*-admin` which is not bound to a working group or
-repository, open an issue in the nodejs/admin repo pinging the team,
+repository, open an issue in the [nodejs/admin][] repo pinging the team,
 inquire using the team discussion feature, or contact the team maintainers directly to ask
 to join.
 
@@ -101,13 +98,9 @@ Only GitHub Organization owners may remove an individual from the
 membership or block individuals. This is due largely to
 limitations in the way GitHub permissions are structured.
 
-To remove any current member from the GitHub organization, an issue must be
-opened in the Node.js admin repository. If, after 72 hours, there are no
-objections from any TSC members, removal becomes automatic. If there are 
-objections, then a vote of the Technical Steering
-Committee in favor of removal is required.
+Removal of inactive members from our GitHub organizations can happen without any formality.
 
-Blocking an individual who is not currently a member of the GitHub organization
+Blocking an individual who is not currently a member of our GitHub organizations
 may occur at any time subject to the policies outlined in the Moderation
 Guidelines.
 
@@ -120,30 +113,31 @@ secrets to a repository must be approved by the TSC.
 In order to request any of the above, open an issue in the 
 [Node.js admin repository][nodejs/admin] with details of:
 
-* the application to be installed, token to be created or secret to be added
+* the application to be installed, token to be created or secret to be added.
   * in the case of secrets, don't share the value on the issue, share just 
-    details on how it will be used
-* for apps and personal tokens, the permissions that it requires
+    details on how it will be used.
+* for apps and personal tokens, the permissions that it requires.
 * the repositories for which the app will be installed or the secrets will be 
-  added
+  added.
 
 A new request is required each time an application is enabled or a secret is 
 added for a new repository even if it has been done before.
 
-The request must be approved by at least two TSC members and
+The request must be approved by at least two TSC voting members and
 be open for a minimum of 72 hours before landing.
 
 For GitHub Apps already used in the Org, or for secrets already used in other
 repositories in the Org, the request can be fast-tracked. To fast-track, add
 the `fast-track` label to the request, and leave a comment which must contain:
 a) a link showing how the GitHub App or the secret being requested is already 
-in use, and b) ask for approvals to fast-track the request. Two members of the 
-TSC must approve the fast track request. Fast-tracked requests require only
-one approval from the TSC, and the request must remain open for 24 hours.
+in use, and b) ask for approvals to fast-track the request. Two voting members
+of the  TSC must approve the fast track request. Fast-tracked requests require
+only one approval from a TSC voting member, and the request must remain open
+for at least 24 hours.
 
 
-If any objection is made, the request may be moved to a vote in the TSC. 
-If the TSC rejects the request, then the request is denied.
+If any objection is made, the request shall not be completed without a vote from
+the TSC to dismiss the objection.
 
 ## Use of Bots and Services
 
