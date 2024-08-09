@@ -27,10 +27,9 @@ supported by the Admin team of the Slack organization.
 
 ## Terms
 
-* *Collaborator* refers to any individual with configured write (commit)
-  permissions to any Node.js GitHub organization repository *other than the
-  Moderation Repository*. See [GitHub's access permissions documentation][] for
-  more information.
+* *Collaborator* refers to any individual with configured triage role or higher
+  in any Node.js GitHub organization repository. See
+  [GitHub's Repository roles documentation][] for more information.
 * *TSC* refers to the [Node.js Technical Steering Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment,
   discussion, or wiki page.
@@ -115,8 +114,9 @@ a Post from Moderation.
 ## Guidelines and Requirements
 
 * All Posts are expected to respect the Node.js [Code of Conduct][].
-* Any Collaborator with commit rights to a given repository may Moderate Posts
-  within that repository's issue tracker.
+* Any Collaborator with triage permission to a given repository (except
+  nodejs/moderation) may Moderate Posts within that repository's issue tracker.
+  Only the Moderation team is allowed to moderate posts on nodejs/moderation.
 * The Moderation Team serves as the final arbiter for all Moderation issues.
 * Moderation Team members may Remove or Block an individual from the Node.js
   GitHub Organizations.
@@ -355,7 +355,7 @@ any proposed change, a TSC vote in favor of the change is required.
 
 [Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
 [Node.js Technical Steering Committee]: https://github.com/nodejs/node#tsc-technical-steering-committee
-[GitHub's access permissions documentation]: https://help.github.com/articles/access-permissions-on-github/
+[GitHub's Repository roles documentation]: https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#repository-roles-for-organizations
 [GitHub's Temporary Interaction Limits]: https://github.com/blog/2370-introducing-temporary-interaction-limits
 [Applicability]: #applicability
 [Terms]: #terms
