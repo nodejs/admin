@@ -83,8 +83,8 @@ https://www.contributor-covenant.org/faq. Translations are available at https://
 
 ## Appendix A: The report@nodejs.org Alias
 
-*Note*: At the current time, all email sent to the `report@nodejs.org` email
-alias is copied to all members of the [Node.js Moderation Team][].
+> [!NOTE]
+> At the current time, all email sent to the `report@nodejs.org` email alias is copied to all members of the [Node.js Moderation Team][].
 
 [homepage]: http://contributor-covenant.org
 [Node.js Moderation Team]: https://github.com/nodejs/admin/blob/master/Moderation-Policy.md#current-members
