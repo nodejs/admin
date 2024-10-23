@@ -51,3 +51,5 @@ Repo                              | Secret name                    | Expiration 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs/import-in-the-middle`]: https://github.com/nodejs/import-in-the-middle
 [`nodejs/node-core-utils`]: https://github.com/nodejs/node-core-utils
+[`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
+
