@@ -48,6 +48,7 @@ Repo                              | Secret name                   | Expiration d
 [`nodejs/node-core-utils`][]      | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-09-01      | <https://github.com/nodejs/admin/pull/915> |
 [`nodejs/wasm-builder`][]         | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-10-01      | <https://github.com/nodejs/admin/pull/926> |
 
+
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs/import-in-the-middle`]: https://github.com/nodejs/import-in-the-middle
 [`nodejs/node-core-utils`]: https://github.com/nodejs/node-core-utils
