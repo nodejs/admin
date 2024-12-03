@@ -47,9 +47,11 @@ Repo                              | Secret name                   | Expiration d
 [`nodejs/import-in-the-middle`][] | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-07-23      | <https://github.com/nodejs/admin/pull/902> |
 [`nodejs/node-core-utils`][]      | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-09-01      | <https://github.com/nodejs/admin/pull/915> |
 [`nodejs/wasm-builder`][]         | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-10-01      | <https://github.com/nodejs/admin/pull/926> |
+[`nodejs/node-gyp`][]             | `GH_USER_TOKEN`               | 2025-12-01      | <https://github.com/nodejs/admin/pull/935> |
 
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs/import-in-the-middle`]: https://github.com/nodejs/import-in-the-middle
 [`nodejs/node-core-utils`]: https://github.com/nodejs/node-core-utils
+[`nodejs/node-gyp`]: https://github.com/nodejs/node-gyp
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
