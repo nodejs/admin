@@ -181,11 +181,11 @@ of the [Code of Conduct][].
   service advertising, etc.) are subject to immediate moderation.
 * Issues, pull requests, discussions, and comments that are believed to be
   LLM-generated (e.g a PR coming from a new contributor changing a single file
-  without clear motivation) should be closed with a comment such as "If you are
-  using a LLM, please stop, this is not bringing any value and is wasting our time.
-  If you are not using one, please read and follow our contributing guidelines."
-  Report the user to the moderation repository so they get blocked if they do it
-  again.
+  without clear motivation) should be closed with a comment such as "It seems
+  you are using a LLM, please stop, this is not bringing any value and is
+  wasting our time. If you are not using one, please read and follow our
+  contributing guidelines." Report the user to the moderation repository so they
+  get blocked if they do it again.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
   posts by non-Collaborators.
 * Moderation Team members and TSC voting members can delete any issues or
