@@ -179,6 +179,13 @@ of the [Code of Conduct][].
   by the TSC) are subject to immediate Blocking.
 * Issues, pull requests, discussions, and comments that are spam (job posting,
   service advertising, etc.) are subject to immediate moderation.
+* Issues, pull requests, discussions, and comments that are belived to be
+  LLM-generated (e.g a PR coming from a new contributor changing a single file
+  without clear motivation) should be closed with a comment such as "If you are
+  using a LLM, please stop, this is not bringing any value and wasting our time.
+  If you are not using one, please read and follow our contributing guidelines."
+  Report the user to the moderation repository so they get block if they do it
+  again.
 * Collaborators may use the Hide feature in the GitHub interface for off-topic
   posts by non-Collaborators.
 * Moderation Team members and TSC voting members can delete any issues or
