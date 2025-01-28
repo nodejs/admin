@@ -48,7 +48,7 @@ Repo                              | Secret name                   | Expiration d
 [`nodejs/node-core-utils`][]      | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-09-01      | <https://github.com/nodejs/admin/pull/915> |
 [`nodejs/wasm-builder`][]         | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-10-01      | <https://github.com/nodejs/admin/pull/926> |
 [`nodejs/amaro`][]                | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-12-11      | <https://github.com/nodejs/admin/pull/933> |
-[`nodejs/node-gyp`][]             | `GH_USER_TOKEN`               | 2026-02-01      | <https://github.com/nodejs/admin/pull/935> |
+[`nodejs/node-gyp`][]             | `GH_USER_TOKEN`               | 2026-01-28      | <https://github.com/nodejs/admin/pull/935> |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs/amaro`]: https://github.com/nodejs/amaro
