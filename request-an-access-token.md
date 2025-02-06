@@ -56,5 +56,5 @@ Repo                              | Secret name                   | Expiration d
 [`nodejs/import-in-the-middle`]: https://github.com/nodejs/import-in-the-middle
 [`nodejs/node-core-utils`]: https://github.com/nodejs/node-core-utils
 [`nodejs/node-gyp`]: https://github.com/nodejs/node-gyp
-[`nodejs/security-wg`]: https://github.com/nodejs/security-wg
+[`nodejs-private/security-release`]: https://github.com/nodejs-private/security-release
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
