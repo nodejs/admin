@@ -49,10 +49,12 @@ Repo                              | Secret name                   | Expiration d
 [`nodejs/wasm-builder`][]         | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-10-01      | <https://github.com/nodejs/admin/pull/926> |
 [`nodejs/amaro`][]                | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-12-11      | <https://github.com/nodejs/admin/pull/933> |
 [`nodejs/node-gyp`][]             | `GH_USER_TOKEN`               | 2026-01-28      | <https://github.com/nodejs/admin/pull/935> |
+[`nodejs-private/security-release`][]          | `SECURITY_WG_GITHUB_TOKEN`    | 2026-02-06      | <https://github.com/nodejs/admin/pull/950> |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs/amaro`]: https://github.com/nodejs/amaro
 [`nodejs/import-in-the-middle`]: https://github.com/nodejs/import-in-the-middle
 [`nodejs/node-core-utils`]: https://github.com/nodejs/node-core-utils
 [`nodejs/node-gyp`]: https://github.com/nodejs/node-gyp
+[`nodejs-private/security-release`]: https://github.com/nodejs-private/security-release
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
