@@ -268,8 +268,8 @@ actions taken by the Moderation Team to the TSC.
 
 *Nomination*
 
-Moderation team members are Collaborators who self-nominate or are nominated by 
-the TSC. Team members must be approved by the TSC with annual 
+Moderation team members are Collaborators who self-nominate or are nominated by
+the TSC. Team members must be approved by the TSC with annual
 recertification. If there are no objections after seven days, the nomination is automatically
 accepted. If there are objections to a specific nomination, then a TSC vote
 in favor of the nomination is required.
@@ -293,9 +293,9 @@ A TSC vote is required to remove a moderator who has not resigned.
 
 *Resignation*
 
-At any time a Moderation Team member may notify the team that they will no longer be serving. 
-Either the resigning member or an active member will file an issue notifying the Admin group 
-that the team member is stepping down. An active team member will take necessary steps to 
+At any time a Moderation Team member may notify the team that they will no longer be serving.
+Either the resigning member or an active member will file an issue notifying the Admin group
+that the team member is stepping down. An active team member will take necessary steps to
 remove resigning team member from respective permissions and private access.
 
 <!-- referenced from the CoC page -->
@@ -313,6 +313,8 @@ remove resigning team member from respective permissions and private access.
   **Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
 * [JohnTitor](https://github.com/JohnTitor) -
   **Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
+* [ljharb](https://github.com/ljharb) -
+  **Jordan Harband** <<ljharb@gmail.com>> (he/him)
 * [othiym23](https://github.com/othiym23) -
   **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
 * [ovflowd](https://github.com/ovflowd) -
