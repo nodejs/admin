@@ -19,8 +19,7 @@ individual or organizational monetary donations which are not directed
 towards a specific purpose.
 The project has enabled crowd funding platforms and can also receive
 funds through directed contributions to the OpenJS foundation and from
-OpenJS programs like the
-[Ecosystem Sustainability Program]
+OpenJS programs like the [Ecosystem Sustainability Program][].
 
 Sponsors who have made a contribution of 5000 us or more will be
 included in a rotating set of sponsors on the main Nodejs.org landing
