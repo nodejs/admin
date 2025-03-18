@@ -21,7 +21,7 @@ The project has enabled crowd funding platforms and can also receive
 funds through directed contributions to the OpenJS foundation and from
 OpenJS programs like the [Ecosystem Sustainability Program][].
 
-Sponsors who have made a contribution of 5000 us or more will be
+Sponsors who have made a contribution of 5000 USD or more will be
 included in a rotating set of sponsors on the main Nodejs.org landing
 page with a visibility in proportion to the level of
 contribution that they have made.
