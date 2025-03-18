@@ -18,7 +18,6 @@ In addition the project aims to recognize sponsors who make significant
 individual or organizational monetary donations which are not directed
 towards a specific purpose.
 The project has enabled crowd funding platforms and can also receive
-
 funds through directed contributions to the OpenJS foundation and from
 OpenJS programs like the
 [Ecosystem Sustainability Program]
