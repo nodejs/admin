@@ -46,7 +46,7 @@ for how to be included in the releasers supporters.
 
 The project documented the need for a stability lead as part of
 enabling crowd funding accounts. Organizations or individuals
-that become supporters of 10000 US or higher towards the 60,000 US
+that become supporters of 10,000 USD or higher towards the 60,000 USD
 goal will be included in the `CI Stability Lead` section of the
 sponsors page.
 
