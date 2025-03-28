@@ -67,7 +67,7 @@ https://nodejs.org/calendar
 
 <sup>Click `+GoogleCalendar` at the bottom right to add to your own Google calendar.</sup>
 
-All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list above. Once approved, one of the calendar maintainers will add you to the calendar settings.
+All calendar maintainers have `Make changes AND manage sharing` permissions. If you would like to help maintain your team's calendar events, open a PR adding your name to the list below. Once approved, one of the calendar maintainers will add you to the calendar settings.
 
 This list should be reviewed and pruned annually (at minimum). The calendar has a yearly recurring event on Jan 31st for this. An issue should be opened asking the calendar maintainers for their continued volunteering efforts (directly @-mention all members). After 1 week, this list should be PRed removing members that did not respond. [The calendar permissions to be updated once merged](https://support.google.com/a/answer/117596?hl=en).
 
@@ -78,6 +78,7 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@gireeshpunathil](https://github.com/gireeshpunathil) - **Gireesh Punathil**
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
+- [@joyeecheung](https://github.com/joyeecheung) - **Joyee Cheung**
 - [@marco-ippolito](https://github.com/marco-ippolito) - **Marco Ippolito**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
