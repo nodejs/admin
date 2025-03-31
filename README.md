@@ -74,15 +74,12 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 ### Calendar Maintainers
 
 <!-- sorted by GitHub handle -->
-- [@bethgriggs](https://github.com/bethgriggs) - **Beth Griggs**
-- [@bnb](https://github.com/bnb) - **Tierney Cyren**
 - [@gireeshpunathil](https://github.com/gireeshpunathil) - **Gireesh Punathil**
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
 - [@marco-ippolito](https://github.com/marco-ippolito) - **Marco Ippolito**
 - [@mcollina](https://github.com/mcollina) - **Matteo Collina**
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
-- [@MylesBorins](https://github.com/MylesBorins) - **Myles Borins**
+- [@RafaelGSS](https://github.com/RafaelGSS) - **Rafael Gonzaga**
 - [@ruyadorno](https://github.com/ruyadorno) - **Ruy Adorno**
-- [@trott](https://github.com/trott) - **Rich Trott**
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
