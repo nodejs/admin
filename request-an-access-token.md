@@ -51,7 +51,7 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/node-gyp`][]                 | `GH_USER_TOKEN`               | 2026-01-28      | <https://github.com/nodejs/admin/pull/935> |
 [`nodejs-private/security-release`][] | `SECURITY_WG_GITHUB_TOKEN`    | 2026-02-06      | <https://github.com/nodejs/admin/pull/950> |
 [`nodejs/require-in-the-middle`][]    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-02-07      | <https://github.com/nodejs/admin/pull/951> |
-[`nodejs/require-in-the-middle`][]    | `GH_USER_TOKEN`               | XXXX-XX-XX      | <https://github.com/nodejs/admin/pull/966> |
+[`nodejs/nodejs.org`][]    | `GH_USER_TOKEN`               | XXXX-XX-XX      | <https://github.com/nodejs/admin/pull/966> |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs-private/security-release`]: https://github.com/nodejs-private/security-release
