@@ -9,8 +9,8 @@ moderation request, please see [Requesting Moderation][]
 * [Requesting Moderation][]
 * [Consideration of Intent][]
 * [Guidelines and Requirements][]
-  * [Collaborator Posts][]
-  * [Non-Collaborator Posts][]
+  * [Member Posts][]
+  * [Non-Member Posts][]
   * [Temporary Interaction Limits][]
   * [Temporary and Indefinite Blocks][]
 * [Privacy of the nodejs/moderation Repository][]
@@ -27,7 +27,7 @@ supported by the Admin team of the Slack organization.
 
 ## Terms
 
-* *Collaborator* refers to any individual with configured triage role or higher
+* *Member* refers to any individual with configured triage role or higher
   in any Node.js GitHub organization repository. See
   [GitHub's Repository roles documentation][] for more information.
 * *TSC* refers to the [Node.js Technical Steering Committee][].
@@ -36,7 +36,7 @@ supported by the Admin team of the Slack organization.
 * *Moderate* means to modify, lock, or delete one or more Posts to correct or
   address Code of Conduct violations.
 * *Remove* refers to the act of removing the configured write (commit)
-  permissions for an individual Collaborator's GitHub account from *all*
+  permissions for an individual Member's GitHub account from *all*
   Node.js GitHub Organizations repositories as well as removing the account from
   the Node.js GitHub Organizations membership.
 * *Block* refers to the act of prohibiting an individual GitHub account from any
@@ -66,8 +66,8 @@ accomplished in one of four ways:
 * Via a new Post in the same thread as the Post being requested for Moderation,
 * Via a new Post in the private nodejs/moderation repository.
 
-Note that Collaborators may Moderate non-Collaborator Posts at any time without
-submitting an initial request (see: [Non-Collaborator Posts][]).
+Note that Members may Moderate non-Members Posts at any time without
+submitting an initial request (see: [Non-Member Posts][]).
 
 Use of the [report@nodejs.org][] email address -- or private email to individual
 Moderation Team members -- is appropriate when the individual requesting the
@@ -86,7 +86,7 @@ to obscure obscene or offensive content.
 External public venues or social media services such as Twitter must never be
 used to request Moderation.
 
-Collaborators must never discuss the specific details of a Moderation request
+Members must never discuss the specific details of a Moderation request
 in any public forum or any social media service outside of the Node.js GitHub
 Organizations.
 
@@ -101,7 +101,7 @@ ignored.
 
 ## Consideration of Intent
 
-Before Moderating a Post, Collaborators should carefully consider the possible
+Before Moderating a Post, Members should carefully consider the possible
 intent of the author. It may be that the author has simply made an error or is
 not yet familiar with the [Code of Conduct][]; or it may be that cultural
 differences exist, or that the author is unaware that certain content is
@@ -114,7 +114,7 @@ a Post from Moderation.
 ## Guidelines and Requirements
 
 * All Posts are expected to respect the Node.js [Code of Conduct][].
-* Any Collaborator with triage permission to a given repository (except
+* Any Member with triage permission to a given repository (except
   nodejs/moderation) may Moderate Posts within that repository's issue tracker.
   Only the Moderation team is allowed to moderate posts on nodejs/moderation.
 * The Moderation Team serves as the final arbiter for all Moderation issues.
@@ -130,50 +130,50 @@ a Post from Moderation.
   are not "Moderation". Such edits and their intent must
   still be documented with a short note indicating who made the edit and why.
 
-### Collaborator Posts
+### Member Posts
 
-* Prior to Moderating any Post authored by a Collaborator, the author must be
+* Prior to Moderating any Post authored by a Member, the author must be
   given a reasonable opportunity to modify or remove the Post on their own.
 * If the author of the Post disagrees that Moderation is required, the matter
   can be escalated to the Moderation Team for resolution. In such cases, no
   Moderation action may be taken until a decision by the Moderation Team is
   made.
-* When Moderating any Post authored by another Collaborator, the moderating
-  Collaborator must:
+* When Moderating any Post authored by another Member, the moderating
+  Member must:
   * Explain the justification for Moderating the post,
   * Identify all changes made to the Post, and
   * Identify the steps previously taken to resolve the issue.
   * If the Moderation action included Blocking, an indication of whether the Block
     is temporary or indefinite is required, along with an issue posted to the
     moderation repository justifying the action.
-* Explanations of Moderation actions on Collaborator Posts must be provided in:
+* Explanations of Moderation actions on Member Posts must be provided in:
   * A new post within the original thread, or
   * A new issue within the private nodejs/moderation repository.
-* Any Collaborator habitually violating the Code of Conduct or this Moderation
+* Any Member habitually violating the Code of Conduct or this Moderation
   policy may be Blocked temporarily or, in extreme cases, Removed and Blocked
   indefinitely.
 
-### Non-Collaborator Posts
+### Non-Member Posts
 
-* Posts authored by non-Collaborators are always subject to immediate Moderation
-by any Collaborator if the content is intentionally disruptive or in violation
+* Posts authored by non-Members are always subject to immediate Moderation
+by any Member if the content is intentionally disruptive or in violation
 of the [Code of Conduct][].
-* When moderating non-Collaborator posts, the moderating Collaborator must:
+* When moderating non-Member posts, the moderating Member must:
   * Explain the justification for Moderating the post, and
   * Identify all changes made to the Post.
   * If the Moderation action included Blocking, an indication of whether the Block
     is temporary or indefinite is required, along with a note justifying the
     action.
-* If an explanation of a Moderation action for a non-Collaborator Post is
+* If an explanation of a Moderation action for a non-Member Post is
   provided, it must be provided in:
   * The original Post being modified (as replacement or appended content),
   * A new post within the original thread, or
   * A new issue within the private nodejs/moderation repository.
-* Moderation of Posts authored by non-Collaborators may result in those
-  non-Collaborators being Blocked temporarily or indefinitely from further
+* Moderation of Posts authored by non-Members may result in those
+  non-Members being Blocked temporarily or indefinitely from further
   participation in the Node.js GitHub organization.
 * If it is clear that there is no intention to collaborate in good faith,
-  it is possible to hide comments of non-Collaborators. In that case there is
+  it is possible to hide comments of non-Members. In that case there is
   an exception to the reporting requirement described above.
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by the TSC) are subject to immediate Blocking.
@@ -186,40 +186,40 @@ of the [Code of Conduct][].
   wasting our time. If you are not using one, please read and follow our
   contributing guidelines." Report the user to the moderation repository so they
   get blocked if they do it again.
-* Collaborators may use the Hide feature in the GitHub interface for off-topic
-  posts by non-Collaborators.
+* Members may use the Hide feature in the GitHub interface for off-topic
+  posts by non-Members.
 * Moderation Team members and TSC voting members can delete any issues or
   comments posted by accounts that have been deleted by GitHub. These accounts
   show up in the GitHub interface as user `ghost`. There is no need to
   screenshot or document these deletions.
 
-There are a few examples of moderating non-Collaborator posts:
+There are a few examples of moderating non-Member posts:
 
 Scenario 1:
- * A non-Collaborator posts a comment that indicates that they are a bot.
- * A collaborator sees the post and hides it.
+ * A non-Member posts a comment that indicates that they are a bot.
+ * A member sees the post and hides it.
  * No further action is necessary.
 
 Scenario 2:
- * A non-Collaborator posts a comment that is against the Code of Conduct.
- * A Collaborator sees the comment and asks the author to edit it.
+ * A non-Member posts a comment that is against the Code of Conduct.
+ * A Member sees the comment and asks the author to edit it.
  * The author refuses to edit their comment.
- * The Collaborator deletes the comment and posts an issue in the moderation
+ * The Member deletes the comment and posts an issue in the moderation
    repository explaining their actions.
 
 Scenario 3:
- * A non-Collaborator opens a pull request with comments indicating they are a
+ * A non-Member opens a pull request with comments indicating they are a
    bot.
- * A Collaborator sees that pull requests, closes it, deletes the comments
+ * A Member sees that pull requests, closes it, deletes the comments
    and posts an issue in the moderation repository explaining their actions.
  * A moderation team member sees the issue and decides to block the user from the
    organization.
 
 Scenario 4:
- * A non-Collaborator posts a comment on an old commit that is against the
+ * A non-Member posts a comment on an old commit that is against the
    Code of Conduct.
- * A Collaborator sees the comment, takes a screenshot, and deletes it.
- * The Collaborator posts an issue in the moderation repository explaining
+ * A Member sees the comment, takes a screenshot, and deletes it.
+ * The Member posts an issue in the moderation repository explaining
    their actions.
 
 ### Temporary Interaction Limits
@@ -228,7 +228,7 @@ The Moderation Team may, at their discretion, choose to enable [GitHub's
 Temporary Interaction Limits][] on any GitHub repository in the Node.js GitHub
 Organizations.
 
-Any Collaborator may request that the Moderation Team enable the Temporary
+Any Member may request that the Moderation Team enable the Temporary
 Interaction Limits by posting an issue to the moderation repository. If the
 Moderation Team chooses not to do so, then a comment explaining why that
 decision was made must be added to the moderation repository thread.
@@ -247,11 +247,11 @@ Team.
 
 The nodejs/moderation Repository is used to discuss the potentially sensitive
 details of any specific moderation issue. The repository is private but
-accessible to all Collaborators. The details of any issue discussed within the
+accessible to all Members. The details of any issue discussed within the
 nodejs/moderation repository are expected to remain confidential and are not to
 be discussed in any public forum or social media service.
 
-Any Collaborator found to be violating the privacy of the nodejs/moderation
+Any Member found to be violating the privacy of the nodejs/moderation
 repository by repeatedly sharing or discussing the details of nodejs/moderation
 issues in any public forum or social media service risks being permanently
 removed from the Node.js GitHub organization.
@@ -268,7 +268,7 @@ actions taken by the Moderation Team to the TSC.
 
 *Nomination*
 
-Moderation team members are Collaborators who self-nominate or are nominated by
+Moderation team members are Members who self-nominate or are nominated by
 the TSC. Team members must be approved by the TSC with annual
 recertification. If there are no objections after seven days, the nomination is automatically
 accepted. If there are objections to a specific nomination, then a TSC vote
@@ -370,8 +370,8 @@ any proposed change, a TSC vote in favor of the change is required.
 [Requesting Moderation]: #requesting-moderation
 [Consideration of Intent]: #consideration-of-intent
 [Guidelines and Requirements]: #guidelines-and-requirements
-[Collaborator Posts]: #collaborator-posts
-[Non-Collaborator Posts]: #non-collaborator-posts
+[Member Posts]: #member-posts
+[Non-Member Posts]: #non-member-posts
 [Temporary Interaction Limits]: #temporary-interaction-limits
 [Temporary and Indefinite Blocks]: #temporary-and-indefinite-blocks
 [Privacy of the nodejs/moderation Repository]: #privacy-of-the-nodejsmoderation-repository
