@@ -27,9 +27,9 @@ supported by the Admin team of the Slack organization.
 
 ## Terms
 
-* *Member* refers to any individual with configured triage role or higher
-  in any Node.js GitHub organization repository. See
-  [GitHub's Repository roles documentation][] for more information.
+* *Member* refers to any individual with Node.js GitHub Organizations membership,
+  or with configured triage role or higher in any Node.js GitHub organization
+  repository. See [GitHub's Repository roles documentation][] for more information.
 * *TSC* refers to the [Node.js Technical Steering Committee][].
 * *Post* refers to the content and titles of any issue, pull request, comment,
   discussion, or wiki page.
@@ -66,8 +66,8 @@ accomplished in one of four ways:
 * Via a new Post in the same thread as the Post being requested for Moderation,
 * Via a new Post in the private nodejs/moderation repository.
 
-Note that Members may Moderate non-Members Posts at any time without
-submitting an initial request (see: [Non-Member Posts][]).
+Note that Members with triage permissions may Moderate non-Members Posts at any
+time without submitting an initial request (see: [Non-Member Posts][]).
 
 Use of the [report@nodejs.org][] email address -- or private email to individual
 Moderation Team members -- is appropriate when the individual requesting the
