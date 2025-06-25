@@ -317,8 +317,6 @@ remove resigning team member from respective permissions and private access.
   **Jordan Harband** <<ljharb@gmail.com>> (he/him)
 * [othiym23](https://github.com/othiym23) -
   **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
-* [Trott](https://github.com/Trott) -
-  **Rich Trott** &lt;rtrott@gmail.com&gt;
 * [UlisesGascon](https://github.com/ulisesgascon) -
   **Ulises Gascón** <<ulisesgascongonzalez@gmail.com>> (he/him)
 
