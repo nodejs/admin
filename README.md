@@ -36,12 +36,6 @@ action requiring consensus and voting will abide by the TSC process for that.
 
 All voting members of the TSC.
 
-## Social Team
-
-The currently active members of the [Social Team](./social-team.md):
-
-- [@joesepi](https://github.com/joesepi) - **Joe Sepi**
-
 ## Node.js 1Password
 
 Thanks to 1Password's [open-source program](https://github.com/1Password/1password-teams-open-source),
