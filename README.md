@@ -54,6 +54,9 @@ Groups are created in 1Password with a 1:1 mapping of Node.js organization teams
 #### Current Groups
 
 - **Social Team:** For the [Social Team](#social-team) to contain official account credientials.
+- **Web Infra Team:** For the [Web Infra](https://github.com/nodejs/web-team) to contain sensitive infrastructure access.
+  - Should be only given to members of the Web Infra team.
+  - Contains key-infrastructure shared accounts such as Crowdin, Vercel.
 
 ## @nodejs-github-bot
 
