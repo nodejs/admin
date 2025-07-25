@@ -333,8 +333,8 @@ remove resigning team member from respective permissions and private access.
 
 ## Escalation of issues
 
-Any decisions done by the moderation team can be escalated to the
-[OpenJS Code of Conduct Team](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation).
+Any code of conduct report, and any decision made by the moderation team, can
+be escalated to the [OpenJS Code of Conduct Team](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation).
 
 ## Reports regarding TSC and Moderation team members
 
