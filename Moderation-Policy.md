@@ -334,18 +334,14 @@ remove resigning team member from respective permissions and private access.
 ## Escalation of issues
 
 Any code of conduct report, and any decision made by the moderation team, can
-be escalated to the [OpenJS Code of Conduct Team](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation).
-
-Upon request, any information regarding an escalated report requested by the OpenJS Code of Conduct team will be supplied to them by the moderation team
-after notifying all the parties involved and the TSC.
+be escalated to the OpenJS Code of Conduct Team
+following the [escalation process](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation).
 
 ## Appeal of issues
 
 Any code of conduct report, and any decision made by the moderation team, can
-be appealed to the [OpenJS Code of Conduct Team](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeal).
-
-Upon request, any information regarding an appeleaded report requested by the OpenJS Code of Conduct team will be supplied to them by the moderation team
-after notifying all the parties involved and the TSC.
+be appealed to the OpenJS Code of Conduct Team
+following the [appeal process](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals).
 
 ## Reports regarding TSC and Moderation team members
 
