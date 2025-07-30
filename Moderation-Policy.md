@@ -331,23 +331,29 @@ remove resigning team member from respective permissions and private access.
 * [ljharb](https://github.com/ljharb) -
   **Jordan Harband** &lt;ljharb@gmail.com&gt;
 
-## Escalation of Issues
+## Escalation of issues
 
-Moderation issue disputes not involving a TSC voting member or Moderation Team
-member may be escalated to the TSC for review by tagging the
-original issue, pull request, or associated nodejs/moderation repository
-tracking issue with the `moderation-review` label. Any such Moderation action
-may be overturned through a TSC vote.
+Any code of conduct report, and any decision made by the moderation team, can
+be escalated to the OpenJS Code of Conduct Team
+following the [escalation process](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#escalation).
+
+## Appeal of issues
+
+Any code of conduct report, and any decision made by the moderation team, can
+be appealed to the OpenJS Code of Conduct Team
+following the [appeal process](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeals).
+
+## Reports regarding TSC and Moderation team members
+
+Moderation disputes involving TSC or Moderation Team members,
+including questions of whether a TSC or Moderation Team member has
+violated the Code of Conduct, are to be handled by the other TSC members.
+This process will be mediated by a volunteer from the moderation team.
 
 TSC or Moderation Team members directly involved in a Moderation
 issue (as either the Requester or author of the Post in question) are
 required to recuse themselves from any decisions required to resolve the
 issue.
-
-Moderation disputes involving TSC or Moderation Team members,
-including questions of whether a TSC or Moderation Team member has
-violated the Code of Conduct, *shall* be referred to an Independent Mediator
-selected by the OpenJS Foundation.
 
 ## Modifications to This Policy
 
