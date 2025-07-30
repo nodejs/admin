@@ -339,6 +339,14 @@ be escalated to the [OpenJS Code of Conduct Team](https://github.com/openjs-foun
 Upon request, any information regarding an escalated report requested by the OpenJS Code of Conduct team will be supplied to them by the moderation team
 after notifying all the parties involved and the TSC.
 
+## Appeal of issues
+
+Any code of conduct report, and any decision made by the moderation team, can
+be appealed to the [OpenJS Code of Conduct Team](https://github.com/openjs-foundation/cross-project-council/blob/main/conduct/COC_POLICY.md#appeal).
+
+Upon request, any information regarding an appeleaded report requested by the OpenJS Code of Conduct team will be supplied to them by the moderation team
+after notifying all the parties involved and the TSC.
+
 ## Reports regarding TSC and Moderation team members
 
 Moderation disputes involving TSC or Moderation Team members,
