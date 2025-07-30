@@ -51,6 +51,7 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/node-gyp`][]                 | `GH_USER_TOKEN`               | 2026-01-28      | <https://github.com/nodejs/admin/pull/935> |
 [`nodejs-private/security-release`][] | `SECURITY_WG_GITHUB_TOKEN`    | 2026-02-06      | <https://github.com/nodejs/admin/pull/950> |
 [`nodejs/require-in-the-middle`][]    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-02-07      | <https://github.com/nodejs/admin/pull/951> |
+[`pkgjs/wiby`][]                      | `WIBY_TOKEN`                  | 2026-07-11      | TODO                                       |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs-private/security-release`]: https://github.com/nodejs-private/security-release
@@ -60,3 +61,4 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/node-gyp`]: https://github.com/nodejs/node-gyp
 [`nodejs/require-in-the-middle`]: https://github.com/nodejs/require-in-the-middle
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
+[`pkgjs/wiby`]: https://github.com/pkgjs/wiby
