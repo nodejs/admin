@@ -44,7 +44,7 @@ permission scope changes. The PR should describe the permission scopes requested
 
 Repo                                  | Secret name                   | Expiration date | Pull Request                               |
 ---                                   | ---                           | ---             | ---                                        |
-[`nodejs/import-in-the-middle`][]     | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-07-23      | <https://github.com/nodejs/admin/pull/902> |
+[`nodejs/import-in-the-middle`][]     | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-08-06      | <https://github.com/nodejs/admin/pull/902> |
 [`nodejs/node-core-utils`][]          | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-09-01      | <https://github.com/nodejs/admin/pull/915> |
 [`nodejs/wasm-builder`][]             | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-10-01      | <https://github.com/nodejs/admin/pull/926> |
 [`nodejs/amaro`][]                    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2025-12-11      | <https://github.com/nodejs/admin/pull/933> |
