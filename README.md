@@ -29,8 +29,8 @@ action requiring consensus and voting will abide by the TSC process for that.
 
 ### Contacts for assistance
 
-- [@mcollina](https://github.com/mcollina) - **Matteo Collina**, TSC Chair
 - [@jasnell](https://github.com/jasnell) -  **James M Snell**, TSC Vice Chair
+- [@mcollina](https://github.com/mcollina) - **Matteo Collina**, TSC Chair
 - [@ruyadorno](https://github.com/ruyadorno) - **Ruy Adorno**, TSC Vice Chair
 
 ### Admin members
