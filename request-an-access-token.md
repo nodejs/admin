@@ -48,9 +48,9 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/node-core-utils`][]          | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-09-18      | <https://github.com/nodejs/admin/pull/915>  |
 [`nodejs/wasm-builder`][]             | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-14      | <https://github.com/nodejs/admin/pull/926>  |
 [`nodejs/amaro`][]                    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-14      | <https://github.com/nodejs/admin/pull/933>  |
-[`nodejs/node-gyp`][]                 | `GH_USER_TOKEN`               | 2026-01-28      | <https://github.com/nodejs/admin/pull/935>  |
-[`nodejs-private/security-release`][] | `SECURITY_WG_GITHUB_TOKEN`    | 2026-02-06      | <https://github.com/nodejs/admin/pull/950>  |
-[`nodejs/require-in-the-middle`][]    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-02-07      | <https://github.com/nodejs/admin/pull/951>  |
+[`nodejs/node-gyp`][]                 | `GH_USER_TOKEN`               | 2027-01-30      | <https://github.com/nodejs/admin/pull/935>  |
+[`nodejs-private/security-release`][] | `SECURITY_WG_GITHUB_TOKEN`    | 2027-01-30      | <https://github.com/nodejs/admin/pull/950>  |
+[`nodejs/require-in-the-middle`][]    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-30      | <https://github.com/nodejs/admin/pull/951>  |
 [`nodejs/orchestrion-js`][]           | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-11-08      | <https://github.com/nodejs/admin/pull/1023> |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
