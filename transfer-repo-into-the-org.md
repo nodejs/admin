@@ -37,6 +37,8 @@ to request moving the repository into the organization. The issue should include
 
 - The owner and the name of the repository, and a link to it.
 - What the repository is for, why it should be transferred into the organization.
+- What team would be in charge on maintaining it – if need be, include a request
+  for creating an ad-hoc team.
 - Mention of `@nodejs/tsc` so the Technical Steering Committee members can be 
   notified about the request and weigh in.
 
