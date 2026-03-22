@@ -78,6 +78,7 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 ### Calendar Maintainers
 
 <!-- sorted by GitHub handle -->
+- [@avivkeller](https://github.com/avivkeller) - **Aviv Keller**
 - [@gireeshpunathil](https://github.com/gireeshpunathil) - **Gireesh Punathil**
 - [@joesepi](https://github.com/joesepi) - **Joe Sepi**
 - [@joyeecheung](https://github.com/joyeecheung) - **Joyee Cheung**
