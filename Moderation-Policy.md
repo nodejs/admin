@@ -317,6 +317,8 @@ remove resigning team member from respective permissions and private access.
   **Jordan Harband** <<ljharb@gmail.com>> (he/him)
 * [othiym23](https://github.com/othiym23) -
   **Forrest L Norvell** &lt;othiym23@gmail.com&gt;
+* [Ethan-Arrowood](https://github.com/Ethan-Arrowood) -
+  **Ethan Arrowood** <<ethan@arrowood.dev>> (he/him)
 
 ### Admins for Node.js Slack community
 
