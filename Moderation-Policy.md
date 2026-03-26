@@ -311,6 +311,8 @@ remove resigning team member from respective permissions and private access.
   **Benjamin Gruenbaum** &lt;benjamingr@gmail.com&gt;
 * [bmuenzenmeyer](https://github.com/bmuenzenmeyer) -
   **Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
+* [Ethan-Arrowood](https://github.com/Ethan-Arrowood) -
+  **Ethan Arrowood** <<ethan@arrowood.dev>> (he/him)  
 * [JohnTitor](https://github.com/JohnTitor) -
   **Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
 * [ljharb](https://github.com/ljharb) -
