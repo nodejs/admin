@@ -179,9 +179,8 @@ of the [Code of Conduct][].
   by the TSC) are subject to immediate Blocking.
 * Issues, pull requests, discussions, and comments that are spam (job posting,
   service advertising, etc.) are subject to immediate moderation.
-* Issues, pull requests, discussions, and comments that are believed to be
-  LLM-generated (e.g a PR coming from a new contributor changing a single file
-  without clear motivation) should be closed with a comment such as "It seems
+* Issues, pull requests, discussions, and comments in violation of the [AI use
+  policy and guidelines]() should be closed with a comment such as "It seems
   you are using a LLM, please stop, this is not bringing any value and is
   wasting our time. If you are not using one, please read and follow our
   contributing guidelines." Report the user to the moderation repository so they
@@ -386,3 +385,4 @@ any proposed change, a TSC vote in favor of the change is required.
 [report@nodejs.org]: mailto:report@nodejs.org
 [block other individuals from their personal GitHub accounts]: https://help.github.com/en/articles/blocking-a-user-from-your-personal-account
 [GitHub Organizations]: https://github.com/nodejs/admin/blob/master/GITHUB_ORG_MANAGEMENT_POLICY.md
+[AI use policy and guidelines]: https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md 
