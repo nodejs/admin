@@ -52,6 +52,7 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs-private/security-release`][] | `SECURITY_WG_GITHUB_TOKEN`    | 2027-01-30      | <https://github.com/nodejs/admin/pull/950>  |
 [`nodejs/require-in-the-middle`][]    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-30      | <https://github.com/nodejs/admin/pull/951>  |
 [`nodejs/orchestrion-js`][]           | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-11-08      | <https://github.com/nodejs/admin/pull/1023> |
+[`nodejs/admin`][]                    | `GH_USER_TOKEN`               |                 | <https://github.com/nodejs/admin/pull/1061> |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs-private/security-release`]: https://github.com/nodejs-private/security-release
@@ -63,3 +64,4 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/require-in-the-middle`]: https://github.com/nodejs/require-in-the-middle
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
 [`nodejs/doc-kit`]: https://github.com/nodejs/doc-kit
+[`nodejs/admin`]: https://github.com/nodejs/admin
