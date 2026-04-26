@@ -64,4 +64,4 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/require-in-the-middle`]: https://github.com/nodejs/require-in-the-middle
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
 [`nodejs/doc-kit`]: https://github.com/nodejs/doc-kit
-[`nodejs/admin`][]: https://github.com/nodejs/admin
+[`nodejs/admin`]: https://github.com/nodejs/admin
