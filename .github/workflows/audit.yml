@@ -1,0 +1,19 @@
+name: Audit organization
+on:
+  schedule:
+    - cron: '0 9 * * 1' # every Monday 09:00 UTC
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - uses: avivkeller/organization-auditor@1d9dadd60b64170295a07e6caee452d71999e641 # v1.0.0
+        with:
+          org: nodejs
+          token: ${{ secrets.GH_USER_TOKEN }}
+          ignore-repositories: nodejs/moderation,nodejs/ambassadors,nodejs/collaborators-public-votes
+          ignore-teams: collaborators,tsc,package-maintainence,bots,ambassadors,moderation,marketing
+          interaction-types: commit,pr,pr-review,pr-comment,issue,issue-comment
