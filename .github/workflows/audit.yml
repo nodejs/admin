@@ -10,7 +10,7 @@ jobs:
     permissions:
       issues: write
     steps:
-      - uses: avivkeller/organization-auditor@1d9dadd60b64170295a07e6caee452d71999e641 # v1.0.0
+      - uses: avivkeller/organization-auditor@3e155998973c09aa5fa7e88a72c8558b2c3665b0 # v1.1.0
         with:
           org: nodejs
           token: ${{ secrets.GH_USER_TOKEN }}
