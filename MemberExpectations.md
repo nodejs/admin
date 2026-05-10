@@ -1,13 +1,7 @@
 All participants in the Node.js project must follow the
 [Code of Conduct](CODE_OF_CONDUCT.md). There are further expectations for
-members of leadership teams ([TSC](https://github.com/nodejs/TSC) and
-[CommComm](https://github.com/nodejs/community-committee)).
-
-It is understood that members will have individual opinions and will express
-their individual opinions during discussions within the organization. All
-contributors are expected to be respectful of these different viewpoints,
-and to work collaboratively with one another in a manner that constructively
-elevates all contributors.
+members of the [TSC](https://github.com/nodejs/TSC) and
+[Moderation Team](https://github.com/nodejs/admin/blob/main/Moderation-Policy.md#moderation-team).
 
 When decisions are made within the established guidelines and policies of the
 project, those in leadership roles have a responsibility to uphold and respect
@@ -17,8 +11,10 @@ unwilling or unable to do so, then they should resign their leadership position.
 This does not mean that decisions cannot be revisited and discussed within the
 team at a later time.
 
-Members of our leadership groups must also conduct themselves in a
-professional and respectful manner. Some general guidelines include:
+Everyone participating in the Node.js project must conduct themselves in
+a professional and respectful manner in accordance with our
+[Code of Conduct](CODE_OF_CONDUCT.md). In addition, some general guidelines for
+leadership group members include:
 
 - Remediate quickly when you realize you made a mistake. Leaders are human,
   and they will make mistakes. However they should act swiftly to
@@ -53,5 +49,3 @@ If it appears that any member of the project leadership is acting outside
 of the expectations set above please refer to our
 [moderation](Moderation-Policy.md)
 policy which outlines the process of making an official complaint.
-
-This policy, and changes to it, are not retroactive.

@@ -4,15 +4,22 @@
 
 Ideally, the repository should have the following documents in place:
 
-- `CODE_OF_CONDUCT.md`: it can be a reference to
-  [the Node.js Code of Conduct][coc].
-- `CONTRIBUTING.md`: if there isn't one already, [the contributing guide][]
-  of Node.js core could be a good example. Consider including the Developer's
-  Certificate of Origin section in the document to avoid potential copyright
-  conflicts.
 - `LICENSE`, or other kind of documents that describe the license of
   the project.
 - `README.md`
+
+Ideally, it would not have the following documents to inherit them from
+[nodejs/.github](https://github.com/nodejs/.github):
+
+- `CODE_OF_CONDUCT.md`.
+- `CONTRIBUTING.md`: if there is one already, consider including the Developer's
+  Certificate of Origin section in the document to avoid potential copyright
+  conflicts.
+
+Note that if the above documents are not checked out on the repository, they
+will appear on the GitHub web UI but not on local clones of the repository. The
+upside is that if the upstream document updates, no action needs to be taken for
+the downstream repository to stay up-to-date.
 
 It's recommended to set the default branch to `main` before transferring the
 repository to the org, assuming that's possible without breaking existing
@@ -30,9 +37,10 @@ to request moving the repository into the organization. The issue should include
 
 - The owner and the name of the repository, and a link to it.
 - What the repository is for, why it should be transferred into the organization.
-- Mentions of `@nodejs/community-committee` and `@nodejs/tsc` so the Community
-  Committee and the Technical Steering Committee members can be notified about
-  the request and weigh in.
+- What team would be in charge on maintaining it – if need be, include a request
+  for creating an ad-hoc team.
+- Mention of `@nodejs/tsc` so the Technical Steering Committee members can be 
+  notified about the request and weigh in.
 
 See the [Node.js GitHub Organization Management Policy][] on how the request
 is approved.
