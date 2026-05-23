@@ -42,16 +42,23 @@ replaced. This should be no longer than 1 year.
 The "pull request" is the PR that initially requested the token, or requested
 permission scope changes. The PR should describe the permission scopes requested.
 
-Repo                                  | Secret name                   | Expiration date | Pull Request                                |
----                                   | ---                           | ---             | ---                                         |
-[`nodejs/import-in-the-middle`][]     | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-08-06      | <https://github.com/nodejs/admin/pull/902>  |
-[`nodejs/node-core-utils`][]          | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-09-18      | <https://github.com/nodejs/admin/pull/915>  |
-[`nodejs/wasm-builder`][]             | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-14      | <https://github.com/nodejs/admin/pull/926>  |
-[`nodejs/amaro`][]                    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-14      | <https://github.com/nodejs/admin/pull/933>  |
-[`nodejs/node-gyp`][]                 | `GH_USER_TOKEN`               | 2027-01-30      | <https://github.com/nodejs/admin/pull/935>  |
-[`nodejs-private/security-release`][] | `SECURITY_WG_GITHUB_TOKEN`    | 2027-01-30      | <https://github.com/nodejs/admin/pull/950>  |
-[`nodejs/require-in-the-middle`][]    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-30      | <https://github.com/nodejs/admin/pull/951>  |
-[`nodejs/orchestrion-js`][]           | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-11-08      | <https://github.com/nodejs/admin/pull/1023> |
+Repo                                   | Secret name                   | Expiration date | Pull Request                                |
+---                                    | ---                           | ---             | ---                                         |
+[`nodejs/import-in-the-middle`][]      | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-08-06      | <https://github.com/nodejs/admin/pull/902>  |
+[`nodejs/node-core-utils`][]           | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-09-18      | <https://github.com/nodejs/admin/pull/915>  |
+[`nodejs/wasm-builder`][]              | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-14      | <https://github.com/nodejs/admin/pull/926>  |
+[`nodejs/amaro`][]                     | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-14      | <https://github.com/nodejs/admin/pull/933>  |
+[`nodejs/node-gyp`][]                  | `GH_USER_TOKEN`               | 2027-01-30      | <https://github.com/nodejs/admin/pull/935>  |
+[`nodejs-private/security-release`][]  | `SECURITY_WG_GITHUB_TOKEN`    | 2027-01-30      | <https://github.com/nodejs/admin/pull/950>  |
+[`nodejs/require-in-the-middle`][]     | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-30      | <https://github.com/nodejs/admin/pull/951>  |
+[`nodejs/orchestrion-js`][]            | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-11-08      | <https://github.com/nodejs/admin/pull/1023> |
+[`nodejs/nodejs.org`][]                | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
+[`nodejs/doc-kit`][]                   | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
+[`nodejs/learn`][]                     | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
+[`nodejs/release-cloudflare-worker`][] | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
+[`nodejs/discord-status-worker`][]     | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
+[`nodejs/website-cloudflare-worker`][] | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
+[`nodejs/web-team`][]                  | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs-private/security-release`]: https://github.com/nodejs-private/security-release
@@ -62,4 +69,10 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/orchestrion-js`]: https://github.com/nodejs/orchestrion-js
 [`nodejs/require-in-the-middle`]: https://github.com/nodejs/require-in-the-middle
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
+[`nodejs/nodejs.org`]: https://github.com/nodejs/nodejs.org
 [`nodejs/doc-kit`]: https://github.com/nodejs/doc-kit
+[`nodejs/learn`]: https://github.com/nodejs/learn
+[`nodejs/release-cloudflare-worker`]: https://github.com/nodejs/release-cloudflare-worker
+[`nodejs/discord-status-worker`]: https://github.com/nodejs/discord-status-worker
+[`nodejs/website-cloudflare-worker`]: https://github.com/nodejs/website-cloudflare-worker
+[`nodejs/web-team`]: https://github.com/nodejs/web-team
