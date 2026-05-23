@@ -52,13 +52,13 @@ Repo                                   | Secret name                   | Expirat
 [`nodejs-private/security-release`][]  | `SECURITY_WG_GITHUB_TOKEN`    | 2027-01-30      | <https://github.com/nodejs/admin/pull/950>  |
 [`nodejs/require-in-the-middle`][]     | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-30      | <https://github.com/nodejs/admin/pull/951>  |
 [`nodejs/orchestrion-js`][]            | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-11-08      | <https://github.com/nodejs/admin/pull/1023> |
-[`nodejs/nodejs.org`][]                | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
-[`nodejs/doc-kit`][]                   | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
-[`nodejs/learn`][]                     | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
-[`nodejs/release-cloudflare-worker`][] | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
-[`nodejs/discord-status-worker`][]     | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
-[`nodejs/website-cloudflare-worker`][] | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
-[`nodejs/web-team`][]                  | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/xxxx> |
+[`nodejs/nodejs.org`][]                | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
+[`nodejs/doc-kit`][]                   | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
+[`nodejs/learn`][]                     | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
+[`nodejs/release-cloudflare-worker`][] | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
+[`nodejs/discord-status-worker`][]     | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
+[`nodejs/website-cloudflare-worker`][] | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
+[`nodejs/web-team`][]                  | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs-private/security-release`]: https://github.com/nodejs-private/security-release
