@@ -180,7 +180,7 @@ of the [Code of Conduct][].
 * Issues, pull requests, discussions, and comments that are spam (job posting,
   service advertising, etc.) are subject to immediate moderation.
 * Issues, pull requests, discussions, and comments in violation of the [AI use
-  policy and guidelines]() should be closed with a comment such as "It appears you are
+  policy and guidelines][] should be closed with a comment such as "It appears you are
   violating our AI use policy, please stop. This is not bringing any value and is
   wasting our time. If you are not using one, please read and follow our
   contributing guidelines." Report the user to the moderation repository so they
