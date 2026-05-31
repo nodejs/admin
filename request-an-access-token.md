@@ -52,6 +52,7 @@ Repo                                   | Secret name                   | Expirat
 [`nodejs-private/security-release`][]  | `SECURITY_WG_GITHUB_TOKEN`    | 2027-01-30      | <https://github.com/nodejs/admin/pull/950>  |
 [`nodejs/require-in-the-middle`][]     | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-30      | <https://github.com/nodejs/admin/pull/951>  |
 [`nodejs/orchestrion-js`][]            | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-11-08      | <https://github.com/nodejs/admin/pull/1023> |
+[`nodejs/userland-migrations`][]       | `LEARN_REPO_TOKEN`            | 2027-05-24      | <https://github.com/nodejs/admin/pull/1055> |
 [`nodejs/nodejs.org`][]                | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
 [`nodejs/doc-kit`][]                   | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
 [`nodejs/learn`][]                     | `AUTO_MERGE_GITHUB_TOKEN`     | 20xx-xx-xx      | <https://github.com/nodejs/admin/pull/1066> |
@@ -69,6 +70,7 @@ Repo                                   | Secret name                   | Expirat
 [`nodejs/orchestrion-js`]: https://github.com/nodejs/orchestrion-js
 [`nodejs/require-in-the-middle`]: https://github.com/nodejs/require-in-the-middle
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
+[`nodejs/userland-migrations`]: https://github.com/nodejs/userland-migrations
 [`nodejs/nodejs.org`]: https://github.com/nodejs/nodejs.org
 [`nodejs/doc-kit`]: https://github.com/nodejs/doc-kit
 [`nodejs/learn`]: https://github.com/nodejs/learn
