@@ -50,7 +50,8 @@ is approved.
 When the request is approved, the owner of the repository can start transferring
 the repository into the Node.js GitHub organization. The person can be made a
 member of the Node.js GitHub organization so they have the necessary permissions
-to complete the transfer. A TSC member will need to approve the bypass request for the
+to complete the transfer. A TSC member will need to approve the
+[bypass request](https://github.com/organizations/nodejs/settings/rules/bypass_requests) for the
 [Organisation Repository Policy](https://github.com/organizations/nodejs/settings/policies/repositories).
 
 See [GitHub's documentation on transferring repos][] on how to perform the
