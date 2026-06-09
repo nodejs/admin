@@ -47,11 +47,11 @@ is approved.
 
 ## Step 3. Transfer the repository
 
-When the request is approved, the owner of the repository can be added to the allow list of the
-[Organisation Repository Policy](https://github.com/organizations/nodejs/settings/policies/repositories)
-so they can start transferring the repository into the Node.js GitHub organization. The person can
-be made a member of the Node.js GitHub organization so they have the necessary permissions
-to complete the transfer. After the transfer is complete, the allow list should be emptied.
+When the request is approved, the owner of the repository can start transferring
+the repository into the Node.js GitHub organization. The person can be made a
+member of the Node.js GitHub organization so they have the necessary permissions
+to complete the transfer. A TSC member will need to approve the bypass request for the
+[Organisation Repository Policy](https://github.com/organizations/nodejs/settings/policies/repositories).
 
 See [GitHub's documentation on transferring repos][] on how to perform the
 necessary actions.
