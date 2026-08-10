@@ -53,6 +53,7 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/require-in-the-middle`][]    | `RELEASE_PLEASE_GITHUB_TOKEN` | 2027-01-30      | <https://github.com/nodejs/admin/pull/951>  |
 [`nodejs/orchestrion-js`][]           | `RELEASE_PLEASE_GITHUB_TOKEN` | 2026-11-08      | <https://github.com/nodejs/admin/pull/1023> |
 [`nodejs/userland-migrations`][]      | `LEARN_REPO_TOKEN`            | 2027-05-24      | <https://github.com/nodejs/admin/pull/1055> |
+[`nodejs/undici`][]                   | `UNDICI_WEBSITE_TOKEN`        | 2027-08-11      | <https://github.com/nodejs/admin/pull/1072> |
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
 [`nodejs-private/security-release`]: https://github.com/nodejs-private/security-release
@@ -65,3 +66,4 @@ Repo                                  | Secret name                   | Expirati
 [`nodejs/wasm-builder`]: https://github.com/nodejs/wasm-builder
 [`nodejs/doc-kit`]: https://github.com/nodejs/doc-kit
 [`nodejs/userland-migrations`]: https://github.com/nodejs/userland-migrations
+[`nodejs/undici`]: https://github.com/nodejs/undici
