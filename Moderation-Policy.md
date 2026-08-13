@@ -260,7 +260,7 @@ removed from the Node.js GitHub organization.
 The Node.js Moderation Team is tasked with enforcement of this policy.
 
 Moderation team members have the same expectations as other leadership groups
-as outlined [here](https://github.com/nodejs/admin/blob/master/MemberExpectations.md).
+as outlined [here](https://github.com/nodejs/admin/blob/main/MemberExpectations.md).
 
 At least once per month, the Moderation Team must provide a report of all Moderation
 actions taken by the Moderation Team to the TSC.
@@ -311,7 +311,7 @@ remove resigning team member from respective permissions and private access.
 * [bmuenzenmeyer](https://github.com/bmuenzenmeyer) -
   **Brian Muenzenmeyer** <<brian.muenzenmeyer@gmail.com>> (he/him)
 * [Ethan-Arrowood](https://github.com/Ethan-Arrowood) -
-  **Ethan Arrowood** <<ethan@arrowood.dev>> (he/him)  
+  **Ethan Arrowood** <<ethan@arrowood.dev>> (he/him)
 * [JohnTitor](https://github.com/JohnTitor) -
   **Yuki Okushi** &lt;huyuumi.dev@gmail.com&gt;
 * [ljharb](https://github.com/ljharb) -
@@ -363,7 +363,7 @@ When modifications are proposed, if there are no objections after
 72 hours, the modifications are accepted. If there any objections to
 any proposed change, a TSC vote in favor of the change is required.
 
-[Code of Conduct]: https://github.com/nodejs/admin/blob/master/CODE_OF_CONDUCT.md
+[Code of Conduct]: https://github.com/nodejs/admin/blob/main/CODE_OF_CONDUCT.md
 [Node.js Technical Steering Committee]: https://github.com/nodejs/node#tsc-technical-steering-committee
 [GitHub's Repository roles documentation]: https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/repository-roles-for-an-organization#repository-roles-for-organizations
 [GitHub's Temporary Interaction Limits]: https://github.com/blog/2370-introducing-temporary-interaction-limits
@@ -384,5 +384,5 @@ any proposed change, a TSC vote in favor of the change is required.
 [Modifications to This Policy]: #modifications-to-this-policy
 [report@nodejs.org]: mailto:report@nodejs.org
 [block other individuals from their personal GitHub accounts]: https://help.github.com/en/articles/blocking-a-user-from-your-personal-account
-[GitHub Organizations]: https://github.com/nodejs/admin/blob/master/GITHUB_ORG_MANAGEMENT_POLICY.md
-[AI use policy and guidelines]: https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md 
+[GitHub Organizations]: https://github.com/nodejs/admin/blob/main/GITHUB_ORG_MANAGEMENT_POLICY.md
+[AI use policy and guidelines]: https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md
