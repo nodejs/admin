@@ -177,6 +177,8 @@ of the [Code of Conduct][].
   an exception to the reporting requirement described above.
 * Accounts that are reasonably believed to be bots (other than bots authorized
   by the TSC) are subject to immediate Blocking.
+* Users who open PRs or issues faster than they can be reviewed or triaged
+  (e.g. >3 per day) are subject to immediate moderation.
 * Issues, pull requests, discussions, and comments that are spam (job posting,
   service advertising, etc.) are subject to immediate moderation.
 * Issues, pull requests, discussions, and comments in violation of the [AI use
