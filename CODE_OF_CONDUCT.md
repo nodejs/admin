@@ -51,6 +51,14 @@ The [Node.js Moderation Team][] takes reports of violations seriously and will m
 
 All members of the Moderation Team are obligated to respect the privacy and security of the harmed individuals and the reporter(s) of any incident.
 
+### Confidentiality
+
+Information shared with the [Node.js Moderation Team][] as part of a report or an investigation is exempt from the “violating confidentiality” restricted behavior described above. Sharing a private communication with the Moderation Team in order to report a possible violation is never itself a violation of this Code of Conduct.
+
+For the purposes of that restricted behavior, “personal or private information” includes both information about a person — such as their legal name, contact details, employer, or location — and statements they made in a private setting, such as a direct message or a closed channel.
+
+Describing someone’s own conduct toward you is not, on its own, a disclosure of their personal information. Republishing a private communication in order to advance an argument, apply social pressure, or enlist a third party’s stated view without their agreement is.
+
 ## Addressing and Repairing Harm
 
 If an investigation by the [Node.js Moderation Team][] finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
