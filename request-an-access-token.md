@@ -27,14 +27,30 @@ steps as:
 Fine-grained tokens created with access to https://github.com/nodejs resources will
 be audited at https://github.com/organizations/nodejs/settings/personal-access-tokens/active.
 
+## When to use a nodejs-github-bot token
+
+By default, GitHub built-in token for an action workflow `secrets.GITHUB_TOKEN` does not
+trigger recursive workflow runs. If a workflow requires an exceptional case to trigger
+recursive workflow runs, or cross-repository workflows, file a PR as documented above.
+
+GitHub also introduced `approval-required` state, which allows manual approving workflow
+to run on automated PRs. It is recommended to use GitHub action permission control to
+improve workflow securities.
+
+The commonly known cases are as follows:
+
+- Cross repo deployment: request a nodejs-github-bot token.
+- Release Please: use `approval-required` state instead.
+- Updating a dependency: use `approval-required` state instead.
+
 ## Registry
 
 The "repo" is a string of the GitHub `<owner>/<repo>`. Generally, the token should
 only be created for repo in the https://github.com/nodejs organization.
 
 The "secret name" is a string that the secret can be referenced in the GitHub Action
-scripts. Like a secret name of `RELEASE_PLEASE_TOKEN` can be accessed from the script
-as `${{ secrets.RELEASE_PLEASE_TOKEN }}`.
+scripts. Like a secret name of `DEPLOY_TOKEN` can be accessed from the script
+as `${{ secrets.DEPLOY_TOKEN }}`.
 
 The "expiration date" is the date before which the token should be renewed and
 replaced. This should be no longer than 1 year.
