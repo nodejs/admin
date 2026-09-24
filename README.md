@@ -86,5 +86,6 @@ This list should be reviewed and pruned annually (at minimum). The calendar has 
 - [@mhdawson](https://github.com/mhdawson) - **Michael Dawson**
 - [@RafaelGSS](https://github.com/RafaelGSS) - **Rafael Gonzaga**
 - [@ruyadorno](https://github.com/ruyadorno) - **Ruy Adorno**
+- [@sxa](https://github.com/sxa) - **Stewart Addison**
 
 [`@nodejs-github-bot`]: https://github.com/nodejs-github-bot
